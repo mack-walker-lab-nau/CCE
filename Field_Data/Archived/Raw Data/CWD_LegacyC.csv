@@ -1,0 +1,1370 @@
+﻿date,fire_scar,site,plot,cwd_species,diameter,decay_class,combustion
+7/18/2021,Aggie,89,A,NA,NA,NA,NA
+7/18/2021,Aggie,89,B,NA,NA,NA,NA
+7/18/2021,Aggie,89,C,NA,NA,NA,NA
+7/17/2021,Aggie,93,A,NA,NA,NA,NA
+7/17/2021,Aggie,93,B,NA,NA,NA,NA
+7/17/2021,Aggie,93,C,NA,NA,NA,NA
+7/17/2021,Aggie,94,A,NA,NA,NA,NA
+7/17/2021,Aggie,94,B,NA,NA,NA,NA
+7/17/2021,Aggie,94,C,NA,NA,NA,NA
+7/18/2021,Aggie,99,A,NA,NA,NA,NA
+7/18/2021,Aggie,99,B,black spruce,7.6,hard,75
+7/18/2021,Aggie,99,C,NA,NA,NA,NA
+7/18/2021,Aggie,103,A,NA,NA,NA,NA
+7/18/2021,Aggie,103,B,NA,NA,NA,NA
+7/18/2021,Aggie,103,C,NA,NA,NA,NA
+7/18/2021,Aggie,109,A,NA,NA,NA,NA
+7/18/2021,Aggie,109,B,NA,NA,NA,NA
+7/18/2021,Aggie,109,C,NA,NA,NA,NA
+7/18/2021,Aggie,110,A,black spruce,5.3,crumbly,75
+7/18/2021,Aggie,110,B,NA,NA,NA,NA
+7/18/2021,Aggie,110,C,NA,NA,NA,NA
+7/17/2021,Aggie,111,A,NA,NA,NA,NA
+7/17/2021,Aggie,111,B,unknown,6.4,hard,75
+7/17/2021,Aggie,111,C,unknown,6.3,crumbly,75
+7/19/2022,BearFish,6846,A,NA,NA,NA,NA
+7/19/2022,BearFish,6846,B,NA,NA,NA,NA
+7/19/2022,BearFish,6846,C,NA,NA,NA,NA
+7/19/2022,BearFish,6887,A,NA,NA,NA,NA
+7/19/2022,BearFish,6887,B,NA,NA,NA,NA
+7/19/2022,BearFish,6887,C,NA,NA,NA,NA
+7/19/2022,BearFish,68274,A,NA,NA,NA,NA
+7/19/2022,BearFish,68274,B,unknown conifer,7.2,hard,75
+7/19/2022,BearFish,68274,C,NA,NA,NA,NA
+7/19/2022,BearFish,68303,A,NA,NA,NA,NA
+7/19/2022,BearFish,68303,B,NA,NA,NA,NA
+7/19/2022,BearFish,68303,C,NA,NA,NA,NA
+7/19/2022,BearFish,68469,A,NA,NA,NA,NA
+7/19/2022,BearFish,68469,B,NA,NA,NA,NA
+7/19/2022,BearFish,68469,C,NA,NA,NA,NA
+7/20/2022,BigTractor,39,A,unknown conifer,7.5,hard,75
+7/20/2022,BigTractor,39,A,unknown conifer,10.8,hard,75
+7/20/2022,BigTractor,39,B,unknown conifer,9.8,hard,75
+7/20/2022,BigTractor,39,C,unknown conifer,7.4,hard,25
+7/20/2022,BigTractor,39,C,unknown conifer,5.4,hard,75
+7/20/2022,BigTractor,101,A,white spruce,10.6,hard,75
+7/20/2022,BigTractor,101,A,white spruce,14.5,hard,75
+7/20/2022,BigTractor,101,A,white spruce,9.4,hard,75
+7/20/2022,BigTractor,101,A,white spruce,11.2,hard,75
+7/20/2022,BigTractor,101,A,white spruce,10.6,crumbly,75
+7/20/2022,BigTractor,101,A,white spruce,8.9,crumbly,75
+7/20/2022,BigTractor,101,A,white spruce,6,hard,75
+7/20/2022,BigTractor,101,B,white spruce,6.2,crumbly,75
+7/20/2022,BigTractor,101,B,white spruce,11.8,hard,50
+7/20/2022,BigTractor,101,B,white spruce,9.8,hard,75
+7/20/2022,BigTractor,101,B,white spruce,6.4,hard,75
+7/20/2022,BigTractor,101,B,white spruce,5.5,hard,75
+7/20/2022,BigTractor,101,B,white spruce,6.1,hard,75
+7/20/2022,BigTractor,101,C,white spruce,7.5,crumbly,75
+7/20/2022,BigTractor,101,C,white spruce,6.4,hard,75
+7/20/2022,BigTractor,101,C,white spruce,10.6,crumbly,75
+7/20/2022,BigTractor,101,C,white spruce,18.6,hard,50
+7/20/2022,BigTractor,101,C,white spruce,8.2,hard,75
+7/20/2022,BigTractor,101,C,white spruce,10.2,hard,75
+7/20/2022,BigTractor,145,A,white spruce,10.9,crumbly,50
+7/20/2022,BigTractor,145,B,NA,NA,NA,NA
+7/20/2022,BigTractor,145,C,white spruce,8.1,hard,75
+7/20/2022,BigTractor,145,C,white spruce,5.1,hard,75
+7/20/2022,BigTractor,158,A,white spruce,10.9,hard,50
+7/20/2022,BigTractor,158,A,white spruce,8.8,soft,75
+7/20/2022,BigTractor,158,B,white spruce,12.2,crumbly,75
+7/20/2022,BigTractor,158,B,white spruce,8.3,hard,75
+7/20/2022,BigTractor,158,C,white spruce,7.5,crumbly,75
+7/20/2022,BigTractor,158,C,white spruce,5.2,hard,75
+7/20/2022,BigTractor,262,A,white spruce,9.9,crumbly,75
+7/20/2022,BigTractor,262,A,white spruce,17.8,crumbly,75
+7/20/2022,BigTractor,262,B,white spruce,5,hard,75
+7/20/2022,BigTractor,262,B,white spruce,6.2,hard,75
+7/20/2022,BigTractor,262,B,white spruce,10.9,crumbly,75
+7/20/2022,BigTractor,262,B,white spruce,6.6,hard,75
+7/20/2022,BigTractor,262,C,white spruce,21.5,hard,50
+7/20/2022,BigTractor,262,C,white spruce,15.9,soft,75
+7/14/2023,BitzshitiniCosnaLittle,44,A,NA,NA,NA,NA
+7/14/2023,BitzshitiniCosnaLittle,44,B,NA,NA,NA,NA
+7/14/2023,BitzshitiniCosnaLittle,44,C,unknown,1,crumbly,75
+7/14/2023,BitzshitiniCosnaLittle,45,A,black spruce,3.8,hard,50
+7/14/2023,BitzshitiniCosnaLittle,45,B,NA,NA,NA,NA
+7/14/2023,BitzshitiniCosnaLittle,45,C,NA,NA,NA,NA
+7/14/2023,BitzshitiniCosnaLittle,46,A,NA,NA,NA,NA
+7/14/2023,BitzshitiniCosnaLittle,46,B,black spruce,3.5,hard,25
+7/14/2023,BitzshitiniCosnaLittle,46,B,unknown,1.6,hard,50
+7/14/2023,BitzshitiniCosnaLittle,46,C,unknown,1,hard,0
+7/14/2023,BitzshitiniCosnaLittle,46,C,black spruce,1.9,hard,25
+7/14/2023,BitzshitiniCosnaLittle,46,C,black spruce,1.4,hard,25
+7/15/2023,BitzshitiniCosnaLittle,47,A,NA,NA,NA,NA
+7/15/2023,BitzshitiniCosnaLittle,47,B,black spruce,1,hard,25
+7/15/2023,BitzshitiniCosnaLittle,47,B,black spruce,3.3,crumbly,25
+7/15/2023,BitzshitiniCosnaLittle,47,B,black spruce,1.4,hard,25
+7/15/2023,BitzshitiniCosnaLittle,47,C,black spruce,2.3,hard,50
+7/15/2023,BitzshitiniCosnaLittle,47,C,black spruce,2.1,hard,75
+7/15/2023,BitzshitiniCosnaLittle,47,C,NA,NA,NA,NA
+7/15/2023,BitzshitiniCosnaLittle,48,B,black spruce,2.2,hard,25
+7/15/2023,BitzshitiniCosnaLittle,48,B,black spruce,4.5,hard,25
+7/15/2023,BitzshitiniCosnaLittle,48,B,black spruce,2.2,hard,25
+7/15/2023,BitzshitiniCosnaLittle,48,B,black spruce,2.7,hard,25
+7/15/2023,BitzshitiniCosnaLittle,48,B,black spruce,1.5,crumbly,25
+7/15/2023,BitzshitiniCosnaLittle,48,B,black spruce,2.7,crumbly,50
+7/15/2023,BitzshitiniCosnaLittle,48,B,black spruce,3.1,hard,50
+7/15/2023,BitzshitiniCosnaLittle,48,B,unknown,6.9,crumbly,50
+7/15/2023,BitzshitiniCosnaLittle,48,B,black spruce,2.6,hard,50
+7/15/2023,BitzshitiniCosnaLittle,48,B,black spruce,4,hard,50
+7/15/2023,BitzshitiniCosnaLittle,48,B,black spruce,3.4,hard,50
+7/15/2023,BitzshitiniCosnaLittle,48,B,black spruce,3.2,hard,75
+7/15/2023,BitzshitiniCosnaLittle,48,B,unknown,2.5,crumbly,75
+7/15/2023,BitzshitiniCosnaLittle,48,B,black spruce,2.2,hard,75
+7/15/2023,BitzshitiniCosnaLittle,48,C,black spruce,1.5,hard,25
+7/15/2023,BitzshitiniCosnaLittle,48,C,black spruce,2.3,hard,25
+7/15/2023,BitzshitiniCosnaLittle,48,C,black spruce,1.2,crumbly,25
+7/15/2023,BitzshitiniCosnaLittle,48,C,unknown,2.1,hard,50
+7/15/2023,BitzshitiniCosnaLittle,48,C,unknown,1.5,crumbly,50
+7/15/2023,BitzshitiniCosnaLittle,48,C,black spruce,4.6,hard,75
+7/15/2023,BitzshitiniCosnaLittle,49,A,NA,NA,NA,NA
+7/15/2023,BitzshitiniCosnaLittle,49,B,NA,NA,NA,NA
+7/15/2023,BitzshitiniCosnaLittle,49,C,NA,NA,NA,NA
+7/12/2023,BitzshitiniWien,39,A,NA,NA,NA,NA
+7/12/2023,BitzshitiniWien,39,B,NA,NA,NA,NA
+7/12/2023,BitzshitiniWien,39,C,NA,NA,NA,NA
+7/12/2023,BitzshitiniWien,40,A,NA,NA,NA,NA
+7/12/2023,BitzshitiniWien,40,B,NA,NA,NA,NA
+7/12/2023,BitzshitiniWien,40,C,NA,NA,NA,NA
+7/13/2023,BitzshitiniWien,41,A,NA,NA,NA,NA
+7/13/2023,BitzshitiniWien,41,B,NA,NA,NA,NA
+7/13/2023,BitzshitiniWien,41,C,black spruce,5.7,soft,25
+7/13/2023,BitzshitiniWien,41,C,unknown,3.2,crumbly,25
+7/13/2023,BitzshitiniWien,42,A,NA,NA,NA,NA
+7/13/2023,BitzshitiniWien,42,B,NA,NA,NA,NA
+7/13/2023,BitzshitiniWien,42,C,black spruce,6.2,crumbly,25
+7/13/2023,BitzshitiniWien,43,A,black spruce,2.2,hard,50
+7/13/2023,BitzshitiniWien,43,B,NA,NA,NA,NA
+7/13/2023,BitzshitiniWien,43,C,NA,NA,NA,NA
+7/8/2023,Chitanana,29,A,unknown,0.8,crumbly,50
+7/8/2023,Chitanana,29,B,unknown,2.7,crumbly,25
+7/8/2023,Chitanana,29,C,black spruce,3.1,crumbly,50
+7/9/2023,Chitanana,30,A,black spruce,6.8,hard,25
+7/9/2023,Chitanana,30,A,black spruce,4.1,crumbly,75
+7/9/2023,Chitanana,30,A,unknown,1.4,crumbly,75
+7/9/2023,Chitanana,30,B,NA,NA,NA,NA
+7/9/2023,Chitanana,30,C,NA,NA,NA,NA
+7/9/2023,Chitanana,31,A,NA,NA,NA,NA
+7/9/2023,Chitanana,31,B,NA,NA,NA,NA
+7/9/2023,Chitanana,31,C,NA,NA,NA,NA
+7/9/2023,Chitanana,32,A,NA,NA,NA,NA
+7/9/2023,Chitanana,32,B,unknown conifer,2.9,crumbly,25
+7/9/2023,Chitanana,32,B,unknown conifer,0.7,crumbly,75
+7/9/2023,Chitanana,32,C,NA,NA,NA,NA
+7/9/2023,Chitanana,33,A,NA,NA,NA,NA
+7/9/2023,Chitanana,33,B,NA,NA,NA,NA
+7/9/2023,Chitanana,33,C,NA,NA,NA,NA
+7/10/2023,ChitananaMooseheart,34,A,NA,NA,NA,NA
+7/10/2023,ChitananaMooseheart,34,B,NA,NA,NA,NA
+7/10/2023,ChitananaMooseheart,34,C,NA,NA,NA,NA
+7/10/2023,ChitananaMooseheart,35,A,unknown conifer,2.9,crumbly,75
+7/10/2023,ChitananaMooseheart,35,B,NA,NA,NA,NA
+7/10/2023,ChitananaMooseheart,35,C,black spruce,3.2,hard,50
+7/10/2023,ChitananaMooseheart,36,B,NA,NA,NA,NA
+7/10/2023,ChitananaMooseheart,36,C,NA,NA,NA,NA
+7/10/2023,ChitananaMooseheart,36,C,NA,NA,NA,NA
+7/12/2023,ChitananaMooseheart,37,A,black spruce,2.7,hard,50
+7/12/2023,ChitananaMooseheart,37,B,unknown,5.3,hard,75
+7/12/2023,ChitananaMooseheart,37,B,unknown,2.2,soft,75
+7/12/2023,ChitananaMooseheart,37,B,unknown,1.3,crumbly,75
+7/12/2023,ChitananaMooseheart,37,C,unknown,9.9,soft,50
+7/12/2023,ChitananaMooseheart,37,C,black spruce,1.3,crumbly,75
+7/12/2023,ChitananaMooseheart,37,C,unknown,3,crumbly,75
+7/12/2023,ChitananaMooseheart,38,A,unknown conifer,5.7,hard,25
+7/12/2023,ChitananaMooseheart,38,A,unknown conifer,8.1,hard,25
+7/12/2023,ChitananaMooseheart,38,A,black spruce,8.5,hard,25
+7/12/2023,ChitananaMooseheart,38,A,birch,12.5,soft,25
+7/12/2023,ChitananaMooseheart,38,A,birch,12.5,soft,25
+7/12/2023,ChitananaMooseheart,38,A,birch,9.7,soft,50
+7/12/2023,ChitananaMooseheart,38,A,unknown,5,soft,75
+7/12/2023,ChitananaMooseheart,38,A,unknown,8.5,soft,75
+7/12/2023,ChitananaMooseheart,38,A,unknown,3.5,crumbly,75
+7/12/2023,ChitananaMooseheart,38,A,unknown,1.5,crumbly,75
+7/12/2023,ChitananaMooseheart,38,B,unknown conifer,4.4,hard,25
+7/12/2023,ChitananaMooseheart,38,B,unknown conifer,8.2,crumbly,50
+7/12/2023,ChitananaMooseheart,38,B,unknown conifer,2.5,hard,75
+7/12/2023,ChitananaMooseheart,38,B,birch,8.1,hard,75
+7/12/2023,ChitananaMooseheart,38,B,unknown conifer,4.3,hard,75
+7/12/2023,ChitananaMooseheart,38,B,unknown,4.2,crumbly,75
+7/12/2023,ChitananaMooseheart,38,C,black spruce,6.8,hard,25
+7/12/2023,ChitananaMooseheart,38,C,black spruce,3.1,hard,50
+7/12/2023,ChitananaMooseheart,38,C,black spruce,2.6,crumbly,75
+7/12/2023,ChitananaMooseheart,38,C,unknown,3.4,crumbly,75
+7/12/2023,ChitananaMooseheart,38,C,black spruce,8.3,hard,75
+6/26/2023,Douglas,14,A,NA,NA,NA,NA
+6/26/2023,Douglas,14,B,NA,NA,NA,NA
+6/26/2023,Douglas,14,C,NA,NA,NA,NA
+6/26/2023,Douglas,15,A,NA,NA,NA,NA
+6/26/2023,Douglas,15,B,NA,NA,NA,NA
+6/26/2023,Douglas,15,C,NA,NA,NA,NA
+6/27/2023,Douglas,16,A,NA,NA,NA,NA
+6/27/2023,Douglas,16,B,NA,NA,NA,NA
+6/27/2023,Douglas,16,C,NA,NA,NA,NA
+6/27/2023,Douglas,17,A,NA,NA,NA,NA
+6/27/2023,Douglas,17,B,NA,NA,NA,NA
+6/27/2023,Douglas,17,C,NA,NA,NA,NA
+6/27/2023,Douglas,18,A,NA,NA,NA,NA
+6/27/2023,Douglas,18,B,NA,NA,NA,NA
+6/27/2023,Douglas,18,C,NA,NA,NA,NA
+6/25/2023,DouglasBonanza,9,A,NA,NA,NA,NA
+6/25/2023,DouglasBonanza,9,B,white spruce,12.1,soft,50
+6/25/2023,DouglasBonanza,9,C,NA,NA,NA,NA
+6/25/2023,DouglasBonanza,10,A,unknown conifer,7.5,hard,25
+6/25/2023,DouglasBonanza,10,A,unknown,4.9,soft,25
+6/25/2023,DouglasBonanza,10,A,black spruce,5.1,crumbly,75
+6/25/2023,DouglasBonanza,10,A,unknown,5.9,crumbly,75
+6/25/2023,DouglasBonanza,10,B,unknown,8.8,hard,50
+6/25/2023,DouglasBonanza,10,B,unknown,3,crumbly,75
+6/25/2023,DouglasBonanza,10,C,black spruce,6.4,crumbly,25
+6/25/2023,DouglasBonanza,10,C,black spruce,16.6,crumbly,50
+6/25/2023,DouglasBonanza,10,C,black spruce,7,hard,50
+6/25/2023,DouglasBonanza,10,C,black spruce,6.8,hard,50
+6/25/2023,DouglasBonanza,10,C,unknown,2.1,hard,50
+6/25/2023,DouglasBonanza,10,C,black spruce,7.2,crumbly,75
+6/25/2023,DouglasBonanza,10,C,black spruce,5.4,crumbly,75
+6/25/2023,DouglasBonanza,10,C,unknown,7.5,crumbly,75
+6/25/2023,DouglasBonanza,11,A,birch,0.9,hard,75
+6/25/2023,DouglasBonanza,11,A,black spruce,6.8,crumbly,75
+6/25/2023,DouglasBonanza,11,B,black spruce,2.4,hard,25
+6/25/2023,DouglasBonanza,11,C,black spruce,9,hard,25
+6/25/2023,DouglasBonanza,11,C,black spruce,1,hard,25
+6/25/2023,DouglasBonanza,11,C,black spruce,2.2,hard,50
+6/25/2023,DouglasBonanza,11,C,unknown,4.1,crumbly,50
+6/25/2023,DouglasBonanza,11,C,black spruce,6,hard,50
+6/25/2023,DouglasBonanza,11,C,black spruce,4.6,hard,75
+6/26/2023,DouglasBonanza,12,A,NA,NA,NA,NA
+6/26/2023,DouglasBonanza,12,B,NA,NA,NA,NA
+6/26/2023,DouglasBonanza,12,C,NA,NA,NA,NA
+6/26/2023,DouglasBonanza,13,A,NA,NA,NA,NA
+6/26/2023,DouglasBonanza,13,B,NA,NA,NA,NA
+6/26/2023,DouglasBonanza,13,C,NA,NA,NA,NA
+7/7/2023,DragonMooseheart,24,A,birch,6.8,hard,25
+7/7/2023,DragonMooseheart,24,A,black spruce,13.3,hard,50
+7/7/2023,DragonMooseheart,24,A,black spruce,3,hard,50
+7/7/2023,DragonMooseheart,24,A,black spruce,4.6,hard,75
+7/7/2023,DragonMooseheart,24,B,black spruce,3.4,hard,25
+7/7/2023,DragonMooseheart,24,B,black spruce,4.2,hard,50
+7/7/2023,DragonMooseheart,24,B,birch,3.2,crumbly,75
+7/7/2023,DragonMooseheart,24,B,black spruce,3.2,crumbly,75
+7/7/2023,DragonMooseheart,24,B,unknown,3.5,hard,75
+7/7/2023,DragonMooseheart,24,B,black spruce,3,crumbly,75
+7/7/2023,DragonMooseheart,24,B,birch,13.2,hard,75
+7/7/2023,DragonMooseheart,24,C,black spruce,4.8,crumbly,50
+7/7/2023,DragonMooseheart,24,C,birch,4.1,hard,75
+7/7/2023,DragonMooseheart,24,C,birch,3.1,hard,75
+7/7/2023,DragonMooseheart,24,C,birch,2.5,hard,75
+7/7/2023,DragonMooseheart,25,A,black spruce,4.5,hard,50
+7/7/2023,DragonMooseheart,25,A,black spruce,3.7,hard,75
+7/7/2023,DragonMooseheart,25,A,birch,4,soft,75
+7/7/2023,DragonMooseheart,25,A,unknown,2.3,soft,75
+7/7/2023,DragonMooseheart,25,A,birch,1.6,hard,75
+7/7/2023,DragonMooseheart,25,A,unknown conifer,1.9,hard,75
+7/7/2023,DragonMooseheart,25,B,unknown,3.1,hard,75
+7/7/2023,DragonMooseheart,25,B,unknown,2.1,crumbly,75
+7/7/2023,DragonMooseheart,25,B,birch,9.2,hard,75
+7/7/2023,DragonMooseheart,25,B,black spruce,5.3,hard,75
+7/7/2023,DragonMooseheart,25,B,unknown,4,hard,75
+7/7/2023,DragonMooseheart,25,B,unknown conifer,3.9,hard,75
+7/7/2023,DragonMooseheart,25,B,unknown conifer,9.7,hard,75
+7/7/2023,DragonMooseheart,25,B,unknown conifer,2,hard,75
+7/7/2023,DragonMooseheart,25,C,birch,24.7,hard,75
+7/7/2023,DragonMooseheart,25,C,birch,5.4,hard,75
+7/7/2023,DragonMooseheart,25,C,birch,5.3,hard,75
+7/7/2023,DragonMooseheart,25,C,birch,12.9,hard,75
+7/7/2023,DragonMooseheart,25,C,birch,5.3,hard,75
+7/7/2023,DragonMooseheart,25,C,unknown,6.3,hard,75
+7/7/2023,DragonMooseheart,25,C,unknown,6.6,hard,75
+7/7/2023,DragonMooseheart,25,C,unknown,7.9,hard,75
+7/7/2023,DragonMooseheart,25,C,birch,4.3,hard,75
+7/8/2023,DragonMooseheart,26,A,black spruce,6,hard,25
+7/8/2023,DragonMooseheart,26,A,unknown,3.4,hard,25
+7/8/2023,DragonMooseheart,26,A,unknown,2.9,hard,50
+7/8/2023,DragonMooseheart,26,A,unknown,2.9,hard,75
+7/8/2023,DragonMooseheart,26,A,unknown,10,crumbly,75
+7/8/2023,DragonMooseheart,26,B,unknown,3.5,hard,25
+7/8/2023,DragonMooseheart,26,B,unknown,1.7,hard,25
+7/8/2023,DragonMooseheart,26,B,unknown,0.9,hard,50
+7/8/2023,DragonMooseheart,26,C,unknown,1.9,crumbly,75
+7/8/2023,DragonMooseheart,26,C,unknown,1,hard,75
+7/8/2023,DragonMooseheart,26,C,unknown,6,crumbly,75
+7/8/2023,DragonMooseheart,26,C,birch,15,crumbly,75
+7/8/2023,DragonMooseheart,26,C,birch,12.4,hard,75
+7/8/2023,DragonMooseheart,26,C,unknown,2.2,crumbly,75
+7/8/2023,DragonMooseheart,27,B,unknown,5.5,hard,75
+7/8/2023,DragonMooseheart,27,B,black spruce,7.4,hard,75
+7/8/2023,DragonMooseheart,27,B,unknown conifer,2.5,crumbly,75
+7/8/2023,DragonMooseheart,27,B,unknown,1.1,crumbly,75
+7/8/2023,DragonMooseheart,27,B,unknown,1.8,crumbly,75
+7/8/2023,DragonMooseheart,27,B,unknown,2,crumbly,75
+7/8/2023,DragonMooseheart,27,B,black spruce,9.8,hard,75
+7/8/2023,DragonMooseheart,27,B,birch,1.7,hard,75
+7/8/2023,DragonMooseheart,27,B,birch,4.1,soft,75
+7/8/2023,DragonMooseheart,27,C,black spruce,4.8,hard,25
+7/8/2023,DragonMooseheart,27,C,unknown,7.5,hard,50
+7/8/2023,DragonMooseheart,27,C,unknown,3.1,hard,75
+7/8/2023,DragonMooseheart,27,C,birch,5.8,crumbly,75
+7/8/2023,DragonMooseheart,27,C,birch,6.4,hard,75
+7/8/2023,DragonMooseheart,27,C,unknown,8.3,hard,75
+7/8/2023,DragonMooseheart,28,A,black spruce,1.9,hard,25
+7/8/2023,DragonMooseheart,28,A,unknown,2.5,hard,75
+7/8/2023,DragonMooseheart,28,A,unknown,3.4,hard,75
+7/8/2023,DragonMooseheart,28,A,unknown,4.8,soft,75
+7/8/2023,DragonMooseheart,28,A,black spruce,11.2,hard,75
+7/8/2023,DragonMooseheart,28,A,black spruce,10.6,hard,75
+7/8/2023,DragonMooseheart,28,A,black spruce,5.5,hard,75
+7/8/2023,DragonMooseheart,28,A,black spruce,6.9,hard,75
+7/8/2023,DragonMooseheart,28,A,black spruce,6.1,hard,75
+7/8/2023,DragonMooseheart,28,B,black spruce,2.6,hard,25
+7/8/2023,DragonMooseheart,28,B,unknown,4.6,hard,75
+7/8/2023,DragonMooseheart,28,B,black spruce,15.7,hard,75
+7/8/2023,DragonMooseheart,28,B,black spruce,15,hard,75
+7/8/2023,DragonMooseheart,28,C,black spruce,2.1,hard,25
+7/8/2023,DragonMooseheart,28,C,black spruce,2.4,hard,75
+7/8/2023,DragonMooseheart,28,C,unknown,0.6,crumbly,75
+7/8/2023,DragonMooseheart,28,C,black spruce,18.4,hard,75
+7/8/2023,DragonMooseheart,28,C,black spruce,12.6,hard,75
+7/8/2023,DragonMooseheart,28,C,black spruce,10.8,hard,75
+7/6/2023,DryMooseheart,19,A,NA,NA,NA,NA
+7/6/2023,DryMooseheart,19,B,black spruce,5,hard,25
+7/6/2023,DryMooseheart,19,C,aspen,14.3,soft,25
+7/6/2023,DryMooseheart,19,C,black spruce,4.1,hard,50
+7/6/2023,DryMooseheart,20,A,NA,NA,NA,NA
+7/6/2023,DryMooseheart,20,B,NA,NA,NA,NA
+7/6/2023,DryMooseheart,20,C,NA,NA,NA,NA
+7/6/2023,DryMooseheart,21,A,NA,NA,NA,NA
+7/6/2023,DryMooseheart,21,B,unknown,2,hard,50
+7/6/2023,DryMooseheart,21,C,NA,NA,NA,NA
+7/7/2023,DryMooseheart,22,A,NA,NA,NA,NA
+7/7/2023,DryMooseheart,22,B,NA,NA,NA,NA
+7/7/2023,DryMooseheart,22,C,NA,NA,NA,NA
+7/7/2023,DryMooseheart,23,A,NA,NA,NA,NA
+7/7/2023,DryMooseheart,23,B,NA,NA,NA,NA
+7/7/2023,DryMooseheart,23,C,black spruce,3.8,soft,50
+7/25/2022,FrozenBlackCalf,36,A,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,36,B,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,36,C,unknown conifer,7.3,hard,75
+7/25/2022,FrozenBlackCalf,188,A,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,188,B,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,188,C,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,449,A,unknown conifer,7,hard,75
+7/25/2022,FrozenBlackCalf,449,B,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,449,C,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,593,A,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,593,B,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,593,C,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,807,A,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,807,B,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,807,C,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,1018,A,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,1018,B,NA,NA,NA,NA
+7/25/2022,FrozenBlackCalf,1018,C,NA,NA,NA,NA
+7/24/2022,FrozenCalf,11,A,NA,NA,NA,NA
+7/24/2022,FrozenCalf,11,B,NA,NA,NA,NA
+7/24/2022,FrozenCalf,11,C,NA,NA,NA,NA
+7/24/2022,FrozenCalf,26,A,NA,NA,NA,NA
+7/24/2022,FrozenCalf,26,B,NA,NA,NA,NA
+7/24/2022,FrozenCalf,26,C,NA,NA,NA,NA
+7/24/2022,FrozenCalf,268,A,NA,NA,NA,NA
+7/24/2022,FrozenCalf,268,B,NA,NA,NA,NA
+7/24/2022,FrozenCalf,268,C,black spruce,5,hard,75
+7/24/2022,FrozenCalf,360,A,NA,NA,NA,NA
+7/24/2022,FrozenCalf,360,B,NA,NA,NA,NA
+7/24/2022,FrozenCalf,360,C,NA,NA,NA,NA
+7/24/2022,FrozenCalf,686,A,NA,NA,NA,NA
+7/24/2022,FrozenCalf,686,B,NA,NA,NA,NA
+7/24/2022,FrozenCalf,686,C,NA,NA,NA,NA
+7/24/2022,FrozenCalf,755,A,NA,NA,NA,NA
+7/24/2022,FrozenCalf,755,B,black spruce,5,hard,75
+7/24/2022,FrozenCalf,755,C,black spruce,7.5,hard,50
+7/23/2022,FrozenFish,374,A,NA,NA,NA,NA
+7/23/2022,FrozenFish,374,B,unknown conifer,5.2,soft,75
+7/23/2022,FrozenFish,374,C,NA,NA,NA,NA
+7/23/2022,FrozenFish,953,A,NA,NA,NA,NA
+7/23/2022,FrozenFish,953,B,NA,NA,NA,NA
+7/23/2022,FrozenFish,953,C,NA,NA,NA,NA
+7/23/2022,FrozenFish,1202,A,NA,NA,NA,NA
+7/23/2022,FrozenFish,1202,B,NA,NA,NA,NA
+7/23/2022,FrozenFish,1202,C,black spruce,6.7,crumbly,75
+7/23/2022,FrozenFish,1820,A,NA,NA,NA,NA
+7/23/2022,FrozenFish,1820,B,NA,NA,NA,NA
+7/23/2022,FrozenFish,1820,C,NA,NA,NA,NA
+7/23/2022,FrozenFish,1879,A,NA,NA,NA,NA
+7/23/2022,FrozenFish,1879,B,NA,NA,NA,NA
+7/23/2022,FrozenFish,1879,C,unknown conifer,6.5,soft,75
+7/23/2022,FrozenFish,2616,A,NA,NA,NA,NA
+7/23/2022,FrozenFish,2616,B,NA,NA,NA,NA
+7/23/2022,FrozenFish,2616,C,NA,NA,NA,NA
+7/24/2023,Isom,70,A,black spruce,2.2,hard,25
+7/24/2023,Isom,70,A,black spruce,2.6,hard,25
+7/24/2023,Isom,70,B,black spruce,3.1,crumbly,25
+7/24/2023,Isom,70,B,black spruce,1.6,hard,25
+7/24/2023,Isom,70,B,black spruce,2.1,hard,50
+7/24/2023,Isom,70,B,unknown,4.7,crumbly,75
+7/24/2023,Isom,70,C,unknown,2.4,soft,50
+7/24/2023,Isom,70,C,black spruce,4.5,hard,50
+7/24/2023,Isom,70,C,unknown,2.4,soft,75
+7/24/2023,Isom,71,A,black spruce,3,crumbly,25
+7/24/2023,Isom,71,B,black spruce,2.5,hard,50
+7/24/2023,Isom,71,C,NA,NA,NA,NA
+7/24/2023,Isom,72,A,unknown,3,crumbly,75
+7/24/2023,Isom,72,B,black spruce,3.4,hard,25
+7/24/2023,Isom,72,B,black spruce,3.3,hard,25
+7/24/2023,Isom,72,B,black spruce,1.3,crumbly,50
+7/24/2023,Isom,72,C,black spruce,2.4,hard,25
+7/24/2023,Isom,72,C,black spruce,4,hard,25
+7/24/2023,Isom,72,C,unknown,1.7,hard,50
+7/24/2023,Isom,72,C,unknown,3.1,hard,75
+7/24/2023,Isom,72,C,unknown,1.2,hard,75
+7/17/2023,KilolitnaTal,50,A,NA,NA,NA,NA
+7/17/2023,KilolitnaTal,50,B,NA,NA,NA,NA
+7/17/2023,KilolitnaTal,50,C,NA,NA,NA,NA
+7/17/2023,KilolitnaTal,51,A,NA,NA,NA,NA
+7/17/2023,KilolitnaTal,51,B,NA,NA,NA,NA
+7/17/2023,KilolitnaTal,51,C,NA,NA,NA,NA
+7/17/2023,KilolitnaTal,52,A,NA,NA,NA,NA
+7/17/2023,KilolitnaTal,52,B,NA,NA,NA,NA
+7/17/2023,KilolitnaTal,52,C,white spruce,9.8,soft,25
+7/17/2023,KilolitnaTal,52,C,unknown,2.5,hard,75
+7/18/2023,KilolitnaTal,53,A,NA,NA,NA,NA
+7/18/2023,KilolitnaTal,53,B,NA,NA,NA,NA
+7/18/2023,KilolitnaTal,53,C,NA,NA,NA,NA
+7/18/2023,KilolitnaTal,54,A,NA,NA,NA,NA
+7/18/2023,KilolitnaTal,54,B,NA,NA,NA,NA
+7/18/2023,KilolitnaTal,54,C,NA,NA,NA,NA
+7/18/2023,KilolitnaTalHolanada,55,A,NA,NA,NA,NA
+7/18/2023,KilolitnaTalHolanada,55,B,NA,NA,NA,NA
+7/18/2023,KilolitnaTalHolanada,55,C,NA,NA,NA,NA
+7/18/2023,KilolitnaTalHolanada,56,A,NA,NA,NA,NA
+7/18/2023,KilolitnaTalHolanada,56,B,NA,NA,NA,NA
+7/18/2023,KilolitnaTalHolanada,56,C,NA,NA,NA,NA
+7/19/2023,KilolitnaTalHolanada,57,A,NA,NA,NA,NA
+7/19/2023,KilolitnaTalHolanada,57,B,unknown conifer,4.1,hard,50
+7/19/2023,KilolitnaTalHolanada,57,C,unknown conifer,14.1,hard,25
+7/19/2023,KilolitnaTalHolanada,57,C,unknown,15.2,hard,75
+7/19/2023,KilolitnaTalHolanada,58,A,birch,10.2,hard,75
+7/19/2023,KilolitnaTalHolanada,58,A,NA,NA,NA,NA
+7/19/2023,KilolitnaTalHolanada,58,B,black spruce,1.5,hard,25
+7/19/2023,KilolitnaTalHolanada,58,B,black spruce,1.5,hard,25
+7/19/2023,KilolitnaTalHolanada,58,B,black spruce,1.5,hard,50
+7/19/2023,KilolitnaTalHolanada,58,C,unknown conifer,3.2,hard,25
+7/19/2023,KilolitnaTalHolanada,58,C,birch,2.9,hard,25
+7/19/2023,KilolitnaTalHolanada,58,C,black spruce,5.6,hard,25
+7/19/2023,KilolitnaTalHolanada,58,C,birch,2.2,hard,50
+7/19/2023,KilolitnaTalHolanada,58,C,black spruce,5,hard,50
+7/19/2023,KilolitnaTalHolanada,58,C,unknown,18.8,soft,50
+7/19/2023,KilolitnaTalHolanada,58,C,birch,4.3,hard,75
+7/19/2023,KilolitnaTalHolanada,58,C,unknown,5,crumbly,75
+7/19/2023,KilolitnaTalHolanada,59,A,black spruce,6.8,hard,25
+7/19/2023,KilolitnaTalHolanada,59,B,black spruce,6,crumbly,25
+7/19/2023,KilolitnaTalHolanada,59,B,black spruce,2.6,crumbly,25
+7/19/2023,KilolitnaTalHolanada,59,B,black spruce,4,hard,25
+7/19/2023,KilolitnaTalHolanada,59,B,black spruce,13,crumbly,25
+7/19/2023,KilolitnaTalHolanada,59,C,NA,NA,NA,NA
+7/22/2022,LittleYunBear,342,A,black spruce,7.1,hard,75
+7/22/2022,LittleYunBear,342,A,black spruce,7.1,crumbly,75
+7/22/2022,LittleYunBear,342,B,black spruce,5.5,hard,75
+7/22/2022,LittleYunBear,342,B,black spruce,7.5,hard,25
+7/22/2022,LittleYunBear,342,B,black spruce,7.5,crumbly,50
+7/22/2022,LittleYunBear,342,B,black spruce,7.1,hard,75
+7/22/2022,LittleYunBear,342,B,black spruce,9.5,hard,75
+7/22/2022,LittleYunBear,342,C,black spruce,8.1,hard,75
+7/22/2022,LittleYunBear,342,C,black spruce,5.2,hard,75
+7/22/2022,LittleYunBear,342,C,black spruce,9.1,hard,25
+7/22/2022,LittleYunBear,410,A,black spruce,8,hard,50
+7/22/2022,LittleYunBear,410,A,black spruce,7,hard,25
+7/22/2022,LittleYunBear,410,A,black spruce,7.8,hard,50
+7/22/2022,LittleYunBear,410,A,black spruce,9.5,hard,75
+7/22/2022,LittleYunBear,410,B,black spruce,10,hard,50
+7/22/2022,LittleYunBear,410,B,black spruce,5.5,hard,25
+7/22/2022,LittleYunBear,410,C,black spruce,10.9,hard,25
+7/22/2022,LittleYunBear,410,C,black spruce,6.9,hard,50
+7/22/2022,LittleYunBear,410,C,black spruce,9.5,hard,50
+7/22/2022,LittleYunBear,501,A,black spruce,5.4,hard,75
+7/22/2022,LittleYunBear,501,A,black spruce,7.5,hard,25
+7/22/2022,LittleYunBear,501,A,black spruce,5,crumbly,75
+7/22/2022,LittleYunBear,501,A,black spruce,5.4,crumbly,75
+7/22/2022,LittleYunBear,501,B,black spruce,5.1,hard,75
+7/22/2022,LittleYunBear,501,C,black spruce,4.8,hard,25
+7/22/2022,LittleYunBear,664,A,black spruce,10,crumbly,75
+7/22/2022,LittleYunBear,664,B,black spruce,7.8,hard,75
+7/22/2022,LittleYunBear,664,C,NA,NA,NA,NA
+7/22/2022,LittleYunBear,1037,A,black spruce,8.5,crumbly,75
+7/22/2022,LittleYunBear,1037,A,black spruce,5.2,hard,75
+7/22/2022,LittleYunBear,1037,A,black spruce,5.8,hard,75
+7/22/2022,LittleYunBear,1037,B,black spruce,10.1,hard,75
+7/22/2022,LittleYunBear,1037,C,black spruce,5,hard,75
+7/22/2022,LittleYunBear,2101,A,NA,NA,NA,NA
+7/22/2022,LittleYunBear,2101,A,NA,NA,NA,NA
+7/22/2022,LittleYunBear,2101,C,NA,NA,NA,NA
+7/11/2021,Livengood,126,A,black spruce,5,hard,25
+7/11/2021,Livengood,126,B,NA,NA,NA,NA
+7/11/2021,Livengood,126,C,black spruce,5.4,hard,25
+7/11/2021,Livengood,134,A,NA,NA,NA,NA
+7/11/2021,Livengood,134,B,black spruce,6,soft,75
+7/11/2021,Livengood,134,C,NA,NA,NA,NA
+7/10/2021,Livengood,148,A,NA,NA,NA,NA
+7/10/2021,Livengood,148,B,NA,NA,NA,NA
+7/10/2021,Livengood,148,C,NA,NA,NA,NA
+7/11/2021,Livengood,157,A,NA,NA,NA,NA
+7/11/2021,Livengood,157,B,NA,NA,NA,NA
+7/11/2021,Livengood,157,C,unknown,5,crumbly,75
+7/10/2021,Livengood,164,A,black spruce,5,hard,75
+7/10/2021,Livengood,164,A,black spruce,7,hard,50
+7/10/2021,Livengood,164,B,black spruce,7,soft,75
+7/10/2021,Livengood,164,C,NA,NA,NA,NA
+7/10/2021,Livengood,170,A,unknown,27.4,crumbly,75
+7/10/2021,Livengood,170,A,unknown,17.3,crumbly,25
+7/10/2021,Livengood,170,B,unknown,14.1,hard,50
+7/10/2021,Livengood,170,B,unknown,7.5,soft,25
+7/10/2021,Livengood,170,B,unknown,12,hard,50
+7/10/2021,Livengood,170,B,unknown,5.5,hard,75
+7/10/2021,Livengood,170,C,unknown,11.5,crumbly,75
+7/10/2021,Livengood,170,C,unknown,16.5,crumbly,25
+7/10/2021,Livengood,170,C,unknown,13.3,hard,50
+7/10/2021,Livengood,170,C,unknown,11.6,soft,50
+7/10/2021,Livengood,173,A,unknown,24.5,crumbly,25
+7/10/2021,Livengood,173,B,NA,NA,NA,NA
+7/10/2021,Livengood,173,C,unknown,5.5,hard,75
+7/10/2021,Livengood,173,C,unknown,8.1,soft,75
+7/10/2021,Livengood,173,C,unknown,7.5,hard,75
+7/10/2021,Livengood,173,C,unknown,5.2,hard,50
+7/10/2021,Livengood,173,C,unknown,5.7,crumbly,50
+7/11/2021,Livengood,176,A,unknown,5.2,crumbly,75
+7/11/2021,Livengood,176,B,unknown,5.1,hard,75
+7/11/2021,Livengood,176,B,unknown,9,hard,75
+7/11/2021,Livengood,176,C,unknown,10.5,crumbly,75
+7/10/2021,Livengood,179,A,NA,NA,NA,NA
+7/10/2021,Livengood,179,B,NA,NA,NA,NA
+7/10/2021,Livengood,179,C,NA,NA,NA,NA
+7/15/2021,Manley,326,A,unknown,5.1,hard,75
+7/15/2021,Manley,326,A,unknown,6.3,hard,75
+7/15/2021,Manley,326,A,unknown,7,crumbly,75
+7/15/2021,Manley,326,A,unknown,5,crumbly,75
+7/15/2021,Manley,326,B,unknown,5,hard,75
+7/15/2021,Manley,326,B,unknown,8.3,hard,75
+7/15/2021,Manley,326,C,unknown,7.4,hard,75
+7/15/2021,Manley,326,C,unknown,8.1,soft,75
+7/15/2021,Manley,326,C,unknown,5.5,hard,75
+7/15/2021,Manley,326,C,unknown,6.3,hard,50
+7/15/2021,Manley,326,C,unknown,6,hard,75
+7/15/2021,Manley,326,C,unknown,5.6,hard,50
+7/14/2021,Manley,328,A,unknown,6,hard,75
+7/14/2021,Manley,328,B,birch,5.9,soft,50
+7/14/2021,Manley,328,B,birch,9.8,crumbly,75
+7/14/2021,Manley,328,B,unknown,5.1,hard,75
+7/14/2021,Manley,328,B,unknown,7.6,crumbly,75
+7/14/2021,Manley,328,B,unknown,5.8,hard,50
+7/14/2021,Manley,328,B,unknown,5,hard,75
+7/14/2021,Manley,328,C,NA,NA,NA,NA
+7/14/2021,Manley,331,A,black spruce,5.9,hard,75
+7/14/2021,Manley,331,B,unknown,9.5,crumbly,75
+7/14/2021,Manley,331,C,black spruce,5.3,hard,50
+7/14/2021,Manley,331,C,black spruce,5,hard,50
+7/15/2021,Manley,342,A,black spruce,5,hard,25
+7/15/2021,Manley,342,A,unknown,11,crumbly,50
+7/15/2021,Manley,342,A,unknown,11.6,crumbly,25
+7/15/2021,Manley,342,A,unknown,8,soft,25
+7/15/2021,Manley,342,A,unknown,8.6,hard,50
+7/15/2021,Manley,342,A,unknown,7.9,hard,75
+7/15/2021,Manley,342,A,unknown,10.5,hard,75
+7/15/2021,Manley,342,A,unknown,7.9,hard,75
+7/15/2021,Manley,342,A,unknown,9.9,soft,25
+7/15/2021,Manley,342,A,unknown,7.7,hard,75
+7/15/2021,Manley,342,A,unknown,7.1,hard,75
+7/15/2021,Manley,342,A,unknown,9,hard,75
+7/15/2021,Manley,342,A,unknown,7.5,soft,25
+7/15/2021,Manley,342,A,unknown,7.3,soft,50
+7/15/2021,Manley,342,A,unknown,7,soft,50
+7/15/2021,Manley,342,A,unknown,7.2,soft,25
+7/15/2021,Manley,342,A,unknown,7.5,hard,75
+7/15/2021,Manley,342,A,unknown,5.8,soft,50
+7/15/2021,Manley,342,A,unknown,6.3,hard,50
+7/15/2021,Manley,342,A,unknown,8.7,soft,50
+7/15/2021,Manley,342,A,unknown conifer,9.3,hard,50
+7/15/2021,Manley,342,B,birch,6.3,hard,75
+7/15/2021,Manley,342,B,unknown,5.9,soft,25
+7/15/2021,Manley,342,B,unknown,5,hard,25
+7/15/2021,Manley,342,B,unknown,6.3,hard,100
+7/15/2021,Manley,342,B,unknown,5.4,hard,50
+7/15/2021,Manley,342,B,unknown,5.5,hard,75
+7/15/2021,Manley,342,B,unknown,7,soft,25
+7/15/2021,Manley,342,B,unknown,5.7,hard,75
+7/15/2021,Manley,342,B,unknown,5,hard,75
+7/15/2021,Manley,342,B,unknown,5,hard,50
+7/15/2021,Manley,342,C,unknown,7.9,hard,50
+7/15/2021,Manley,342,C,unknown,5.6,crumbly,75
+7/15/2021,Manley,342,C,unknown,11.5,soft,75
+7/15/2021,Manley,342,C,unknown,10.5,crumbly,50
+7/15/2021,Manley,342,C,unknown,6.7,crumbly,75
+7/15/2021,Manley,342,C,unknown,6.6,soft,50
+7/15/2021,Manley,342,C,unknown,12,crumbly,75
+7/14/2021,Manley,345,A,unknown,8,hard,50
+7/14/2021,Manley,345,A,unknown,12,hard,25
+7/14/2021,Manley,345,A,unknown,5,soft,50
+7/14/2021,Manley,345,A,unknown,10.3,hard,50
+7/14/2021,Manley,345,A,unknown,8.7,hard,0
+7/14/2021,Manley,345,A,unknown,5.9,hard,0
+7/14/2021,Manley,345,A,unknown,7.5,hard,50
+7/14/2021,Manley,345,A,unknown,8.5,hard,50
+7/14/2021,Manley,345,B,birch,19,crumbly,75
+7/14/2021,Manley,345,C,unknown,7.5,soft,75
+7/14/2021,Manley,345,C,unknown,5.6,hard,25
+7/14/2021,Manley,345,C,unknown,6.2,hard,0
+7/15/2021,Manley,355,A,birch,7.9,soft,25
+7/15/2021,Manley,355,A,black spruce,7,hard,25
+7/15/2021,Manley,355,A,black spruce,5.7,hard,25
+7/15/2021,Manley,355,A,black spruce,15.7,soft,25
+7/15/2021,Manley,355,A,unknown,5,hard,50
+7/15/2021,Manley,355,A,unknown,5.1,crumbly,25
+7/15/2021,Manley,355,A,unknown,10.4,hard,25
+7/15/2021,Manley,355,A,unknown,6.3,hard,25
+7/15/2021,Manley,355,A,unknown conifer,13,hard,50
+7/15/2021,Manley,355,B,birch,15.5,crumbly,25
+7/15/2021,Manley,355,B,black spruce,7.1,hard,25
+7/15/2021,Manley,355,B,black spruce,7.7,hard,25
+7/15/2021,Manley,355,B,unknown,5,crumbly,25
+7/15/2021,Manley,355,B,unknown,5.3,hard,25
+7/15/2021,Manley,355,B,unknown,10.5,soft,25
+7/15/2021,Manley,355,B,unknown,7.1,crumbly,25
+7/15/2021,Manley,355,B,unknown,5.7,crumbly,25
+7/15/2021,Manley,355,C,black spruce,8.5,hard,25
+7/15/2021,Manley,355,C,unknown,9.1,crumbly,25
+7/15/2021,Manley,355,C,unknown,14.2,hard,25
+7/15/2021,Manley,355,C,unknown,5.6,hard,25
+7/15/2021,Manley,355,C,unknown,8,hard,50
+7/15/2021,Manley,355,C,unknown,7.6,crumbly,25
+7/15/2021,Manley,355,C,unknown,12,soft,0
+7/14/2021,Manley,358,A,black spruce,7.3,hard,75
+7/14/2021,Manley,358,B,NA,NA,NA,NA
+7/14/2021,Manley,358,C,NA,NA,NA,NA
+7/15/2021,Manley,359,A,unknown,7.5,crumbly,50
+7/15/2021,Manley,359,A,unknown,12.5,soft,25
+7/15/2021,Manley,359,A,unknown,6,soft,50
+7/15/2021,Manley,359,A,unknown conifer,8,hard,25
+7/15/2021,Manley,359,B,unknown,13.3,hard,75
+7/15/2021,Manley,359,B,unknown,9.3,hard,50
+7/15/2021,Manley,359,B,unknown,5.3,hard,50
+7/15/2021,Manley,359,B,unknown conifer,9,hard,50
+7/15/2021,Manley,359,C,unknown,9.5,crumbly,75
+7/15/2021,Manley,359,C,unknown,9.7,crumbly,50
+7/15/2021,Manley,359,C,unknown,9.3,soft,50
+7/15/2021,Manley,359,C,unknown conifer,5.3,hard,25
+7/15/2021,Manley,359,C,unknown conifer,9.1,hard,25
+7/15/2021,Manley,359,C,unknown conifer,6.5,hard,25
+7/15/2021,Manley,360,A,birch,16,soft,25
+7/15/2021,Manley,360,A,birch,12,crumbly,50
+7/15/2021,Manley,360,A,birch,14,soft,50
+7/15/2021,Manley,360,A,black spruce,8.7,hard,75
+7/15/2021,Manley,360,A,black spruce,8,hard,75
+7/15/2021,Manley,360,A,black spruce,6.3,hard,25
+7/15/2021,Manley,360,A,black spruce,8.2,hard,75
+7/15/2021,Manley,360,A,black spruce,5.5,crumbly,25
+7/15/2021,Manley,360,A,unknown,6,hard,75
+7/15/2021,Manley,360,A,unknown,5.5,hard,75
+7/15/2021,Manley,360,A,unknown,7,hard,75
+7/15/2021,Manley,360,A,unknown,5.6,crumbly,25
+7/15/2021,Manley,360,A,unknown,5,crumbly,25
+7/15/2021,Manley,360,A,unknown,8.2,soft,25
+7/15/2021,Manley,360,A,unknown,10,soft,25
+7/15/2021,Manley,360,B,birch,10.9,hard,75
+7/15/2021,Manley,360,B,black spruce,8.6,hard,25
+7/15/2021,Manley,360,B,black spruce,7,hard,25
+7/15/2021,Manley,360,B,black spruce,5.2,crumbly,25
+7/15/2021,Manley,360,B,black spruce,11.7,hard,25
+7/15/2021,Manley,360,B,black spruce,13,hard,75
+7/15/2021,Manley,360,B,black spruce,8.5,hard,75
+7/15/2021,Manley,360,B,unknown,17,soft,25
+7/15/2021,Manley,360,B,unknown,12.5,hard,50
+7/15/2021,Manley,360,B,unknown,6,hard,75
+7/15/2021,Manley,360,B,unknown,15.7,crumbly,25
+7/15/2021,Manley,360,B,unknown,17,soft,25
+7/15/2021,Manley,360,B,unknown,8.5,hard,75
+7/15/2021,Manley,360,B,unknown conifer,6.3,hard,50
+7/15/2021,Manley,360,B,unknown conifer,11,crumbly,25
+7/15/2021,Manley,360,B,unknown conifer,13,hard,25
+7/15/2021,Manley,360,B,unknown conifer,9,hard,75
+7/15/2021,Manley,360,C,black spruce,5.7,hard,50
+7/15/2021,Manley,360,C,black spruce,13.2,hard,75
+7/15/2021,Manley,360,C,black spruce,13,hard,25
+7/15/2021,Manley,360,C,unknown,7,soft,25
+7/15/2021,Manley,360,C,unknown,11.3,hard,50
+7/15/2021,Manley,360,C,unknown,14,soft,25
+7/15/2021,Manley,360,C,unknown,7,crumbly,50
+7/15/2021,Manley,360,C,unknown,15,soft,25
+7/15/2021,Manley,360,C,unknown,10,hard,50
+7/15/2021,Manley,360,C,unknown,15.3,hard,50
+7/15/2021,Manley,360,C,unknown,10.3,crumbly,25
+7/15/2021,Manley,360,C,unknown,19.3,hard,75
+7/15/2021,Manley,360,C,unknown,13.5,soft,25
+7/15/2021,Manley,360,C,unknown conifer,10.4,hard,50
+7/27/2022,Marr,679,A,NA,NA,NA,NA
+7/27/2022,Marr,679,B,NA,NA,NA,NA
+7/27/2022,Marr,679,C,NA,NA,NA,NA
+7/27/2022,Marr,910,A,NA,NA,NA,NA
+7/27/2022,Marr,910,B,NA,NA,NA,NA
+7/27/2022,Marr,910,C,NA,NA,NA,NA
+7/27/2022,Marr,2051,A,NA,NA,NA,NA
+7/27/2022,Marr,2051,B,NA,NA,NA,NA
+7/27/2022,Marr,2051,C,NA,NA,NA,NA
+7/27/2022,Marr,2823,A,NA,NA,NA,NA
+7/27/2022,Marr,2823,B,NA,NA,NA,NA
+7/27/2022,Marr,2823,C,NA,NA,NA,NA
+7/27/2022,Marr,2835,A,NA,NA,NA,NA
+7/27/2022,Marr,2835,B,NA,NA,NA,NA
+7/27/2022,Marr,2835,C,NA,NA,NA,NA
+7/27/2022,Marr,2957,A,NA,NA,NA,NA
+7/27/2022,Marr,2957,B,NA,NA,NA,NA
+7/27/2022,Marr,2957,C,NA,NA,NA,NA
+7/28/2022,MarrRock,168,A,unknown conifer,11,crumbly,75
+7/28/2022,MarrRock,168,A,unknown conifer,7.2,hard,75
+7/28/2022,MarrRock,168,A,unknown conifer,9.5,hard,75
+7/28/2022,MarrRock,168,A,unknown conifer,10.6,hard,50
+7/28/2022,MarrRock,168,A,unknown conifer,6,hard,75
+7/28/2022,MarrRock,168,B,unknown conifer,5,hard,50
+7/28/2022,MarrRock,168,C,birch,11.1,hard,25
+7/28/2022,MarrRock,168,C,unknown conifer,2.2,hard,75
+7/28/2022,MarrRock,168,C,unknown conifer,4.4,crumbly,50
+7/28/2022,MarrRock,168,C,unknown conifer,8.2,hard,50
+7/28/2022,MarrRock,552,A,white spruce,9.5,hard,25
+7/28/2022,MarrRock,552,A,white spruce,6.5,soft,50
+7/28/2022,MarrRock,552,A,white spruce,18.5,hard,25
+7/28/2022,MarrRock,552,A,white spruce,10.5,crumbly,50
+7/28/2022,MarrRock,552,A,white spruce,10.6,hard,50
+7/28/2022,MarrRock,552,A,white spruce,9.1,soft,50
+7/28/2022,MarrRock,552,A,white spruce,6.1,hard,75
+7/28/2022,MarrRock,552,A,white spruce,9,crumbly,50
+7/28/2022,MarrRock,552,A,white spruce,6.2,soft,50
+7/28/2022,MarrRock,552,A,white spruce,10.6,hard,50
+7/28/2022,MarrRock,552,A,white spruce,8.2,hard,50
+7/28/2022,MarrRock,552,A,white spruce,7.5,hard,25
+7/28/2022,MarrRock,552,A,white spruce,16.9,crumbly,50
+7/28/2022,MarrRock,552,A,white spruce,18.5,hard,25
+7/28/2022,MarrRock,552,A,birch,17.8,hard,25
+7/28/2022,MarrRock,552,B,white spruce,16.5,hard,0
+7/28/2022,MarrRock,552,B,white spruce,14.8,hard,50
+7/28/2022,MarrRock,552,B,white spruce,8.1,hard,25
+7/28/2022,MarrRock,552,B,white spruce,13.1,crumbly,0
+7/28/2022,MarrRock,552,B,white spruce,18.6,hard,0
+7/28/2022,MarrRock,552,B,birch,11.8,hard,0
+7/28/2022,MarrRock,552,B,white spruce,3.9,hard,75
+7/28/2022,MarrRock,552,B,birch,9.9,hard,50
+7/28/2022,MarrRock,552,B,birch,16.5,hard,25
+7/28/2022,MarrRock,552,C,white spruce,4.1,hard,75
+7/28/2022,MarrRock,552,C,white spruce,8.2,hard,25
+7/28/2022,MarrRock,552,C,white spruce,6.2,hard,75
+7/28/2022,MarrRock,552,C,white spruce,20.6,hard,25
+7/28/2022,MarrRock,552,C,white spruce,8.6,hard,25
+7/28/2022,MarrRock,552,C,white spruce,7.6,crumbly,75
+7/28/2022,MarrRock,552,C,white spruce,9.9,hard,75
+7/28/2022,MarrRock,552,C,white spruce,17.1,hard,50
+7/28/2022,MarrRock,552,C,birch,14.4,hard,0
+7/28/2022,MarrRock,552,C,white spruce,10.2,hard,50
+7/28/2022,MarrRock,552,C,birch,6.5,hard,0
+7/28/2022,MarrRock,552,C,white spruce,9.9,hard,25
+7/28/2022,MarrRock,643,A,white spruce,12.2,hard,25
+7/28/2022,MarrRock,643,A,white spruce,9.5,hard,25
+7/28/2022,MarrRock,643,A,birch,16.1,hard,0
+7/28/2022,MarrRock,643,A,white spruce,13.2,hard,75
+7/28/2022,MarrRock,643,B,white spruce,15.2,hard,75
+7/28/2022,MarrRock,643,B,white spruce,13.9,hard,25
+7/28/2022,MarrRock,643,B,white spruce,19.6,hard,25
+7/28/2022,MarrRock,643,B,white spruce,7.4,hard,0
+7/28/2022,MarrRock,643,C,white spruce,11.5,hard,75
+7/28/2022,MarrRock,643,C,white spruce,16.2,hard,25
+7/28/2022,MarrRock,643,C,white spruce,8,hard,25
+7/28/2022,MarrRock,643,C,white spruce,5.1,hard,75
+7/28/2022,MarrRock,643,C,white spruce,3.2,hard,75
+7/28/2022,MarrRock,643,C,white spruce,10.9,hard,50
+7/28/2022,MarrRock,643,C,white spruce,12.6,hard,50
+7/28/2022,MarrRock,643,C,white spruce,11.4,hard,75
+7/28/2022,MarrRock,643,C,birch,8.2,crumbly,75
+7/28/2022,MarrRock,643,C,white spruce,7.5,crumbly,75
+7/28/2022,MarrRock,781,A,white spruce,20.2,hard,75
+7/28/2022,MarrRock,781,A,white spruce,6.2,hard,25
+7/28/2022,MarrRock,781,A,birch,12.5,crumbly,25
+7/28/2022,MarrRock,781,A,birch,7.4,crumbly,25
+7/28/2022,MarrRock,781,A,white spruce,10.9,hard,75
+7/28/2022,MarrRock,781,B,birch,6.2,crumbly,50
+7/28/2022,MarrRock,781,B,white spruce,6.2,hard,75
+7/28/2022,MarrRock,781,B,white spruce,11.2,hard,50
+7/28/2022,MarrRock,781,C,birch,10.2,hard,25
+7/28/2022,MarrRock,781,C,birch,7.2,crumbly,50
+7/28/2022,MarrRock,781,C,white spruce,9.2,hard,50
+7/28/2022,MarrRock,781,C,birch,13.5,crumbly,25
+7/28/2022,MarrRock,781,C,white spruce,10.6,hard,50
+7/28/2022,MarrRock,1133,A,white spruce,19.5,hard,25
+7/28/2022,MarrRock,1133,A,white spruce,8.5,hard,75
+7/28/2022,MarrRock,1133,B,white spruce,7.2,hard,50
+7/28/2022,MarrRock,1133,B,white spruce,14,hard,25
+7/28/2022,MarrRock,1133,B,white spruce,9.8,hard,75
+7/28/2022,MarrRock,1133,B,white spruce,14.4,crumbly,50
+7/28/2022,MarrRock,1133,B,white spruce,6.6,hard,50
+7/28/2022,MarrRock,1133,B,unknown conifer,2,hard,0
+7/28/2022,MarrRock,1133,C,white spruce,10,hard,50
+7/28/2022,MarrRock,1133,C,white spruce,9.6,hard,0
+7/28/2022,MarrRock,1133,C,white spruce,11.5,hard,25
+7/28/2022,MarrRock,1133,C,white spruce,6.2,crumbly,75
+7/28/2022,MarrRock,1371,A,white spruce,19.5,crumbly,25
+7/28/2022,MarrRock,1371,A,birch,19,hard,25
+7/28/2022,MarrRock,1371,A,birch,7.1,hard,25
+7/28/2022,MarrRock,1371,A,white spruce,12.2,hard,25
+7/28/2022,MarrRock,1371,A,birch,18.5,crumbly,25
+7/28/2022,MarrRock,1371,A,white spruce,9.9,crumbly,50
+7/28/2022,MarrRock,1371,B,white spruce,22.5,hard,25
+7/28/2022,MarrRock,1371,B,birch,8.2,crumbly,50
+7/28/2022,MarrRock,1371,C,birch,7.9,hard,25
+7/28/2022,MarrRock,1371,C,white spruce,6.5,hard,75
+7/28/2022,MarrRock,1371,C,white spruce,8.2,hard,75
+7/28/2022,MarrRock,1371,C,white spruce,14.5,hard,50
+7/28/2022,MarrRock,1371,C,birch,10.9,hard,25
+6/23/2023,MmBonanza,4,A,black spruce,5.1,soft,50
+6/23/2023,MmBonanza,4,A,black spruce,4.3,crumbly,75
+6/23/2023,MmBonanza,4,B,black spruce,1.3,crumbly,25
+6/23/2023,MmBonanza,4,C,black spruce,2,crumbly,25
+6/23/2023,MmBonanza,4,C,black spruce,3.9,crumbly,50
+6/23/2023,MmBonanza,5,A,birch,4,hard,0
+6/23/2023,MmBonanza,5,A,birch,2.2,hard,0
+6/23/2023,MmBonanza,5,A,birch,2.9,hard,0
+6/23/2023,MmBonanza,5,A,white spruce,5.3,hard,0
+6/23/2023,MmBonanza,5,A,white spruce,4.8,hard,0
+6/23/2023,MmBonanza,5,A,white spruce,6.3,hard,0
+6/23/2023,MmBonanza,5,A,white spruce,3,hard,0
+6/23/2023,MmBonanza,5,A,white spruce,3.4,hard,0
+6/23/2023,MmBonanza,5,A,white spruce,18.9,hard,0
+6/23/2023,MmBonanza,5,A,white spruce,18.9,hard,0
+6/23/2023,MmBonanza,5,B,white spruce,18.4,hard,0
+6/23/2023,MmBonanza,5,B,birch,2.6,hard,0
+6/23/2023,MmBonanza,5,B,white spruce,2.5,hard,0
+6/23/2023,MmBonanza,5,B,white spruce,18.9,hard,0
+6/23/2023,MmBonanza,5,B,white spruce,13.5,hard,0
+6/23/2023,MmBonanza,5,B,birch,17.7,hard,25
+6/23/2023,MmBonanza,5,B,white spruce,7.2,hard,25
+6/23/2023,MmBonanza,5,C,white spruce,2.9,hard,0
+6/23/2023,MmBonanza,5,C,white spruce,20.3,hard,0
+6/23/2023,MmBonanza,5,C,white spruce,12.4,hard,0
+6/23/2023,MmBonanza,5,C,white spruce,10.9,hard,0
+6/23/2023,MmBonanza,5,C,white spruce,7.5,hard,0
+6/23/2023,MmBonanza,5,C,birch,2.4,hard,0
+6/23/2023,MmBonanza,5,C,birch,3.6,hard,0
+6/23/2023,MmBonanza,5,C,unknown conifer,15.2,hard,25
+6/23/2023,MmBonanza,5,C,white spruce,10.2,hard,25
+6/23/2023,MmBonanza,5,C,unknown,6.9,hard,50
+6/23/2023,MmBonanza,5,C,white spruce,8.4,crumbly,50
+6/23/2023,MmBonanza,5,C,white spruce,17.4,crumbly,50
+6/23/2023,MmBonanza,5,C,white spruce,12.5,soft,75
+6/23/2023,MmBonanza,5,C,unknown,11.3,hard,75
+6/24/2023,MmBonanza,6,A,NA,NA,NA,NA
+6/24/2023,MmBonanza,6,B,NA,NA,NA,NA
+6/24/2023,MmBonanza,6,C,NA,NA,NA,NA
+6/24/2023,MmBonanza,7,A,NA,NA,NA,NA
+6/24/2023,MmBonanza,7,B,NA,NA,NA,NA
+6/24/2023,MmBonanza,7,C,NA,NA,NA,NA
+6/24/2023,MmBonanza,8,A,NA,NA,NA,NA
+6/24/2023,MmBonanza,8,B,NA,NA,NA,NA
+6/24/2023,MmBonanza,8,C,NA,NA,NA,NA
+7/9/2021,MtPrindle1,536,A,unknown conifer,12.9,hard,75
+7/9/2021,MtPrindle1,536,A,unknown conifer,12.6,hard,75
+7/9/2021,MtPrindle1,536,A,unknown conifer,10.5,crumbly,75
+7/9/2021,MtPrindle1,536,A,unknown conifer,10.1,hard,75
+7/9/2021,MtPrindle1,536,A,unknown conifer,10,hard,75
+7/9/2021,MtPrindle1,536,A,unknown conifer,9.9,hard,75
+7/9/2021,MtPrindle1,536,A,unknown conifer,9.9,hard,75
+7/9/2021,MtPrindle1,536,A,unknown conifer,8.5,hard,75
+7/9/2021,MtPrindle1,536,A,unknown conifer,8.3,hard,75
+7/9/2021,MtPrindle1,536,A,unknown conifer,7.7,hard,50
+7/9/2021,MtPrindle1,536,A,unknown conifer,7.7,hard,75
+7/9/2021,MtPrindle1,536,A,unknown conifer,6.6,hard,75
+7/9/2021,MtPrindle1,536,A,unknown conifer,5,hard,50
+7/9/2021,MtPrindle1,536,B,unknown conifer,12,soft,25
+7/9/2021,MtPrindle1,536,B,birch,11.5,soft,0
+7/9/2021,MtPrindle1,536,B,birch,9.2,soft,25
+7/9/2021,MtPrindle1,536,B,birch,7.6,hard,0
+7/9/2021,MtPrindle1,536,B,unknown conifer,6.2,hard,75
+7/9/2021,MtPrindle1,536,B,unknown conifer,6.1,hard,50
+7/9/2021,MtPrindle1,536,B,unknown conifer,5.5,hard,75
+7/9/2021,MtPrindle1,536,C,birch,9.1,crumbly,25
+7/9/2021,MtPrindle1,536,C,unknown conifer,17.5,crumbly,50
+7/9/2021,MtPrindle1,536,C,unknown conifer,5.6,hard,50
+7/9/2021,MtPrindle1,542,A,unknown conifer,10.9,crumbly,25
+7/9/2021,MtPrindle1,542,A,unknown conifer,10.7,hard,50
+7/9/2021,MtPrindle1,542,A,unknown conifer,10.5,hard,50
+7/9/2021,MtPrindle1,542,A,unknown conifer,8.1,hard,50
+7/9/2021,MtPrindle1,542,A,unknown conifer,6.2,hard,50
+7/9/2021,MtPrindle1,542,B,birch,10,crumbly,25
+7/9/2021,MtPrindle1,542,B,birch,12.7,hard,25
+7/9/2021,MtPrindle1,542,B,unknown conifer,7.7,hard,50
+7/9/2021,MtPrindle1,542,B,unknown conifer,7.6,hard,75
+7/9/2021,MtPrindle1,542,B,unknown conifer,6.3,hard,75
+7/9/2021,MtPrindle1,542,B,unknown conifer,6.1,hard,75
+7/9/2021,MtPrindle1,542,B,unknown conifer,5.8,hard,75
+7/9/2021,MtPrindle1,542,B,unknown conifer,5.1,hard,75
+7/9/2021,MtPrindle1,542,C,birch,7,hard,25
+7/9/2021,MtPrindle1,542,C,unknown conifer,9,crumbly,75
+7/9/2021,MtPrindle1,542,C,unknown conifer,9,hard,75
+7/9/2021,MtPrindle1,542,C,unknown conifer,8,hard,75
+7/9/2021,MtPrindle1,542,C,unknown conifer,7.9,hard,75
+7/9/2021,MtPrindle1,542,C,unknown conifer,8.4,hard,75
+7/9/2021,MtPrindle1,552,A,birch,5.3,hard,25
+7/9/2021,MtPrindle1,552,A,black spruce,5,hard,50
+7/9/2021,MtPrindle1,552,A,black spruce,5.5,hard,25
+7/9/2021,MtPrindle1,552,A,black spruce,5.2,hard,25
+7/9/2021,MtPrindle1,552,A,black spruce,11,hard,25
+7/9/2021,MtPrindle1,552,A,black spruce,7.1,hard,25
+7/9/2021,MtPrindle1,552,A,black spruce,5,hard,25
+7/9/2021,MtPrindle1,552,A,black spruce,5.1,hard,75
+7/9/2021,MtPrindle1,552,A,unknown,7.3,hard,50
+7/9/2021,MtPrindle1,552,B,black spruce,6,hard,75
+7/9/2021,MtPrindle1,552,B,black spruce,22.3,hard,25
+7/9/2021,MtPrindle1,552,B,black spruce,6,hard,25
+7/9/2021,MtPrindle1,552,B,black spruce,8,hard,50
+7/9/2021,MtPrindle1,552,B,black spruce,5,hard,50
+7/9/2021,MtPrindle1,552,B,black spruce,7,hard,75
+7/9/2021,MtPrindle1,552,B,unknown,5.3,hard,50
+7/9/2021,MtPrindle1,552,C,aspen,5,hard,25
+7/9/2021,MtPrindle1,552,C,black spruce,5,hard,25
+7/9/2021,MtPrindle1,552,C,black spruce,5.6,hard,50
+7/9/2021,MtPrindle1,552,C,black spruce,5.1,hard,50
+7/9/2021,MtPrindle1,552,C,unknown,5.5,soft,75
+7/9/2021,MtPrindle1,554,A,birch,7.7,soft,50
+7/9/2021,MtPrindle1,554,A,birch,3,hard,0
+7/9/2021,MtPrindle1,554,A,birch,1.5,hard,0
+7/9/2021,MtPrindle1,554,A,black spruce,13.5,hard,25
+7/9/2021,MtPrindle1,554,A,black spruce,6.2,hard,25
+7/9/2021,MtPrindle1,554,A,black spruce,7.5,hard,25
+7/9/2021,MtPrindle1,554,A,black spruce,5.6,hard,25
+7/9/2021,MtPrindle1,554,A,black spruce,7.5,hard,25
+7/9/2021,MtPrindle1,554,A,black spruce,5.6,hard,25
+7/9/2021,MtPrindle1,554,A,black spruce,8.2,hard,25
+7/9/2021,MtPrindle1,554,A,unknown,5.5,hard,50
+7/9/2021,MtPrindle1,554,A,unknown,5.3,hard,75
+7/9/2021,MtPrindle1,554,A,unknown,5,hard,25
+7/9/2021,MtPrindle1,554,B,birch,8,crumbly,75
+7/9/2021,MtPrindle1,554,B,black spruce,11.8,hard,25
+7/9/2021,MtPrindle1,554,B,black spruce,8.6,hard,50
+7/9/2021,MtPrindle1,554,B,black spruce,12.8,hard,25
+7/9/2021,MtPrindle1,554,B,black spruce,6,hard,25
+7/9/2021,MtPrindle1,554,B,black spruce,6,hard,25
+7/9/2021,MtPrindle1,554,B,black spruce,5.4,hard,25
+7/9/2021,MtPrindle1,554,B,unknown,5.3,hard,25
+7/9/2021,MtPrindle1,554,C,birch,3.6,hard,0
+7/9/2021,MtPrindle1,554,C,birch,8.1,hard,0
+7/9/2021,MtPrindle1,554,C,birch,5,hard,75
+7/9/2021,MtPrindle1,554,C,black spruce,7.2,hard,75
+7/9/2021,MtPrindle1,554,C,black spruce,6.2,hard,50
+7/9/2021,MtPrindle1,554,C,black spruce,8.6,hard,25
+7/9/2021,MtPrindle1,554,C,black spruce,5.4,hard,25
+7/9/2021,MtPrindle1,554,C,black spruce,5.7,hard,50
+7/9/2021,MtPrindle1,554,C,black spruce,5.9,hard,0
+7/9/2021,MtPrindle1,554,C,black spruce,8.4,hard,25
+7/9/2021,MtPrindle1,554,C,black spruce,8.7,hard,50
+7/9/2021,MtPrindle1,554,C,unknown,6.8,hard,50
+7/9/2021,MtPrindle1,554,C,unknown,5.6,hard,75
+7/9/2021,MtPrindle1,554,C,unknown,11.7,hard,75
+7/9/2021,MtPrindle1,570,A,birch,15,soft,75
+7/9/2021,MtPrindle1,570,A,black spruce,6.7,hard,50
+7/9/2021,MtPrindle1,570,A,black spruce,6.3,hard,50
+7/9/2021,MtPrindle1,570,A,black spruce,11,hard,50
+7/9/2021,MtPrindle1,570,A,unknown,6.5,hard,75
+7/9/2021,MtPrindle1,570,A,unknown,14.6,hard,75
+7/9/2021,MtPrindle1,570,A,unknown,6.6,crumbly,75
+7/9/2021,MtPrindle1,570,B,birch,6,soft,75
+7/9/2021,MtPrindle1,570,B,birch,8.3,soft,25
+7/9/2021,MtPrindle1,570,B,black spruce,6.3,hard,50
+7/9/2021,MtPrindle1,570,B,black spruce,8.7,hard,75
+7/9/2021,MtPrindle1,570,B,black spruce,5,hard,75
+7/9/2021,MtPrindle1,570,B,black spruce,7.6,hard,50
+7/9/2021,MtPrindle1,570,B,black spruce,9.3,hard,25
+7/9/2021,MtPrindle1,570,B,black spruce,7,hard,25
+7/9/2021,MtPrindle1,570,B,black spruce,5.7,hard,25
+7/9/2021,MtPrindle1,570,B,unknown,5.4,hard,75
+7/9/2021,MtPrindle1,570,B,unknown,8.6,hard,75
+7/9/2021,MtPrindle1,570,B,unknown,7.8,hard,75
+7/9/2021,MtPrindle1,570,B,unknown,12.7,hard,75
+7/9/2021,MtPrindle1,570,B,unknown,5.5,hard,75
+7/9/2021,MtPrindle1,570,B,unknown,5.6,hard,75
+7/9/2021,MtPrindle1,570,C,aspen,5.2,hard,50
+7/9/2021,MtPrindle1,570,C,birch,5,soft,50
+7/9/2021,MtPrindle1,570,C,black spruce,5.7,hard,25
+7/9/2021,MtPrindle1,570,C,black spruce,5.6,hard,75
+7/9/2021,MtPrindle1,570,C,black spruce,7,hard,50
+7/9/2021,MtPrindle1,570,C,black spruce,8.7,hard,50
+7/9/2021,MtPrindle1,570,C,black spruce,10.3,hard,25
+7/9/2021,MtPrindle1,570,C,black spruce,9.5,hard,25
+7/9/2021,MtPrindle1,570,C,unknown,5.6,hard,50
+7/9/2021,MtPrindle1,576,A,black spruce,8.3,hard,75
+7/9/2021,MtPrindle1,576,A,unknown,5.5,hard,50
+7/9/2021,MtPrindle1,576,A,unknown,7.2,hard,75
+7/9/2021,MtPrindle1,576,B,birch,8.6,soft,75
+7/9/2021,MtPrindle1,576,B,unknown,10.3,hard,75
+7/9/2021,MtPrindle1,576,B,unknown,6.7,hard,75
+7/9/2021,MtPrindle1,576,C,birch,6.3,soft,75
+7/9/2021,MtPrindle1,576,C,black spruce,7.4,hard,50
+7/9/2021,MtPrindle1,576,C,unknown,6,hard,75
+7/8/2021,MtPrindle2,587,B,black spruce,4.3,hard,50
+7/8/2021,MtPrindle2,587,B,unknown conifer,10.4,crumbly,75
+7/8/2021,MtPrindle2,607,A,black spruce,5.5,crumbly,75
+7/8/2021,MtPrindle2,607,A,black spruce,13.5,crumbly,75
+7/8/2021,MtPrindle2,607,A,black spruce,5,hard,50
+7/8/2021,MtPrindle2,607,A,black spruce,5,hard,50
+7/8/2021,MtPrindle2,607,A,black spruce,5,hard,75
+7/8/2021,MtPrindle2,607,B,black spruce,10.3,soft,25
+7/8/2021,MtPrindle2,607,C,black spruce,6,crumbly,0
+7/8/2021,MtPrindle2,607,C,black spruce,8,hard,0
+7/8/2021,MtPrindle2,607,C,black spruce,8,hard,0
+7/8/2021,MtPrindle2,609,A,black spruce,7.5,crumbly,75
+7/8/2021,MtPrindle2,609,A,unknown conifer,7.5,hard,50
+7/8/2021,MtPrindle2,609,A,black spruce,6.5,hard,75
+7/8/2021,MtPrindle2,609,A,black spruce,5.6,hard,50
+7/8/2021,MtPrindle2,609,C,unknown conifer,8.5,crumbly,50
+7/8/2021,MtPrindle2,609,C,black spruce,4,hard,25
+7/8/2021,MtPrindle2,617,B,black spruce,9.3,hard,50
+7/8/2021,MtPrindle2,617,B,black spruce,8,hard,50
+7/8/2021,MtPrindle2,617,C,black spruce,9.5,crumbly,75
+7/8/2021,MtPrindle2,624,A,black spruce,10.8,hard,75
+7/8/2021,MtPrindle2,624,A,black spruce,9.3,hard,75
+7/8/2021,MtPrindle2,624,A,black spruce,8,hard,75
+7/8/2021,MtPrindle2,624,A,black spruce,7.2,hard,75
+7/8/2021,MtPrindle2,624,B,black spruce,22.4,crumbly,75
+7/8/2021,MtPrindle2,624,B,black spruce,9.5,hard,75
+7/8/2021,MtPrindle2,624,B,black spruce,9.2,hard,75
+7/8/2021,MtPrindle2,624,B,black spruce,6.2,hard,75
+7/8/2021,MtPrindle2,624,C,black spruce,7.2,hard,25
+7/8/2021,MtPrindle2,624,C,birch,5.5,soft,50
+7/8/2021,MtPrindle2,624,C,birch,8.6,soft,0
+7/8/2021,MtPrindle2,627,A,unknown conifer,9.1,crumbly,25
+7/8/2021,MtPrindle2,627,C,unknown conifer,3.3,crumbly,75
+7/22/2023,MudNowitnaDirt,65,A,black spruce,3.4,hard,50
+7/22/2023,MudNowitnaDirt,65,A,unknown,2.3,crumbly,50
+7/22/2023,MudNowitnaDirt,65,B,unknown,1.5,hard,25
+7/22/2023,MudNowitnaDirt,65,B,unknown,2.6,crumbly,75
+7/22/2023,MudNowitnaDirt,65,C,black spruce,5.2,hard,25
+7/22/2023,MudNowitnaDirt,65,C,black spruce,2.5,hard,50
+7/22/2023,MudNowitnaDirt,65,C,unknown,1.7,hard,50
+7/22/2023,MudNowitnaDirt,65,C,unknown,2.3,crumbly,50
+7/22/2023,MudNowitnaDirt,65,C,unknown,2.1,crumbly,50
+7/22/2023,MudNowitnaDirt,65,C,black spruce,2,hard,75
+7/22/2023,MudNowitnaDirt,66,A,unknown,2.8,crumbly,25
+7/22/2023,MudNowitnaDirt,66,A,black spruce,9.2,hard,25
+7/22/2023,MudNowitnaDirt,66,A,black spruce,11.5,hard,25
+7/22/2023,MudNowitnaDirt,66,A,unknown,4.1,crumbly,75
+7/22/2023,MudNowitnaDirt,66,A,unknown,6.7,crumbly,75
+7/22/2023,MudNowitnaDirt,66,B,black spruce,3.2,hard,50
+7/22/2023,MudNowitnaDirt,66,B,unknown,2.3,hard,50
+7/22/2023,MudNowitnaDirt,66,B,black spruce,3,hard,75
+7/22/2023,MudNowitnaDirt,66,C,black spruce,3,hard,25
+7/22/2023,MudNowitnaDirt,66,C,black spruce,2,crumbly,25
+7/22/2023,MudNowitnaDirt,66,C,unknown,2.5,crumbly,50
+7/22/2023,MudNowitnaDirt,66,C,black spruce,2.6,hard,75
+7/22/2023,MudNowitnaDirt,66,C,unknown,2.7,hard,75
+7/22/2023,MudNowitnaDirt,66,C,birch,7.2,hard,75
+7/22/2023,MudNowitnaDirt,67,A,black spruce,1.1,hard,25
+7/22/2023,MudNowitnaDirt,67,A,unknown conifer,7,hard,25
+7/22/2023,MudNowitnaDirt,67,A,unknown,3.7,crumbly,25
+7/22/2023,MudNowitnaDirt,67,A,unknown conifer,2.2,hard,25
+7/22/2023,MudNowitnaDirt,67,A,unknown conifer,3.6,crumbly,25
+7/22/2023,MudNowitnaDirt,67,A,unknown conifer,5.2,hard,50
+7/22/2023,MudNowitnaDirt,67,B,unknown conifer,2,hard,25
+7/22/2023,MudNowitnaDirt,67,B,birch,2.8,hard,25
+7/22/2023,MudNowitnaDirt,67,B,unknown conifer,2.2,hard,25
+7/22/2023,MudNowitnaDirt,67,B,unknown conifer,1.4,crumbly,25
+7/22/2023,MudNowitnaDirt,67,B,unknown,2.1,hard,50
+7/22/2023,MudNowitnaDirt,67,B,unknown,4.5,hard,50
+7/22/2023,MudNowitnaDirt,67,B,unknown conifer,2,hard,75
+7/22/2023,MudNowitnaDirt,67,B,unknown,2.5,hard,75
+7/22/2023,MudNowitnaDirt,67,C,birch,1.7,hard,25
+7/22/2023,MudNowitnaDirt,67,C,unknown,2.8,hard,25
+7/22/2023,MudNowitnaDirt,67,C,black spruce,5,hard,25
+7/22/2023,MudNowitnaDirt,67,C,unknown,2.9,hard,25
+7/22/2023,MudNowitnaDirt,67,C,black spruce,5.8,hard,50
+7/22/2023,MudNowitnaDirt,67,C,unknown conifer,6.3,crumbly,50
+7/23/2023,MudNowitnaDirt,68,A,unknown,2.2,hard,75
+7/23/2023,MudNowitnaDirt,68,B,black spruce,3.3,crumbly,50
+7/23/2023,MudNowitnaDirt,68,B,unknown,6.8,hard,75
+7/23/2023,MudNowitnaDirt,68,C,black spruce,7.4,hard,25
+7/23/2023,MudNowitnaDirt,68,C,unknown,2.1,hard,75
+7/23/2023,MudNowitnaDirt,68,C,black spruce,3.1,hard,75
+7/23/2023,MudNowitnaDirt,69,A,unknown,2.6,hard,75
+7/23/2023,MudNowitnaDirt,69,A,unknown,2.3,hard,75
+7/23/2023,MudNowitnaDirt,69,A,unknown,4.2,crumbly,75
+7/23/2023,MudNowitnaDirt,69,B,unknown,2.5,hard,50
+7/23/2023,MudNowitnaDirt,69,C,black spruce,9.3,hard,25
+7/23/2023,MudNowitnaDirt,69,C,black spruce,3.2,hard,50
+7/23/2023,MudNowitnaDirt,69,C,black spruce,4.3,hard,50
+7/23/2023,MudNowitnaDirt,69,C,black spruce,9.3,hard,50
+7/23/2023,MudNowitnaDirt,69,C,unknown,3.6,hard,50
+7/23/2023,MudNowitnaDirt,69,C,black spruce,6.4,hard,50
+7/23/2023,MudNowitnaDirt,69,C,black spruce,5.5,hard,75
+7/23/2023,MudNowitnaDirt,69,C,black spruce,3.4,hard,75
+7/23/2023,MudNowitnaDirt,69,C,unknown,3,hard,75
+7/26/2022,PreachPreacher,46,A,white spruce,4.2,hard,75
+7/26/2022,PreachPreacher,46,A,white spruce,7.1,hard,75
+7/26/2022,PreachPreacher,46,A,white spruce,16.5,crumbly,75
+7/26/2022,PreachPreacher,46,A,white spruce,8.4,hard,50
+7/26/2022,PreachPreacher,46,A,white spruce,18.8,hard,25
+7/26/2022,PreachPreacher,46,B,white spruce,14.5,hard,50
+7/26/2022,PreachPreacher,46,B,white spruce,16.1,crumbly,75
+7/26/2022,PreachPreacher,46,B,white spruce,9.1,hard,75
+7/26/2022,PreachPreacher,46,C,white spruce,4.8,hard,50
+7/26/2022,PreachPreacher,46,C,white spruce,5,soft,50
+7/26/2022,PreachPreacher,46,C,white spruce,35.2,hard,75
+7/26/2022,PreachPreacher,281,A,white spruce,5.4,hard,0
+7/26/2022,PreachPreacher,281,A,white spruce,5.5,hard,0
+7/26/2022,PreachPreacher,281,A,white spruce,6.5,hard,25
+7/26/2022,PreachPreacher,281,A,white spruce,5.8,hard,25
+7/26/2022,PreachPreacher,281,A,white spruce,13.8,hard,0
+7/26/2022,PreachPreacher,281,A,white spruce,11.9,hard,0
+7/26/2022,PreachPreacher,281,A,white spruce,3.5,hard,0
+7/26/2022,PreachPreacher,281,B,white spruce,3.5,hard,0
+7/26/2022,PreachPreacher,281,B,white spruce,3.2,hard,25
+7/26/2022,PreachPreacher,281,C,white spruce,5,hard,0
+7/26/2022,PreachPreacher,281,C,white spruce,15,hard,0
+7/26/2022,PreachPreacher,281,C,aspen,7.4,hard,0
+7/26/2022,PreachPreacher,281,C,white spruce,4.9,hard,0
+7/26/2022,PreachPreacher,483,A,white spruce,7.8,hard,75
+7/26/2022,PreachPreacher,483,B,white spruce,10.2,hard,75
+7/26/2022,PreachPreacher,483,B,white spruce,4.8,crumbly,75
+7/26/2022,PreachPreacher,483,B,white spruce,12.5,hard,75
+7/26/2022,PreachPreacher,483,B,white spruce,14.2,hard,25
+7/26/2022,PreachPreacher,483,C,NA,NA,NA,NA
+7/26/2022,PreachPreacher,579,A,white spruce,6.5,hard,75
+7/26/2022,PreachPreacher,579,A,white spruce,12.5,hard,75
+7/26/2022,PreachPreacher,579,A,white spruce,14.5,hard,75
+7/26/2022,PreachPreacher,579,A,white spruce,8.1,hard,75
+7/26/2022,PreachPreacher,579,A,white spruce,20.9,hard,75
+7/26/2022,PreachPreacher,579,B,white spruce,13.2,hard,75
+7/26/2022,PreachPreacher,579,B,white spruce,12.2,hard,75
+7/26/2022,PreachPreacher,579,B,white spruce,12.2,hard,50
+7/26/2022,PreachPreacher,579,B,white spruce,16.5,soft,75
+7/26/2022,PreachPreacher,579,B,white spruce,15.1,hard,50
+7/26/2022,PreachPreacher,579,B,white spruce,23.9,hard,25
+7/26/2022,PreachPreacher,579,B,white spruce,9.5,hard,25
+7/26/2022,PreachPreacher,579,B,white spruce,5.2,hard,25
+7/26/2022,PreachPreacher,579,B,white spruce,20.2,hard,25
+7/26/2022,PreachPreacher,579,B,white spruce,14.2,hard,25
+7/26/2022,PreachPreacher,579,C,white spruce,6.6,hard,50
+7/26/2022,PreachPreacher,579,C,white spruce,14.4,hard,50
+7/26/2022,PreachPreacher,579,C,white spruce,5.6,hard,25
+7/26/2022,PreachPreacher,918,A,white spruce,4.8,crumbly,75
+7/26/2022,PreachPreacher,918,A,white spruce,6.9,hard,75
+7/26/2022,PreachPreacher,918,A,white spruce,5.2,hard,50
+7/26/2022,PreachPreacher,918,A,white spruce,6.5,hard,50
+7/26/2022,PreachPreacher,918,A,white spruce,12.5,hard,25
+7/26/2022,PreachPreacher,918,A,white spruce,15.9,hard,75
+7/26/2022,PreachPreacher,918,A,white spruce,16,hard,25
+7/26/2022,PreachPreacher,918,A,white spruce,26.8,hard,25
+7/26/2022,PreachPreacher,918,A,white spruce,27.5,hard,25
+7/26/2022,PreachPreacher,918,A,white spruce,6.2,hard,0
+7/26/2022,PreachPreacher,918,B,white spruce,21,hard,25
+7/26/2022,PreachPreacher,918,B,white spruce,11.8,hard,0
+7/26/2022,PreachPreacher,918,B,white spruce,3.5,hard,0
+7/26/2022,PreachPreacher,918,B,white spruce,4.2,hard,75
+7/26/2022,PreachPreacher,918,B,aspen,4.5,hard,25
+7/26/2022,PreachPreacher,918,B,white spruce,14.1,hard,75
+7/26/2022,PreachPreacher,918,B,white spruce,14.5,crumbly,50
+7/26/2022,PreachPreacher,918,B,white spruce,5.5,hard,75
+7/26/2022,PreachPreacher,918,C,white spruce,24.2,hard,25
+7/26/2022,PreachPreacher,918,C,white spruce,6.9,hard,75
+7/26/2022,PreachPreacher,918,C,white spruce,9.5,hard,50
+7/26/2022,PreachPreacher,918,C,white spruce,11.8,hard,75
+7/26/2022,PreachPreacher,918,C,white spruce,7.8,hard,0
+7/26/2022,PreachPreacher,918,C,white spruce,9.1,hard,75
+7/26/2022,PreachPreacher,918,C,white spruce,15.5,crumbly,50
+7/26/2022,PreachPreacher,918,C,white spruce,7.2,hard,50
+7/26/2022,PreachPreacher,918,C,white spruce,4.4,hard,50
+7/26/2022,PreachPreacher,918,C,white spruce,3.8,crumbly,50
+7/26/2022,PreachPreacher,918,C,white spruce,10.2,hard,25
+7/26/2022,PreachPreacher,918,C,white spruce,13.4,hard,50
+7/26/2022,PreachPreacher,918,C,white spruce,11.5,hard,50
+7/26/2022,PreachPreacher,918,C,white spruce,7.5,soft,25
+7/26/2022,PreachPreacher,8675309,A,black spruce,15.2,hard,25
+7/26/2022,PreachPreacher,8675309,A,black spruce,13.5,hard,25
+7/26/2022,PreachPreacher,8675309,A,black spruce,4,hard,75
+7/26/2022,PreachPreacher,8675309,A,black spruce,4.1,hard,0
+7/26/2022,PreachPreacher,8675309,A,black spruce,3.1,hard,0
+7/26/2022,PreachPreacher,8675309,A,black spruce,10.5,hard,50
+7/26/2022,PreachPreacher,8675309,A,black spruce,3.1,hard,0
+7/26/2022,PreachPreacher,8675309,B,black spruce,6.6,hard,0
+7/26/2022,PreachPreacher,8675309,B,black spruce,7.9,hard,50
+7/26/2022,PreachPreacher,8675309,B,black spruce,10.6,hard,50
+7/26/2022,PreachPreacher,8675309,B,black spruce,5.9,hard,0
+7/26/2022,PreachPreacher,8675309,B,black spruce,9.8,hard,25
+7/26/2022,PreachPreacher,8675309,B,black spruce,4.1,hard,0
+7/26/2022,PreachPreacher,8675309,B,black spruce,2.9,hard,25
+7/26/2022,PreachPreacher,8675309,B,black spruce,4,hard,0
+7/26/2022,PreachPreacher,8675309,B,black spruce,10.5,hard,50
+7/26/2022,PreachPreacher,8675309,B,black spruce,9.9,hard,50
+7/26/2022,PreachPreacher,8675309,C,black spruce,4.8,hard,0
+7/26/2022,PreachPreacher,8675309,C,black spruce,4,hard,0
+7/26/2022,PreachPreacher,8675309,C,black spruce,4,hard,0
+7/26/2022,PreachPreacher,8675309,C,black spruce,6.5,hard,75
+7/26/2022,PreachPreacher,8675309,C,black spruce,5.2,hard,50
+7/26/2022,PreachPreacher,8675309,C,black spruce,7,hard,50
+7/26/2022,PreachPreacher,8675309,C,black spruce,17.1,hard,25
+7/26/2022,PreachPreacher,8675309,C,black spruce,3,hard,0
+7/5/2021,Shovel,8,A,black spruce,12.2,hard,25
+7/5/2021,Shovel,8,B,black spruce,9.3,hard,25
+7/5/2021,Shovel,8,B,unknown,7.8,crumbly,75
+7/5/2021,Shovel,8,B,unknown,8.5,crumbly,75
+7/5/2021,Shovel,8,C,black spruce,5.1,crumbly,75
+7/5/2021,Shovel,8,C,unknown,9.3,crumbly,75
+7/5/2021,Shovel,18,A,black spruce,7,crumbly,50
+7/4/2021,Shovel,21,A,NA,NA,NA,NA
+7/5/2021,Shovel,26,A,unknown conifer,5.5,crumbly,75
+7/5/2021,Shovel,26,B,unknown conifer,6,crumbly,50
+7/5/2021,Shovel,26,B,unknown conifer,6,hard,50
+7/5/2021,Shovel,26,C,unknown conifer,6.2,hard,75
+7/3/2021,Shovel,41,A,unknown,9.3,hard,75
+7/3/2021,Shovel,41,B,unknown,10.7,crumbly,75
+7/3/2021,Shovel,41,B,unknown,3.8,soft,25
+7/3/2021,Shovel,41,C,black spruce,7.3,hard,50
+7/3/2021,Shovel,41,C,unknown,9.9,hard,50
+7/20/2021,Shovel,47,A,black spruce,9.1,hard,75
+7/20/2021,Shovel,47,B,black spruce,4.2,hard,75
+7/20/2021,Shovel,47,C,NA,NA,NA,NA
+7/5/2021,Shovel,60,A,unknown,7.7,crumbly,75
+7/5/2021,Shovel,60,C,unknown,6.9,crumbly,75
+7/5/2021,Shovel,60,C,unknown,12.4,crumbly,50
+7/5/2021,Shovel,60,C,unknown,10.2,crumbly,25
+7/20/2023,SnohomishEagle,60,A,unknown,6.3,crumbly,50
+7/20/2023,SnohomishEagle,60,A,unknown,7.8,hard,75
+7/20/2023,SnohomishEagle,60,B,unknown,7.6,soft,25
+7/20/2023,SnohomishEagle,60,B,black spruce,5.9,hard,25
+7/20/2023,SnohomishEagle,60,B,unknown,6.3,soft,75
+7/20/2023,SnohomishEagle,60,B,unknown,1.5,hard,75
+7/20/2023,SnohomishEagle,60,B,unknown,7.8,crumbly,75
+7/20/2023,SnohomishEagle,60,C,black spruce,1.1,hard,25
+7/20/2023,SnohomishEagle,60,C,unknown,1.5,crumbly,50
+7/20/2023,SnohomishEagle,60,C,unknown,5.4,crumbly,50
+7/20/2023,SnohomishEagle,60,C,black spruce,2.2,hard,50
+7/20/2023,SnohomishEagle,60,C,unknown,6.3,soft,75
+7/20/2023,SnohomishEagle,60,C,unknown,9.9,soft,75
+7/20/2023,SnohomishEagle,60,C,black spruce,2,crumbly,75
+7/20/2023,SnohomishEagle,60,C,unknown,4.4,soft,75
+7/20/2023,SnohomishEagle,60,C,black spruce,5,hard,75
+7/20/2023,SnohomishEagle,61,A,black spruce,2,hard,50
+7/20/2023,SnohomishEagle,61,A,unknown,1.5,hard,75
+7/20/2023,SnohomishEagle,61,A,unknown,1.6,crumbly,75
+7/20/2023,SnohomishEagle,61,A,unknown,3.2,crumbly,75
+7/20/2023,SnohomishEagle,61,B,NA,NA,NA,NA
+7/20/2023,SnohomishEagle,61,C,black spruce,2.9,hard,25
+7/20/2023,SnohomishEagle,61,C,black spruce,3.8,hard,50
+7/20/2023,SnohomishEagle,61,C,black spruce,2.9,hard,50
+7/20/2023,SnohomishEagle,61,C,unknown,2.1,hard,75
+7/20/2023,SnohomishEagle,61,C,unknown,1.3,crumbly,75
+7/21/2023,SnohomishEagle,62,A,black spruce,2.1,hard,25
+7/21/2023,SnohomishEagle,62,A,unknown,1.3,hard,25
+7/21/2023,SnohomishEagle,62,A,black spruce,1.5,hard,25
+7/21/2023,SnohomishEagle,62,A,aspen,3,crumbly,50
+7/21/2023,SnohomishEagle,62,A,unknown,1.4,hard,75
+7/21/2023,SnohomishEagle,62,A,unknown,8.7,crumbly,75
+7/21/2023,SnohomishEagle,62,B,black spruce,9.5,hard,25
+7/21/2023,SnohomishEagle,62,B,black spruce,3.3,hard,50
+7/21/2023,SnohomishEagle,62,B,unknown,2.4,hard,75
+7/21/2023,SnohomishEagle,62,C,black spruce,4.3,hard,25
+7/21/2023,SnohomishEagle,62,C,unknown,1.4,hard,75
+7/21/2023,SnohomishEagle,63,A,NA,NA,NA,NA
+7/21/2023,SnohomishEagle,63,B,NA,NA,NA,NA
+7/21/2023,SnohomishEagle,63,C,white spruce,26,hard,25
+7/21/2023,SnohomishEagle,64,A,black spruce,1.5,hard,25
+7/21/2023,SnohomishEagle,64,A,unknown,5.1,crumbly,75
+7/21/2023,SnohomishEagle,64,A,unknown,2.6,crumbly,75
+7/21/2023,SnohomishEagle,64,B,black spruce,6,hard,25
+7/21/2023,SnohomishEagle,64,B,black spruce,6.5,hard,50
+7/21/2023,SnohomishEagle,64,B,black spruce,2.5,crumbly,75
+7/21/2023,SnohomishEagle,64,B,unknown,1.5,hard,75
+7/21/2023,SnohomishEagle,64,C,unknown,2.5,hard,50
+7/21/2023,SnohomishEagle,64,C,unknown,1.2,crumbly,75
+7/21/2023,SnohomishEagle,64,C,black spruce,9,hard,75
+7/24/2021,TananaRoad,735,A,unknown,5.6,crumbly,25
+7/24/2021,TananaRoad,735,A,unknown,10.6,crumbly,75
+7/24/2021,TananaRoad,735,A,unknown,10,crumbly,75
+7/24/2021,TananaRoad,735,A,unknown,5,crumbly,50
+7/24/2021,TananaRoad,735,A,unknown conifer,7,crumbly,50
+7/24/2021,TananaRoad,735,A,unknown conifer,20.5,crumbly,50
+7/24/2021,TananaRoad,735,A,unknown conifer,16.7,crumbly,50
+7/24/2021,TananaRoad,735,B,unknown,12.4,crumbly,75
+7/24/2021,TananaRoad,735,C,unknown,6.3,crumbly,75
+7/24/2021,TananaRoad,735,C,unknown conifer,16.5,crumbly,75
+7/25/2021,TananaRoad,740,A,unknown,5.3,crumbly,50
+7/25/2021,TananaRoad,740,B,birch,5,crumbly,75
+7/25/2021,TananaRoad,740,B,black spruce,6,crumbly,75
+7/25/2021,TananaRoad,740,B,black spruce,5.7,crumbly,75
+7/25/2021,TananaRoad,740,B,black spruce,5.5,crumbly,75
+7/25/2021,TananaRoad,740,B,black spruce,6.5,crumbly,75
+7/25/2021,TananaRoad,740,B,unknown,17,crumbly,50
+7/25/2021,TananaRoad,740,C,unknown,7.6,crumbly,75
+7/24/2021,TananaRoad,747,A,unknown,6.7,crumbly,50
+7/24/2021,TananaRoad,747,A,unknown,12,crumbly,50
+7/24/2021,TananaRoad,747,B,unknown,9,hard,25
+7/24/2021,TananaRoad,747,B,unknown,8.7,crumbly,75
+7/24/2021,TananaRoad,747,B,unknown,5.1,hard,75
+7/24/2021,TananaRoad,747,B,unknown,9,crumbly,50
+7/24/2021,TananaRoad,747,B,unknown,10.2,crumbly,75
+7/24/2021,TananaRoad,747,B,unknown,5.8,crumbly,75
+7/24/2021,TananaRoad,747,B,unknown,8.2,crumbly,50
+7/24/2021,TananaRoad,747,C,unknown,9.6,hard,50
+7/25/2021,TananaRoad,757,A,NA,NA,NA,NA
+7/25/2021,TananaRoad,757,B,unknown,13.3,crumbly,75
+7/25/2021,TananaRoad,757,C,unknown,6.5,crumbly,75
+7/25/2021,TananaRoad,777,A,unknown,7,crumbly,50
+7/25/2021,TananaRoad,777,B,unknown,8.2,crumbly,25
+7/25/2021,TananaRoad,777,B,unknown,11.3,crumbly,25
+7/25/2021,TananaRoad,777,C,NA,NA,NA,NA
+7/25/2021,TananaRoad,876,A,black spruce,6.1,hard,25
+7/25/2021,TananaRoad,876,A,black spruce,6.6,hard,50
+7/25/2021,TananaRoad,876,A,unknown,7.4,crumbly,50
+7/25/2021,TananaRoad,876,B,NA,NA,NA,NA
+7/25/2021,TananaRoad,876,C,unknown,6.3,crumbly,25
+7/25/2021,TananaRoad,876,C,unknown,12.6,crumbly,50
+7/25/2021,TananaRoad,876,C,unknown,9,crumbly,50
+7/25/2021,TananaRoad,876,C,unknown,11.6,crumbly,50
+7/25/2021,TananaRoad,876,C,unknown,8,crumbly,75
+7/25/2021,TananaRoad,905,A,birch,8.5,soft,50
+7/25/2021,TananaRoad,905,A,unknown,13.1,soft,75
+7/25/2021,TananaRoad,905,A,unknown,11,soft,75
+7/25/2021,TananaRoad,905,B,unknown,18.5,soft,75
+7/25/2021,TananaRoad,905,B,unknown,11.2,crumbly,75
+7/25/2021,TananaRoad,905,B,unknown,9.7,crumbly,75
+7/25/2021,TananaRoad,905,B,unknown,7.7,soft,75
+7/25/2021,TananaRoad,905,B,unknown,15,soft,75
+7/25/2021,TananaRoad,905,B,unknown,8.2,soft,75
+7/25/2021,TananaRoad,905,B,unknown,22.6,soft,75
+7/25/2021,TananaRoad,905,C,black spruce,6,hard,75
+7/25/2021,TananaRoad,905,C,unknown,7.7,crumbly,75
+7/25/2021,TananaRoad,905,C,unknown,6.6,crumbly,75
+7/25/2021,TananaRoad,905,C,unknown,5.2,soft,75
+7/24/2021,TananaRoad,929,A,unknown,7.3,crumbly,25
+7/24/2021,TananaRoad,929,B,NA,NA,NA,NA
+7/24/2021,TananaRoad,929,C,NA,NA,NA,NA
+7/21/2022,Tractor,1232,A,white spruce,8.2,crumbly,75
+7/21/2022,Tractor,1232,A,white spruce,11.5,crumbly,75
+7/21/2022,Tractor,1232,B,NA,NA,NA,NA
+7/21/2022,Tractor,1232,C,white spruce,10.9,hard,50
+7/21/2022,Tractor,1232,C,white spruce,9,hard,25
+7/21/2022,Tractor,1232,C,white spruce,8.3,hard,50
+7/21/2022,Tractor,1232,C,white spruce,9.8,crumbly,50
+7/21/2022,Tractor,1232,C,white spruce,14,hard,50
+7/21/2022,Tractor,2132,A,unknown conifer,16.1,soft,75
+7/21/2022,Tractor,2132,B,unknown conifer,9.7,hard,50
+7/21/2022,Tractor,2132,B,unknown conifer,10,crumbly,75
+7/21/2022,Tractor,2132,B,unknown conifer,6,crumbly,50
+7/21/2022,Tractor,2132,B,unknown conifer,6,hard,75
+7/21/2022,Tractor,2132,C,unknown conifer,9.1,hard,50
+7/21/2022,Tractor,2132,C,unknown conifer,14.6,hard,25
+7/21/2022,Tractor,2513,A,white spruce,9,crumbly,75
+7/21/2022,Tractor,2513,B,NA,NA,NA,NA
+7/21/2022,Tractor,2513,C,white spruce,9.9,soft,75
+7/21/2022,Tractor,2759,A,NA,NA,NA,NA
+7/21/2022,Tractor,2759,B,NA,NA,NA,NA
+7/21/2022,Tractor,2759,C,NA,NA,NA,NA
+7/21/2022,Tractor,3982,A,NA,NA,NA,NA
+7/21/2022,Tractor,3982,B,NA,NA,NA,NA
+7/21/2022,Tractor,3982,C,NA,NA,NA,NA
+7/21/2022,Tractor,4156,A,white spruce,8.3,hard,75
+7/21/2022,Tractor,4156,A,white spruce,7.2,hard,75
+7/21/2022,Tractor,4156,B,white spruce,9.3,hard,75
+7/21/2022,Tractor,4156,C,white spruce,5.5,soft,75
+7/21/2022,Tractor,4156,C,white spruce,10.1,soft,75
+7/21/2022,Tractor,4156,C,white spruce,5.6,crumbly,75

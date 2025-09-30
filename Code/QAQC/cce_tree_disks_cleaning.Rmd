@@ -1,0 +1,61 @@
+---
+title: "cce_tree_disks_cleaning"
+author: "Weronika Konwent"
+date: "2024-09-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+```
+
+## Cleaning CCE_tree_disks data
+#### Here we will clean CCE_tree_disks data and fix any typos, inconsistencies, and other potential issues.
+
+
+```{r cce_site}
+#read in the datafile
+cce_tree_disks <- read.csv("data/working/raw/cce_tree_disks.csv")
+
+#let's have a little preview
+head(cce_tree_disks)
+
+#ok, this dataset seems like it's in pretty good shape. we need to make sure all fire_scars and sites are standardized. I think we should leave labels to the mess that they are, that's no problem. We should fix up the ones that don't have *enough* info. It does seem like there are no NA in diameter and height, so that's great!
+
+#let's start with fixing up fire_scar
+sort(unique(cce_tree_disks$fire_scar))
+cce_tree_disks <- cce_tree_disks %>%
+  mutate(fire_scar = case_when(
+    fire_scar == "Lost horse" ~ "Lost Horse",
+    fire_scar == "Lot horse" ~ "Lost Horse", TRUE ~ fire_scar))
+
+
+#next, fix site name typos
+sort(unique(cce_tree_disks$site))
+cce_tree_disks <- cce_tree_disks %>%
+  mutate(site = case_when(site == "Hays5 " ~ "Hays5",
+                          site == "HAYS6" ~ "Hays6",
+                          site == "Loho1" ~ "LoHo1",
+                          site == "Loho2" ~ "LoHo2", 
+                          site == "NuCr1 " ~ "NuCr1", TRUE ~ site))
+#missing LoHo3!! Can probably back fill much of this data from the tree disk itself.
+
+#fix just a couple disk_labels, that don't stand on their own
+cce_tree_disks <- cce_tree_disks %>%
+  mutate(disk_label = case_when(site == "DrCr2" & plot == "B" ~ "DrCr2B",
+                                site == "NuCr6" & plot == "A" ~ "NuCr6A", TRUE ~ disk_label))
+
+#perhaps let's add a project column
+cce_tree_disks <- cce_tree_disks %>%
+  mutate(project = "CCE")
+
+#let's clean up our columns
+cce_tree_disks <- select(cce_tree_disks, project, date, fire_scar, site, plot, disk_label, disk_species, disk_sample_diameter, disk_height, disk_notes)
+
+#that should be everything! these data are clean and ready for analysis
+write.csv(cce_tree_disks, file = "data/working/clean/cce_tree_disks.csv")
+```
+
+#### These data are now clean and ready for analysis. Some notes: where is LoHo3????

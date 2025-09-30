@@ -1,0 +1,87 @@
+---
+title: "cce_plants_cleaning"
+author: "Weronika Konwent"
+date: "2024-09-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+```
+
+## Cleaning CCE_plants data
+#### Here we will clean CCE_plants data and fix any typos, inconsistencies, and other potential issues.
+
+
+```{r cce_ground}
+#read in the datafile
+cce_plants <- read.csv("data/working/raw/cce_plants.csv")
+
+#let's have a little preview
+head(cce_plants)
+
+#ok, this dataset is pretty big. 
+sort(unique(cce_plants$fire_scar))
+cce_plants <- cce_plants %>%
+  mutate(fire_scar = case_when(fire_scar == "Shovel creek" ~ "Shovel Creek",
+                               fire_scar == "Hess creek" ~ "Hess Creek", TRUE ~ fire_scar))
+
+#fix site name typos
+sort(unique(cce_plants$site))
+cce_plants <- cce_plants %>%
+  mutate(site = case_when(site == "MCCR6" ~ "McCr6",
+                          site == "HAYS5" ~ "Hays5", 
+                          site == "MCCR2" ~ "McCr2",
+                          site == "MCCR1" ~ "McCr1",
+                          site == "MCCR5" ~ "McCr5", 
+                          site == "HAYS6" ~ "Hays6",
+                          site == "MCCR4" ~ "McCr4", 
+                          site == "HAYS4" ~ "Hays4", TRUE ~ site))
+
+#let's move the one site that has location_other
+cce_plants <- cce_plants %>%
+  mutate(location = ifelse(location == "" | is.na(location), location_other, location))
+
+#then let's move plant_species_other to plant_species
+cce_plants <- cce_plants %>%
+  mutate(plant_species = ifelse(plant_species == "" | is.na(plant_species), plant_species_other, plant_species))
+
+#looking at species, we have a few typos. 
+###also, what is "SDG"?
+sort(unique(cce_plants$plant_species))
+cce_plants <- cce_plants %>%
+  mutate(plant_species = case_when(plant_species == "Aster spp" ~ "Asteraceae spp",
+                                   plant_species == "Calamagrostis stricta " ~ "Calamagrostis stricta",
+                                   plant_species == " Carex spp" ~ "Carex spp",
+                                   plant_species == "Carex" ~ "Carex spp",
+                                   plant_species == "Carex sp" ~ "Carex spp",
+                                   plant_species == "Diphasiastrum " ~ "Diphasiastrum spp",
+                                   plant_species == "Equisetum palustre " ~ "Equisetum palustre",
+                                   plant_species == "Grass litter " ~ "Grass litter",
+                                   plant_species == "Irisitosa spp" ~ "Iris setosa",
+                                   plant_species == "Platanthera aquilonis " ~ "Platanthera aquilonis",
+                                   plant_species == "Pyrola" ~ "Pyrola spp",
+                                   plant_species == "Solidago" ~ "Solidago spp",
+                                   plant_species == "Solidago " ~ "Solidago spp",
+                                   plant_species == "Solidgo spp" ~ "Solidago spp",
+                                   plant_species == "Stellaria longipes " ~ "Stellaria longipes",
+                                   plant_species == "Taraxacum officionale " ~ "Taraxacum officionale",
+                                   plant_species == "Unknown aster" ~ "Asteraceae spp", TRUE ~ plant_species))
+
+#there's one site note that changes the location. let's make that change in the location column
+cce_plants <- cce_plants %>%
+  mutate(location = ifelse(site_notes == "0m, not 9m. Entered as 9 due to fulcrum set up.", "0 m", location))
+
+#perhaps let's add a project column
+cce_plants <- cce_plants %>%
+  mutate(project = "CCE")
+
+#let's clean up our columns
+cce_plants <- select(cce_plants, date, fire_scar, site, plot, location, site_notes, plant_species, plant_species_cover, veg_cover_notes)
+
+write.csv(cce_plants, file = "data/working/clean/cce_plants.csv")
+```
+
+#### These data are now clean and ready for analysis. I removed photos from this clean version, but the photo IDs still exist in the working/raw folder. 

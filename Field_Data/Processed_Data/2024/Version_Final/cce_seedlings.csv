@@ -1,0 +1,483 @@
+"","date","project","fire_scar","site","plot","location","site_notes","seedlings_present","species","seedling_count","bd1","bd2","bd3"
+"1","2024-08-02","CCE","Teklanika ","Tekl6","A","6 m","","no",NA,NA,NA,NA,NA
+"2","2024-08-06","CCE","Dry Creek","DrCr4","C","3 m","","no",NA,NA,NA,NA,NA
+"3","2024-07-14","CCE","Haystack","Hays1","A","9 m","","no",NA,NA,NA,NA,NA
+"4","2024-07-18","CCE","Lost Horse","LoHo6","C","3 m","","no",NA,NA,NA,NA,NA
+"5","2024-07-31","CCE","Nugget Creek","NuCr4","A","3 m","","yes","birch",7,0.04,0.01,0.01
+"6","2024-08-03","CCE","Teklanika ","Tekl3","C","3 m","","yes","black spruce",1,0.03,NA,NA
+"7","2024-07-29","CCE","McCoy Creek","McCr6","A","6 m","","no",NA,NA,NA,NA,NA
+"8","2024-07-28","CCE","McCoy Creek","McCr1","C","6 m","","yes","black spruce",2,0.01,0.01,0.01
+"9","2024-08-05","CCE","Dry Creek","DrCr2","B","3 m","","yes","black spruce",4,0.03,0.02,0.02
+"10","2024-07-31","CCE","Nugget Creek","NuCr6","C","3 m","","no",NA,NA,NA,NA,NA
+"11","2024-07-17","CCE","Shovel Creek","ShCr6","B","3 m","","no",NA,NA,NA,NA,NA
+"12","2024-08-03","CCE","Teklanika ","Tekl2","A","3 m","","yes","birch",1,0.08,NA,NA
+"13","2024-07-16","CCE","Shovel Creek","ShCr2","C","6 m","","no",NA,NA,NA,NA,NA
+"14","2024-07-25","CCE","Haystack","Hays5","A","9 m","","no",NA,NA,NA,NA,NA
+"15","2024-07-22","CCE","Hess Creek","HeCr1","C","3 m","","no",NA,NA,NA,NA,NA
+"16","2024-08-02","CCE","Teklanika ","Tekl5","A","3 m","","no",NA,NA,NA,NA,NA
+"17","2024-08-03","CCE","Teklanika ","Tekl1","B","6 m","","no",NA,NA,NA,NA,NA
+"18","2024-07-18","CCE","Lost Horse","LoHo5","C","9 m","","no",NA,NA,NA,NA,NA
+"19","2024-08-04","CCE","Munson Creek","MuCr4","A","3 m","","yes","black spruce",3,0.08,0.07,0.05
+"20","2024-07-15","CCE","Lost Horse","LoHo1","B","3 m","","no",NA,NA,NA,NA,NA
+"21","2024-07-23","CCE","Hess Creek","HeCr4","B","3 m","","yes","black spruce",1,0.01,NA,NA
+"22","2024-07-23","CCE","Hess Creek","HeCr4","B","3 m","","yes","birch",1,0.01,NA,NA
+"23","2024-08-01","CCE","Munson Creek","MuCr2","C","6 m","","yes","black spruce",2,0.16,0.09,NA
+"24","2024-08-01","CCE","Munson Creek","MuCr2","C","6 m","","yes","birch",1,0.11,NA,NA
+"25","2024-08-01","CCE","Munson Creek","MuCr3","B","3 m","","yes","birch",1,0.11,NA,NA
+"26","2024-07-14","CCE","Haystack","Hays2","C","3 m","","no",NA,NA,NA,NA,NA
+"27","2024-08-05","CCE","Dry Creek","DrCr3","A","3 m","","yes","black spruce",1,0.03,NA,NA
+"28","2024-08-02","CCE","Teklanika ","Tekl5","B","6 m","","no",NA,NA,NA,NA,NA
+"29","2024-07-30","CCE","Nugget Creek","NuCr2","C","3 m","","no",NA,NA,NA,NA,NA
+"30","2024-07-25","CCE","Haystack","Hays5","B","6 m","","no",NA,NA,NA,NA,NA
+"31","2024-07-30","CCE","Nugget Creek","NuCr1","A","3 m","","yes","black spruce",3,0.2,0.15,0.14
+"32","2024-07-30","CCE","Nugget Creek","NuCr1","A","3 m","","yes","birch",2,0.04,0.05,NA
+"33","2024-07-16","CCE","Shovel Creek","ShCr1","A","3 m","","yes","black spruce",15,0.09,0.01,0.06
+"34","2024-07-16","CCE","Shovel Creek","ShCr1","A","3 m","","yes","birch",1,0.01,NA,NA
+"35","2024-08-03","CCE","Teklanika ","Tekl3","C","6 m","","no",NA,NA,NA,NA,NA
+"36","2024-07-23","CCE","Hess Creek","HeCr6","A","9 m","","yes","black spruce",2,1.26,1.08,NA
+"37","2024-07-15","CCE","Lost Horse","LoHo3","A","3 m","","no",NA,NA,NA,NA,NA
+"38","2024-08-01","CCE","Munson Creek","MuCr1","B","3 m","","no",NA,NA,NA,NA,NA
+"39","2024-07-22","CCE","Hess Creek","HeCr1","A","6 m","","no",NA,NA,NA,NA,NA
+"40","2024-08-06","CCE","Dry Creek","DrCr4","B","6 m","","no",NA,NA,NA,NA,NA
+"41","2024-07-29","CCE","McCoy Creek","McCr2","B","6 m","","yes","black spruce",1,0.01,NA,NA
+"42","2024-08-06","CCE","Dry Creek","DrCr6","C","6 m","","no",NA,NA,NA,NA,NA
+"43","2024-08-06","CCE","Dry Creek","DrCr4","A","3 m","","no",NA,NA,NA,NA,NA
+"44","2024-07-28","CCE","McCoy Creek","McCr5","A","6 m","","yes","black spruce",1,0.02,NA,NA
+"45","2024-08-02","CCE","Teklanika ","Tekl6","C","6 m","","no",NA,NA,NA,NA,NA
+"46","2024-07-23","CCE","Hess Creek","HeCr6","C","3 m","","yes","birch",1,0.01,NA,NA
+"47","2024-07-23","CCE","Hess Creek","HeCr6","C","3 m","","yes","black spruce",6,0.13,0.09,0.09
+"48","2024-07-15","CCE","Lost Horse","LoHo2","B","3 m","","no",NA,NA,NA,NA,NA
+"49","2024-08-03","CCE","Teklanika ","Tekl3","A","6 m","","yes","black spruce",1,0.03,NA,NA
+"50","2024-07-28","CCE","McCoy Creek","McCr5","B","3 m","","yes","black spruce",1,0.03,NA,NA
+"51","2024-08-04","CCE","Munson Creek","MuCr5","A","6 m","","no",NA,NA,NA,NA,NA
+"52","2024-08-03","CCE","Teklanika ","Tekl1","A","3 m","","no",NA,NA,NA,NA,NA
+"53","2024-07-30","CCE","Nugget Creek","NuCr2","B","6 m","","yes","black spruce",1,0.05,NA,NA
+"54","2024-07-23","CCE","Hess Creek","HeCr4","B","9 m","","yes","birch",4,0.01,0.01,0.1
+"55","2024-07-23","CCE","Hess Creek","HeCr4","B","9 m","","yes","aspen",1,0.11,NA,NA
+"56","2024-07-23","CCE","Hess Creek","HeCr4","B","9 m","","yes","black spruce",7,0.1,0.1,0.09
+"57","2024-07-14","CCE","Haystack","Hays1","C","9 m","","no",NA,NA,NA,NA,NA
+"58","2024-08-03","CCE","Teklanika ","Tekl2","B","6 m","","no",NA,NA,NA,NA,NA
+"59","2024-07-15","CCE","Lost Horse","LoHo3","C","3 m","","no",NA,NA,NA,NA,NA
+"60","2024-07-30","CCE","Nugget Creek","NuCr3","B","3 m","","yes","black spruce",21,0.22,0.16,0.29
+"61","2024-07-30","CCE","Nugget Creek","NuCr3","B","3 m","","yes","birch",3,0.13,1.04,0.12
+"62","2024-07-18","CCE","Lost Horse","LoHo6","B","3 m","","no",NA,NA,NA,NA,NA
+"63","2024-07-25","CCE","Haystack","Hays6","A","6 m","","no",NA,NA,NA,NA,NA
+"64","2024-07-15","CCE","Lost Horse","LoHo2","B","9 m","","no",NA,NA,NA,NA,NA
+"65","2024-07-14","CCE","Haystack","Hays2","B","3 m","","no",NA,NA,NA,NA,NA
+"66","2024-07-17","CCE","Shovel Creek","ShCr6","B","6 m","","no",NA,NA,NA,NA,NA
+"67","2024-07-22","CCE","Hess Creek","HeCr2","C","9 m","","no",NA,NA,NA,NA,NA
+"68","2024-07-22","CCE","Hess Creek","HeCr1","B","3 m","","yes","black spruce",8,0.14,0.08,0.1
+"69","2024-07-22","CCE","Hess Creek","HeCr1","B","3 m","","yes","birch",1,0.16,NA,NA
+"70","2024-07-31","CCE","Nugget Creek","NuCr4","A","6 m","","yes","black spruce",4,0.19,0.13,0.07
+"71","2024-07-28","CCE","McCoy Creek","McCr4","A","6 m","","yes","birch",1,0.01,NA,NA
+"72","2024-08-06","CCE","Dry Creek","DrCr5","B","6 m","","no",NA,NA,NA,NA,NA
+"73","2024-08-06","CCE","Dry Creek","DrCr5","C","3 m","","no",NA,NA,NA,NA,NA
+"74","2024-07-25","CCE","Haystack","Hays4","C","6 m","","no",NA,NA,NA,NA,NA
+"75","2024-07-15","CCE","Lost Horse","LoHo1","B","9 m","","no",NA,NA,NA,NA,NA
+"76","2024-08-02","CCE","Teklanika ","Tekl6","A","3 m","","no",NA,NA,NA,NA,NA
+"77","2024-07-18","CCE","Lost Horse","LoHo6","A","9 m","","no",NA,NA,NA,NA,NA
+"78","2024-07-14","CCE","Haystack","Hays2","A","6 m","","no",NA,NA,NA,NA,NA
+"79","2024-07-25","CCE","Haystack","Hays4","B","6 m","","no",NA,NA,NA,NA,NA
+"80","2024-07-30","CCE","Nugget Creek","NuCr3","B","6 m","","yes","black spruce",21,0.42,0.48,0.14
+"81","2024-07-30","CCE","Nugget Creek","NuCr3","B","6 m","","yes","birch",7,0.44,0.73,0.19
+"82","2024-07-31","CCE","Nugget Creek","NuCr5","A","6 m","","no",NA,NA,NA,NA,NA
+"83","2024-07-16","CCE","Shovel Creek","ShCr3","C","6 m","","yes","black spruce",2,0.04,0.05,NA
+"84","2024-08-07","CCE","McCoy Creek","McCr3","A","6 m","","yes","birch",4,0.01,0.01,0.02
+"85","2024-08-07","CCE","McCoy Creek","McCr3","A","6 m","","yes","black spruce",2,0.01,0.02,NA
+"86","2024-07-23","CCE","Hess Creek","HeCr6","B","6 m","","yes","black spruce",5,0.14,0.04,0.03
+"87","2024-07-18","CCE","Lost Horse","LoHo6","A","3 m","","no",NA,NA,NA,NA,NA
+"88","2024-07-17","CCE","Shovel Creek","ShCr5","C","3 m","","no",NA,NA,NA,NA,NA
+"89","2024-07-18","CCE","Lost Horse","LoHo6","C","6 m","","no",NA,NA,NA,NA,NA
+"90","2024-08-02","CCE","Teklanika ","Tekl5","B","3 m","","no",NA,NA,NA,NA,NA
+"91","2024-07-15","CCE","Lost Horse","LoHo1","A","6 m","","no",NA,NA,NA,NA,NA
+"92","2024-07-30","CCE","Nugget Creek","NuCr1","A","6 m","","yes","black spruce",4,0.25,0.16,0.07
+"93","2024-07-30","CCE","Nugget Creek","NuCr1","A","6 m","","yes","birch",10,0.11,0.14,0.21
+"94","2024-07-30","CCE","Nugget Creek","NuCr1","A","6 m","","yes","aspen",2,0.3,0.16,NA
+"95","2024-07-16","CCE","Shovel Creek","ShCr2","B","3 m","","yes","black spruce",10,0.1,0.19,0.15
+"96","2024-07-16","CCE","Shovel Creek","ShCr2","B","3 m","","yes","aspen",1,0.21,NA,NA
+"97","2024-07-16","CCE","Shovel Creek","ShCr2","B","3 m","","yes","birch",3,0.1,0.15,0.16
+"98","2024-07-25","CCE","Haystack","Hays6","C","3 m","","no",NA,NA,NA,NA,NA
+"99","2024-07-16","CCE","Shovel Creek","ShCr3","A","6 m","","no",NA,NA,NA,NA,NA
+"100","2024-07-17","CCE","Shovel Creek","ShCr5","C","9 m","","no",NA,NA,NA,NA,NA
+"101","2024-07-25","CCE","Haystack","Hays4","C","9 m","","no",NA,NA,NA,NA,NA
+"102","2024-08-03","CCE","Teklanika ","Tekl2","C","6 m","","no",NA,NA,NA,NA,NA
+"103","2024-07-16","CCE","Shovel Creek","ShCr4","A","6 m","","yes","black spruce",1,0.01,NA,NA
+"104","2024-07-28","CCE","McCoy Creek","McCr1","B","3 m","","yes","black spruce",3,0.01,0.01,0.01
+"105","2024-07-15","CCE","Lost Horse","LoHo3","B","6 m","","no",NA,NA,NA,NA,NA
+"106","2024-07-22","CCE","Shovel Creek","ShCr6","C","6 m","","yes","black spruce",16,0.11,0.12,0.11
+"107","2024-07-22","CCE","Shovel Creek","ShCr6","C","6 m","","yes","birch",5,0.1,0.1,0.1
+"108","2024-07-17","CCE","Shovel Creek","ShCr6","C","9 m","","no",NA,NA,NA,NA,NA
+"109","2024-08-02","CCE","Teklanika ","Tekl4","A","3 m","","no",NA,NA,NA,NA,NA
+"110","2024-07-16","CCE","Shovel Creek","ShCr2","C","9 m","","yes","birch",7,0.2,0.2,0.01
+"111","2024-07-16","CCE","Shovel Creek","ShCr2","C","9 m","","yes","aspen",1,0.1,NA,NA
+"112","2024-07-16","CCE","Shovel Creek","ShCr2","C","9 m","","yes","black spruce",10,0.2,0.15,0.1
+"113","2024-08-01","CCE","Munson Creek","MuCr3","C","6 m","","yes","birch",1,0.05,NA,NA
+"114","2024-08-01","CCE","Munson Creek","MuCr3","C","6 m","","yes","black spruce",6,0.06,0.08,0.02
+"115","2024-08-02","CCE","Teklanika ","Tekl4","C","3 m","","no",NA,NA,NA,NA,NA
+"116","2024-07-18","CCE","Lost Horse","LoHo4 ","C","3 m","","no",NA,NA,NA,NA,NA
+"117","2024-07-18","CCE","Lost Horse","LoHo4 ","B","6 m","","no",NA,NA,NA,NA,NA
+"118","2024-08-06","CCE","Dry Creek","DrCr4","A","6 m","","yes","black spruce",1,0.02,NA,NA
+"119","2024-08-06","CCE","Dry Creek","DrCr4","A","6 m","","yes","aspen",3,0.1,0.11,0.08
+"120","2024-07-25","CCE","Haystack","Hays4","A","9 m","","no",NA,NA,NA,NA,NA
+"121","2024-07-22","CCE","Hess Creek","HeCr3","A","9 m","","yes","black spruce",1,0.09,NA,NA
+"122","2024-07-22","CCE","Hess Creek","HeCr3","A","9 m","","yes","birch",2,0.04,0.04,NA
+"123","2024-08-02","CCE","Teklanika ","Tekl6","B","6 m","","no",NA,NA,NA,NA,NA
+"124","2024-08-01","CCE","Munson Creek","MuCr1","C","6 m","","no",NA,NA,NA,NA,NA
+"125","2024-07-25","CCE","Haystack","Hays5","C","6 m","","no",NA,NA,NA,NA,NA
+"126","2024-08-02","CCE","Teklanika ","Tekl5","A","6 m","","no",NA,NA,NA,NA,NA
+"127","2024-07-22","CCE","Hess Creek","HeCr3","B","9 m","","yes","aspen",1,0.38,NA,NA
+"128","2024-07-22","CCE","Hess Creek","HeCr3","B","9 m","","yes","black spruce",3,0.14,0.09,0.1
+"129","2024-07-22","CCE","Hess Creek","HeCr3","B","9 m","","yes","birch",2,0.09,0.04,NA
+"130","2024-07-22","CCE","Hess Creek","HeCr2","A","6 m","","yes","black spruce",12,0.16,0.06,0.06
+"131","2024-07-22","CCE","Hess Creek","HeCr2","A","6 m","","yes","aspen",2,0.47,1.21,NA
+"132","2024-07-23","CCE","Hess Creek","HeCr5","C","3 m","","yes","black spruce",6,0.01,0.1,0.15
+"133","2024-07-25","CCE","Haystack","Hays4","A","6 m","","no",NA,NA,NA,NA,NA
+"134","2024-07-31","CCE","Nugget Creek","NuCr6","B","3 m","","yes","black spruce",13,0.2,0.59,0.08
+"135","2024-08-01","CCE","Munson Creek","MuCr2","B","9 m","","yes","birch",4,0.49,0.01,0.01
+"136","2024-08-01","CCE","Munson Creek","MuCr2","B","9 m","","yes","black spruce",4,0.05,0.06,0.04
+"137","2024-08-07","CCE","McCoy Creek","McCr3","B","6 m","","yes","birch",3,0.05,0.08,0.04
+"138","2024-08-07","CCE","McCoy Creek","McCr3","B","6 m","","yes","black spruce",9,0.01,0.01,0.02
+"139","2024-07-15","CCE","Lost Horse","LoHo1","A","9 m","","no",NA,NA,NA,NA,NA
+"140","2024-07-16","CCE","Shovel Creek","ShCr1","B","9 m","","no",NA,NA,NA,NA,NA
+"141","2024-07-17","CCE","Shovel Creek","ShCr5","C","6 m","","no",NA,NA,NA,NA,NA
+"142","2024-07-23","CCE","Hess Creek","HeCr5","B","3 m","","no",NA,NA,NA,NA,NA
+"143","2024-07-14","CCE","Haystack","Hays3","C","9 m","","no",NA,NA,NA,NA,NA
+"144","2024-07-18","CCE","Lost Horse","LoHo4 ","A","6 m","","no",NA,NA,NA,NA,NA
+"145","2024-07-15","CCE","Lost Horse","LoHo3","A","3 m","","no",NA,NA,NA,NA,NA
+"146","2024-07-18","CCE","Lost Horse","LoHo4 ","B","3 m","","no",NA,NA,NA,NA,NA
+"147","2024-07-14","CCE","Haystack","Hays3","C","9 m","","no",NA,NA,NA,NA,NA
+"148","2024-08-05","CCE","Dry Creek","DrCr1","C","6 m","Betula neoalaskana seedlings barely beginning to sprout so unclear whether neoalaskana or nana. Seedlings as pictured in photo under plants section.","yes","black spruce",14,0.08,0.04,0.03
+"149","2024-08-05","CCE","Dry Creek","DrCr1","C","6 m","Betula neoalaskana seedlings barely beginning to sprout so unclear whether neoalaskana or nana. Seedlings as pictured in photo under plants section.","yes","birch",13,0.01,0.01,0.01
+"150","2024-07-14","CCE","Haystack","Hays1","C","3 m","","no",NA,NA,NA,NA,NA
+"151","2024-07-14","CCE","Haystack","Hays1","A","3 m","","no",NA,NA,NA,NA,NA
+"152","2024-07-16","CCE","Shovel Creek","ShCr1","B","6 m","","yes","black spruce",7,0.01,0.01,0.01
+"153","2024-07-25","CCE","Haystack","Hays5","A","6 m","","no",NA,NA,NA,NA,NA
+"154","2024-07-16","CCE","Shovel Creek","ShCr3","C","3 m","","yes","black spruce",1,0.1,NA,NA
+"155","2024-07-28","CCE","McCoy Creek","McCr4","C","3 m","Spruce spp unclear, too small to tell","yes","black spruce",1,0.02,NA,NA
+"156","2024-07-28","CCE","McCoy Creek","McCr4","C","3 m","Spruce spp unclear, too small to tell","yes","birch",1,0.05,NA,NA
+"157","2024-07-30","CCE","Nugget Creek","NuCr1","B","3 m","","yes","black spruce",11,0.19,0.21,0.09
+"158","2024-07-30","CCE","Nugget Creek","NuCr1","B","3 m","","yes","birch",4,0.18,0.15,0.17
+"159","2024-07-30","CCE","Nugget Creek","NuCr1","B","3 m","","yes","aspen",1,0.24,NA,NA
+"160","2024-08-01","CCE","Munson Creek","MuCr1","A","9 m","Quadrat placed at 9m only to capture seedlings. No other data gathered at this spot. ","yes","black spruce",1,0.02,NA,NA
+"161","2024-08-05","CCE","Dry Creek","DrCr1","B","6 m","","yes","black spruce",1,0.01,NA,NA
+"162","2024-08-05","CCE","Dry Creek","DrCr1","B","6 m","","yes","birch",1,0.01,NA,NA
+"163","2024-08-01","CCE","Munson Creek","MuCr3","B","6 m","","no",NA,NA,NA,NA,NA
+"164","2024-07-22","CCE","Hess Creek","HeCr2","B","9 m","","yes","black spruce",1,0.13,NA,NA
+"165","2024-07-22","CCE","Hess Creek","HeCr2","B","9 m","","yes","aspen",1,0.33,NA,NA
+"166","2024-08-01","CCE","Munson Creek","MuCr1","A","3 m","","no",NA,NA,NA,NA,NA
+"167","2024-07-23","CCE","Hess Creek","HeCr5","A","9 m","","yes","black spruce",17,0.08,0.07,0.11
+"168","2024-07-23","CCE","Hess Creek","HeCr5","A","9 m","","yes","birch",3,0.07,0.14,0.12
+"169","2024-07-16","CCE","Shovel Creek","ShCr1","A","6 m","","yes","black spruce",15,0.1,0.15,0.1
+"170","2024-07-16","CCE","Shovel Creek","ShCr1","A","6 m","","yes","birch",13,0.15,0.08,0.25
+"171","2024-07-16","CCE","Shovel Creek","ShCr1","A","6 m","","yes","aspen",1,0.18,NA,NA
+"172","2024-08-04","CCE","Munson Creek","MuCr4","A","6 m","","no",NA,NA,NA,NA,NA
+"173","2024-07-14","CCE","Haystack","Hays1","C","6 m","","no",NA,NA,NA,NA,NA
+"174","2024-07-18","CCE","Lost Horse","LoHo4 ","C","9 m","","no",NA,NA,NA,NA,NA
+"175","2024-07-25","CCE","Haystack","Hays6","C","6 m","","no",NA,NA,NA,NA,NA
+"176","2024-07-23","CCE","Hess Creek","HeCr5","A","3 m","","yes","black spruce",11,0.25,0.19,0.05
+"177","2024-07-23","CCE","Hess Creek","HeCr5","A","3 m","","yes","birch",5,0.04,0.01,0.05
+"178","2024-07-31","CCE","Nugget Creek","NuCr5","B","6 m","","no",NA,NA,NA,NA,NA
+"179","2024-07-16","CCE","Shovel Creek","ShCr4","A","9 m","","yes","black spruce",1,0.05,NA,NA
+"180","2024-07-16","CCE","Shovel Creek","ShCr4","A","9 m","","yes","aspen",2,0.1,0.15,NA
+"181","2024-07-16","CCE","Shovel Creek","ShCr4","A","9 m","","yes","birch",1,0.2,NA,NA
+"182","2024-07-16","CCE","Shovel Creek","ShCr4","B","6 m","","no",NA,NA,NA,NA,NA
+"183","2024-07-18","CCE","Lost Horse","LoHo5","C","6 m","","no",NA,NA,NA,NA,NA
+"184","2024-08-04","CCE","Munson Creek","MuCr4","B","3 m","","yes","black spruce",18,0.04,0.03,0.03
+"185","2024-07-28","CCE","McCoy Creek","McCr4","C","6 m","","no",NA,NA,NA,NA,NA
+"186","2024-07-16","CCE","Shovel Creek","ShCr3","A","9 m","","no",NA,NA,NA,NA,NA
+"187","2024-08-06","CCE","Dry Creek","DrCr5","B","3 m","","no",NA,NA,NA,NA,NA
+"188","2024-07-23","CCE","Hess Creek","HeCr5","A","6 m","LC soil sample at 7.3","yes","black spruce",2,0.08,0.04,NA
+"189","2024-07-23","CCE","Hess Creek","HeCr5","A","6 m","LC soil sample at 7.3","yes","birch",1,0.07,NA,NA
+"190","2024-07-18","CCE","Lost Horse","LoHo4 ","A","3 m","","no",NA,NA,NA,NA,NA
+"191","2024-07-25","CCE","Haystack","Hays5","B","9 m","","no",NA,NA,NA,NA,NA
+"192","2024-07-18","CCE","Lost Horse","LoHo5","A","6 m","","no",NA,NA,NA,NA,NA
+"193","2024-08-02","CCE","Teklanika ","Tekl4","A","6 m","","no",NA,NA,NA,NA,NA
+"194","2024-07-17","CCE","Shovel Creek","ShCr5","B","6 m","","no",NA,NA,NA,NA,NA
+"195","2024-08-05","CCE","Dry Creek","DrCr2","A","6 m","","no",NA,NA,NA,NA,NA
+"196","2024-07-15","CCE","Lost Horse","LoHo2","A","6 m","","no",NA,NA,NA,NA,NA
+"197","2024-07-14","CCE","Haystack","Hays2","C","9 m","Photo taken from far side","no",NA,NA,NA,NA,NA
+"198","2024-07-15","CCE","Lost Horse","LoHo2","C","9 m","","no",NA,NA,NA,NA,NA
+"199","2024-07-18","CCE","Lost Horse","LoHo5","A","9 m","","no",NA,NA,NA,NA,NA
+"200","2024-08-06","CCE","Dry Creek","DrCr5","A","6 m","","no",NA,NA,NA,NA,NA
+"201","2024-07-28","CCE","McCoy Creek","McCr1","A","3 m","","yes","black spruce",1,0.01,NA,NA
+"202","2024-08-02","CCE","Teklanika ","Tekl4","B","6 m","","no",NA,NA,NA,NA,NA
+"203","2024-07-14","CCE","Haystack","Hays2","C","6 m","","no",NA,NA,NA,NA,NA
+"204","2024-08-05","CCE","Dry Creek","DrCr2","A","3 m","","yes","black spruce",12,0.02,0.03,0.02
+"205","2024-08-05","CCE","Dry Creek","DrCr2","A","3 m","","yes","birch",4,0.01,0.01,0.01
+"206","2024-07-23","CCE","Hess Creek","HeCr5","C","9 m","","yes","black spruce",2,0.35,0.27,NA
+"207","2024-07-22","CCE","Hess Creek","HeCr2","B","6 m","","yes","black spruce",1,0.03,NA,NA
+"208","2024-07-25","CCE","Haystack","Hays5","C","3 m","","no",NA,NA,NA,NA,NA
+"209","2024-07-17","CCE","Shovel Creek","ShCr6","A","9 m","","no",NA,NA,NA,NA,NA
+"210","2024-07-23","CCE","Hess Creek","HeCr4","A","3 m","","yes","birch",1,0.01,NA,NA
+"211","2024-08-02","CCE","Teklanika ","Tekl5","C","6 m","","no",NA,NA,NA,NA,NA
+"212","2024-07-31","CCE","Nugget Creek","NuCr6","A","3 m","","yes","black spruce",3,0.52,0.26,0.31
+"213","2024-07-31","CCE","Nugget Creek","NuCr6","A","3 m","","yes","birch",1,0.03,NA,NA
+"214","2024-07-18","CCE","Lost Horse","LoHo6","B","9 m","","no",NA,NA,NA,NA,NA
+"215","2024-07-16","CCE","Shovel Creek","ShCr4","B","9 m","","no",NA,NA,NA,NA,NA
+"216","2024-07-22","CCE","Hess Creek","HeCr1","C","9 m","","no",NA,NA,NA,NA,NA
+"217","2024-07-16","CCE","Shovel Creek","ShCr3","B","9 m","","yes","birch",1,0.1,NA,NA
+"218","2024-07-16","CCE","Shovel Creek","ShCr3","B","9 m","","yes","black spruce",6,0.01,0.11,0.11
+"219","2024-07-31","CCE","Nugget Creek","NuCr6","B","6 m","","yes","black spruce",2,0.04,0.05,NA
+"220","2024-07-28","CCE","McCoy Creek","McCr5","B","6 m","","no",NA,NA,NA,NA,NA
+"221","2024-07-22","CCE","Hess Creek","HeCr2","A","3 m","","yes","black spruce",2,0.11,NA,0.1
+"222","2024-07-25","CCE","Haystack","Hays6","A","3 m","","no",NA,NA,NA,NA,NA
+"223","2024-07-22","CCE","Hess Creek","HeCr1","A","9 m","","no",NA,NA,NA,NA,NA
+"224","2024-07-22","CCE","Hess Creek","HeCr3","B","6 m","","yes","black spruce",4,0.2,0.13,0.12
+"225","2024-08-04","CCE","Munson Creek","MuCr4","B","6 m","","no",NA,NA,NA,NA,NA
+"226","2024-08-05","CCE","Dry Creek","DrCr3","B","3 m","","yes","black spruce",3,0.02,0.03,0.01
+"227","2024-07-25","CCE","Haystack","Hays4","A","8","","yes","black spruce",1,0.11,NA,NA
+"228","2024-07-15","CCE","Lost Horse","LoHo3","A","9 m","","no",NA,NA,NA,NA,NA
+"229","2024-07-30","CCE","Nugget Creek","NuCr1","C","3 m","","yes","black spruce",2,0.11,0.24,NA
+"230","2024-07-30","CCE","Nugget Creek","NuCr1","C","3 m","","yes","birch",4,0.36,0.27,0.13
+"231","2024-07-16","CCE","Shovel Creek","ShCr1","C","9 m","","yes","black spruce",3,0.1,0.05,0.05
+"232","2024-07-18","CCE","Lost Horse","LoHo4 ","B","9 m","","no",NA,NA,NA,NA,NA
+"233","2024-08-01","CCE","Munson Creek","MuCr1","B","6 m","","no",NA,NA,NA,NA,NA
+"234","2024-07-22","CCE","Hess Creek","HeCr3","A","6 m","","yes","birch",3,0.19,0.09,0.05
+"235","2024-07-22","CCE","Hess Creek","HeCr3","A","6 m","","yes","aspen",1,0.23,NA,NA
+"236","2024-07-25","CCE","Haystack","Hays4","C","3 m","","no",NA,NA,NA,NA,NA
+"237","2024-07-28","CCE","McCoy Creek","McCr5","A","3 m","","no",NA,NA,NA,NA,NA
+"238","2024-08-07","CCE","McCoy Creek","McCr3","C","6 m","","no",NA,NA,NA,NA,NA
+"239","2024-07-17","CCE","Shovel Creek","ShCr5","A","9 m","","no",NA,NA,NA,NA,NA
+"240","2024-08-05","CCE","Dry Creek","DrCr3","C","3 m","","yes","black spruce",1,0.03,NA,NA
+"241","2024-08-03","CCE","Teklanika ","Tekl1","C","3 m","","no",NA,NA,NA,NA,NA
+"242","2024-07-22","CCE","Hess Creek","HeCr3","B","3 m","","yes","black spruce",9,0.18,0.15,0.17
+"243","2024-07-22","CCE","Hess Creek","HeCr3","B","3 m","","yes","birch",9,0.26,0.24,0.14
+"244","2024-07-18","CCE","Lost Horse","LoHo4 ","C","6 m","","no",NA,NA,NA,NA,NA
+"245","2024-07-14","CCE","Haystack","Hays1","B","9 m","","no",NA,NA,NA,NA,NA
+"246","2024-08-02","CCE","Teklanika ","Tekl5","C","3 m","","no",NA,NA,NA,NA,NA
+"247","2024-07-16","CCE","Shovel Creek","ShCr4","C","3 m","","yes","black spruce",5,0.55,0.5,0.05
+"248","2024-07-16","CCE","Shovel Creek","ShCr4","C","3 m","","yes","aspen",3,0.5,0.5,0.55
+"249","2024-07-16","CCE","Shovel Creek","ShCr4","C","3 m","","yes","birch",13,0.5,0.5,0.45
+"250","2024-07-18","CCE","Lost Horse","LoHo6","C","9 m","","no",NA,NA,NA,NA,NA
+"251","2024-08-06","CCE","Dry Creek","DrCr6","C","3 m","","yes","black spruce",1,0.03,NA,NA
+"252","2024-08-06","CCE","Dry Creek","DrCr6","C","3 m","","yes","birch",1,0.14,NA,NA
+"253","2024-07-30","CCE","Nugget Creek","NuCr2","A","3 m","","yes","black spruce",1,0.07,NA,NA
+"254","2024-07-18","CCE","Lost Horse","LoHo5","C","3 m","","no",NA,NA,NA,NA,NA
+"255","2024-07-17","CCE","Shovel Creek","ShCr6","A","6 m","","no",NA,NA,NA,NA,NA
+"256","2024-07-23","CCE","Hess Creek","HeCr6","B","3 m","","yes","black spruce",9,0.08,0.1,0.15
+"257","2024-07-22","CCE","Hess Creek","HeCr2","A","9 m","","no",NA,NA,NA,NA,NA
+"258","2024-07-30","CCE","Nugget Creek","NuCr1","C","6 m","","yes","black spruce",13,0.31,0.12,0.09
+"259","2024-07-30","CCE","Nugget Creek","NuCr1","C","6 m","","yes","birch",6,0.11,0.06,0.09
+"260","2024-07-28","CCE","McCoy Creek","McCr1","B","6 m","","yes","black spruce",9,0.01,0.01,0.01
+"261","2024-08-06","CCE","Dry Creek","DrCr5","A","3 m","","yes","black spruce",1,0.01,NA,NA
+"262","2024-08-03","CCE","Teklanika ","Tekl1","C","6 m","","no",NA,NA,NA,NA,NA
+"263","2024-07-22","CCE","Hess Creek","HeCr1","B","9 m","","yes","black spruce",1,0.05,NA,NA
+"264","2024-07-23","CCE","Hess Creek","HeCr4","C","9 m","","yes","black spruce",2,0.2,0.45,NA
+"265","2024-07-23","CCE","Hess Creek","HeCr4","C","9 m","","yes","aspen",1,0.28,NA,NA
+"266","2024-07-23","CCE","Hess Creek","HeCr4","C","9 m","","yes","birch",7,0.05,0.05,0.01
+"267","2024-08-01","CCE","Munson Creek","MuCr2","B","6 m","","yes","black spruce",1,0.02,NA,NA
+"268","2024-07-14","CCE","Haystack","Hays2","A","9 m","","no",NA,NA,NA,NA,NA
+"269","2024-07-23","CCE","Hess Creek","HeCr5","B","9 m","","yes","black spruce",7,0.21,0.13,0.08
+"270","2024-08-03","CCE","Teklanika ","Tekl1","B","3 m","","no",NA,NA,NA,NA,NA
+"271","2024-07-15","CCE","Lost Horse","LoHo3","B","9 m","","no",NA,NA,NA,NA,NA
+"272","2024-07-16","CCE","Shovel Creek","ShCr1","B","3 m","","yes","birch",1,0.15,NA,NA
+"273","2024-08-02","CCE","Teklanika ","Tekl4","C","6 m","","no",NA,NA,NA,NA,NA
+"274","2024-07-14","CCE","Haystack","Hays3","B","9 m","","no",NA,NA,NA,NA,NA
+"275","2024-07-16","CCE","Shovel Creek","ShCr4","C","6 m","","yes","birch",1,0.05,NA,NA
+"276","2024-07-28","CCE","McCoy Creek","McCr1","A","9 m","Aligned plot with pole rather than meter","yes","black spruce",5,0.01,0.01,0.01
+"277","2024-08-01","CCE","Munson Creek","MuCr1","B","9 m","Quadrat placed at 9m just to capture seedlings. No other data collected at 9m","yes","black spruce",2,0.01,NA,NA
+"278","2024-08-07","CCE","McCoy Creek","McCr3","C","3 m","","yes","black spruce",2,0.01,0.01,NA
+"279","2024-07-18","CCE","Lost Horse","LoHo5","B","6 m","","no",NA,NA,NA,NA,NA
+"280","2024-07-16","CCE","Shovel Creek","ShCr4","B","3 m","","yes","black spruce",1,0.1,NA,NA
+"281","2024-08-03","CCE","Teklanika ","Tekl2","A","6 m","","no",NA,NA,NA,NA,NA
+"282","2024-07-23","CCE","Hess Creek","HeCr4","C","6 m","","yes","birch",2,0.1,0.08,NA
+"283","2024-07-25","CCE","Haystack","Hays6","B","3 m","","no",NA,NA,NA,NA,NA
+"284","2024-07-15","CCE","Lost Horse","LoHo2","A","9 m","","no",NA,NA,NA,NA,NA
+"285","2024-08-05","CCE","Dry Creek","DrCr3","A","6 m","","yes","black spruce",2,0.02,0.02,NA
+"286","2024-08-01","CCE","Munson Creek","MuCr1","C","3 m","","no",NA,NA,NA,NA,NA
+"287","2024-07-15","CCE","Lost Horse","LoHo3","B","3 m","","no",NA,NA,NA,NA,NA
+"288","2024-07-14","CCE","Haystack","Hays3","B","6 m","","no",NA,NA,NA,NA,NA
+"289","2024-07-16","CCE","Shovel Creek","ShCr3","B","3 m","","no",NA,NA,NA,NA,NA
+"290","2024-08-03","CCE","Teklanika ","Tekl2","C","3 m","","yes","black spruce",23,0.1,0.05,0.04
+"291","2024-08-01","CCE","Munson Creek","MuCr3","C","3 m","","yes","black spruce",1,0.72,NA,NA
+"292","2024-07-16","CCE","Shovel Creek","ShCr3","B","6 m","","yes","black spruce",1,0.12,NA,NA
+"293","2024-07-22","CCE","Hess Creek","HeCr1","C","6 m","","no",NA,NA,NA,NA,NA
+"294","2024-07-29","CCE","McCoy Creek","McCr2","C","3 m","","no",NA,NA,NA,NA,NA
+"295","2024-07-28","CCE","McCoy Creek","McCr1","C","3 m","","yes","black spruce",4,0.01,0.02,0.01
+"296","2024-07-16","CCE","Shovel Creek","ShCr3","A","3 m","","yes","birch",1,0.1,NA,NA
+"297","2024-07-16","CCE","Shovel Creek","ShCr3","A","3 m","","yes","black spruce",3,0.1,0.1,0.1
+"298","2024-07-29","CCE","McCoy Creek","McCr2","B","3 m","","yes","black spruce",1,0.02,NA,NA
+"299","2024-07-16","CCE","Shovel Creek","ShCr4","A","3 m","","yes","black spruce",2,0.01,0.01,NA
+"300","2024-07-23","CCE","Hess Creek","HeCr6","A","3 m","","yes","birch",1,0.22,NA,NA
+"301","2024-07-23","CCE","Hess Creek","HeCr6","A","3 m","","yes","black spruce",1,0.36,NA,NA
+"302","2024-07-29","CCE","McCoy Creek","McCr6","A","3 m","","no",NA,NA,NA,NA,NA
+"303","2024-07-15","CCE","Lost Horse","LoHo1","C","9 m","","no",NA,NA,NA,NA,NA
+"304","2024-07-29","CCE","McCoy Creek","McCr6","C","3 m","","yes","black spruce",2,0.03,0.02,NA
+"305","2024-08-01","CCE","Munson Creek","MuCr1","C","9 m","Added extra quadrat to capture seedlings. Did not collect data for anything other than seedlings. ","no",NA,NA,NA,NA,NA
+"306","2024-07-25","CCE","Haystack","Hays5","A","3 m","","no",NA,NA,NA,NA,NA
+"307","2024-07-28","CCE","McCoy Creek","McCr4","A","3 m","","no",NA,NA,NA,NA,NA
+"308","2024-07-18","CCE","Lost Horse","LoHo6","A","6 m","","no",NA,NA,NA,NA,NA
+"309","2024-08-04","CCE","Munson Creek","MuCr5","C","6 m","","no",NA,NA,NA,NA,NA
+"310","2024-07-16","CCE","Shovel Creek","ShCr2","B","6 m","","yes","birch",3,0.1,0.05,0.05
+"311","2024-07-16","CCE","Shovel Creek","ShCr2","B","6 m","","yes","black spruce",6,0.2,0.15,0.25
+"312","2024-08-06","CCE","Dry Creek","DrCr6","B","3 m","","no",NA,NA,NA,NA,NA
+"313","2024-07-25","CCE","Haystack","Hays4","A","3 m","","no",NA,NA,NA,NA,NA
+"314","2024-07-22","CCE","Hess Creek","HeCr3","A","3 m","","yes","black spruce",5,0.13,0.08,0.17
+"315","2024-07-22","CCE","Hess Creek","HeCr3","A","3 m","","yes","birch",1,0.05,NA,NA
+"316","2024-07-14","CCE","Haystack","Hays1","A","6 m","","no",NA,NA,NA,NA,NA
+"317","2024-07-22","CCE","Hess Creek","HeCr1","A","3 m","","no",NA,NA,NA,NA,NA
+"318","2024-07-16","CCE","Shovel Creek","ShCr3","C","9 m","","yes","black spruce",2,0.05,0.01,NA
+"319","2024-07-31","CCE","Nugget Creek","NuCr5","C","3 m","","no",NA,NA,NA,NA,NA
+"320","2024-07-25","CCE","Haystack","Hays5","C","9 m","","no",NA,NA,NA,NA,NA
+"321","2024-08-01","CCE","Munson Creek","MuCr2","A","3 m","","yes","birch",3,0.16,0.05,0.03
+"322","2024-08-01","CCE","Munson Creek","MuCr2","A","3 m","","yes","black spruce",7,0.01,0.02,0.06
+"323","2024-07-22","CCE","Hess Creek","HeCr2","C","6 m","","no",NA,NA,NA,NA,NA
+"324","2024-07-16","CCE","Shovel Creek","ShCr1","C","3 m","","yes","black spruce",2,0.05,0.05,NA
+"325","2024-07-17","CCE","Shovel Creek","ShCr6","C","6 m","","no",NA,NA,NA,NA,NA
+"326","2024-07-30","CCE","Nugget Creek","NuCr2","A","6 m","","no",NA,NA,NA,NA,NA
+"327","2024-07-23","CCE","Hess Creek","HeCr6","A","6 m","","yes","black spruce",3,0.08,0.1,0.09
+"328","2024-07-14","CCE","Haystack","Hays1","B","3 m","","no",NA,NA,NA,NA,NA
+"329","2024-07-14","CCE","Haystack","Hays2","B","6 m","","no",NA,NA,NA,NA,NA
+"330","2024-07-30","CCE","Nugget Creek","NuCr2","B","3 m","","yes","black spruce",27,0.09,0.08,0.08
+"331","2024-07-30","CCE","Nugget Creek","NuCr2","B","3 m","","yes","birch",37,0.01,0.01,0.08
+"332","2024-07-30","CCE","Nugget Creek","NuCr1","B","6 m","","yes","birch",4,0.86,0.06,0.07
+"333","2024-07-30","CCE","Nugget Creek","NuCr1","B","6 m","","yes","black spruce",3,0.29,0.24,0.1
+"334","2024-07-29","CCE","McCoy Creek","McCr2","C","6 m","","no",NA,NA,NA,NA,NA
+"335","2024-08-04","CCE","Munson Creek","MuCr4","C","3 m","","no",NA,NA,NA,NA,NA
+"336","2024-08-03","CCE","Teklanika ","Tekl1","A","6 m","","no",NA,NA,NA,NA,NA
+"337","2024-08-03","CCE","Teklanika ","Tekl2","B","3 m","","yes","black spruce",1,0.03,NA,NA
+"338","2024-08-05","CCE","Dry Creek","DrCr1","B","3 m","","yes","black spruce",12,0.05,0.03,0.03
+"339","2024-08-05","CCE","Dry Creek","DrCr1","B","3 m","","yes","birch",9,0.01,0.01,0.01
+"340","2024-07-16","CCE","Shovel Creek","ShCr2","A","6 m","","yes","birch",4,0.1,0.3,0.15
+"341","2024-07-16","CCE","Shovel Creek","ShCr2","A","6 m","","yes","black spruce",3,0.12,0.1,0.17
+"342","2024-07-16","CCE","Shovel Creek","ShCr2","A","9 m","","yes","birch",1,0.01,NA,NA
+"343","2024-07-16","CCE","Shovel Creek","ShCr2","A","9 m","","yes","black spruce",3,0.1,0.01,0.01
+"344","2024-07-16","CCE","Shovel Creek","ShCr4","C","9 m","","no",NA,NA,NA,NA,NA
+"345","2024-07-16","CCE","Shovel Creek","ShCr2","C","3 m","","yes","aspen",1,0.2,NA,NA
+"346","2024-07-16","CCE","Shovel Creek","ShCr2","C","3 m","","yes","birch",4,0.01,0.25,0.01
+"347","2024-07-16","CCE","Shovel Creek","ShCr2","C","3 m","","yes","black spruce",5,0.01,0.02,0.01
+"348","2024-07-15","CCE","Lost Horse","LoHo1","C","6 m","","no",NA,NA,NA,NA,NA
+"349","2024-08-05","CCE","Dry Creek","DrCr2","C","3 m","","yes","black spruce",2,0.03,0.03,NA
+"350","2024-08-06","CCE","Dry Creek","DrCr5","C","6 m","","no",NA,NA,NA,NA,NA
+"351","2024-08-06","CCE","Dry Creek","DrCr6","B","6 m","","yes","black spruce",1,0.05,NA,NA
+"352","2024-07-22","CCE","Hess Creek","HeCr2","C","3 m","","yes","black spruce",9,0.02,0.01,0.06
+"353","2024-07-22","CCE","Hess Creek","HeCr2","C","3 m","","yes","aspen",2,0.16,0.34,NA
+"354","2024-07-31","CCE","Nugget Creek","NuCr5","B","3 m","","yes","black spruce",4,0.13,0.03,0.26
+"355","2024-07-14","CCE","Haystack","Hays1","B","6 m","","no",NA,NA,NA,NA,NA
+"356","2024-07-31","CCE","Nugget Creek","NuCr5","A","3 m","","no",NA,NA,NA,NA,NA
+"357","2024-07-15","CCE","Lost Horse","LoHo2","C","6 m","","no",NA,NA,NA,NA,NA
+"358","2024-08-05","CCE","Dry Creek","DrCr1","C","3 m","","no",NA,NA,NA,NA,NA
+"359","2024-07-17","CCE","Shovel Creek","ShCr5","B","9 m","","no",NA,NA,NA,NA,NA
+"360","2024-07-17","CCE","Shovel Creek","ShCr5","B","3 m","","yes","black spruce",1,0.1,NA,NA
+"361","2024-07-23","CCE","Hess Creek","HeCr4","A","6 m","","yes","black spruce",2,0.1,0.01,NA
+"362","2024-07-23","CCE","Hess Creek","HeCr4","A","6 m","","yes","black spruce",7,0.01,0.01,0.09
+"363","2024-08-05","CCE","Dry Creek","DrCr2","C","6 m","","yes","black spruce",14,0.03,0.02,0.04
+"364","2024-08-05","CCE","Dry Creek","DrCr2","C","6 m","","yes","birch",6,0.01,0.01,0.04
+"365","2024-08-05","CCE","Dry Creek","DrCr1","A","6 m","","yes","black spruce",32,0.05,0.03,0.02
+"366","2024-08-05","CCE","Dry Creek","DrCr1","A","6 m","","yes","birch",17,0.01,0.01,0.01
+"367","2024-07-30","CCE","Nugget Creek","NuCr3","A","3 m","","yes","black spruce",8,0.14,0.11,0.09
+"368","2024-07-30","CCE","Nugget Creek","NuCr3","A","3 m","","yes","birch",18,0.06,0.01,0.97
+"369","2024-07-25","CCE","Haystack","Hays4","B","3 m","","no",NA,NA,NA,NA,NA
+"370","2024-07-25","CCE","Haystack","Hays6","B","6 m","","no",NA,NA,NA,NA,NA
+"371","2024-07-17","CCE","Shovel Creek","ShCr5","A","3 m","","no",NA,NA,NA,NA,NA
+"372","2024-08-04","CCE","Munson Creek","MuCr5","A","3 m","","no",NA,NA,NA,NA,NA
+"373","2024-07-25","CCE","Haystack","Hays6","A","9 m","","no",NA,NA,NA,NA,NA
+"374","2024-08-05","CCE","Dry Creek","DrCr2","B","6 m","","no",NA,NA,NA,NA,NA
+"375","2024-07-31","CCE","Nugget Creek","NuCr6","A","6 m","","yes","black spruce",3,0.04,0.12,0.04
+"376","2024-07-16","CCE","Shovel Creek","ShCr2","A","9 m","","no",NA,NA,NA,NA,NA
+"377","2024-07-15","CCE","Lost Horse","LoHo2","B","6 m","","no",NA,NA,NA,NA,NA
+"378","2024-07-30","CCE","Nugget Creek","NuCr3","C","3 m","","yes","black spruce",6,0.34,0.02,0.02
+"379","2024-07-30","CCE","Nugget Creek","NuCr3","C","3 m","","yes","birch",9,0.05,0.07,0.06
+"380","2024-08-04","CCE","Munson Creek","MuCr5","B","6 m","","yes","black spruce",2,0.01,0.02,NA
+"381","2024-07-15","CCE","Lost Horse","LoHo3","A","6 m","","no",NA,NA,NA,NA,NA
+"382","2024-07-28","CCE","McCoy Creek","McCr4","B","6 m","","no",NA,NA,NA,NA,NA
+"383","2024-07-17","CCE","Shovel Creek","ShCr6","C","3 m","","no",NA,NA,NA,NA,NA
+"384","2024-07-23","CCE","Hess Creek","HeCr6","C","6 m","","yes","black spruce",1,0.15,NA,NA
+"385","2024-08-07","CCE","McCoy Creek","McCr3","B","3 m","","yes","birch",8,0.06,0.01,0.02
+"386","2024-08-07","CCE","McCoy Creek","McCr3","B","3 m","","yes","black spruce",12,0.01,0.01,0.01
+"387","2024-07-15","CCE","Lost Horse","LoHo1","C","3 m","","no",NA,NA,NA,NA,NA
+"388","2024-08-01","CCE","Munson Creek","MuCr2","B","3 m","2nd pic is Unkn liverwort in ground cover","yes","black spruce",9,0.06,0.04,0.05
+"389","2024-07-29","CCE","McCoy Creek","McCr2","A","3 m","","no",NA,NA,NA,NA,NA
+"390","2024-07-25","CCE","Haystack","Hays4","B","9 m","","no",NA,NA,NA,NA,NA
+"391","2024-07-16","CCE","Shovel Creek","ShCr1","C","6 m","","yes","black spruce",1,0.02,NA,NA
+"392","2024-07-31","CCE","Nugget Creek","NuCr4","B","3 m","","yes","black spruce",1,0.02,NA,NA
+"393","2024-07-15","CCE","Lost Horse","LoHo1","B","6 m","","no",NA,NA,NA,NA,NA
+"394","2024-08-02","CCE","Teklanika ","Tekl4","B","3 m","","no",NA,NA,NA,NA,NA
+"395","2024-07-29","CCE","McCoy Creek","McCr2","A","6 m","","no",NA,NA,NA,NA,NA
+"396","2024-08-07","CCE","McCoy Creek","McCr3","A","3 m","","yes","black spruce",4,0.03,0.01,0.01
+"397","2024-08-07","CCE","McCoy Creek","McCr3","A","3 m","","yes","birch",2,0.01,0.01,NA
+"398","2024-07-30","CCE","Nugget Creek","NuCr3","A","6 m","","yes","black spruce",19,0.09,0.11,0.14
+"399","2024-07-30","CCE","Nugget Creek","NuCr3","A","6 m","","yes","birch",41,0.07,0.07,1
+"400","2024-07-14","CCE","Haystack","Hays3","A","3 m","","no",NA,NA,NA,NA,NA
+"401","2024-07-31","CCE","Nugget Creek","NuCr4","B","6 m","","yes","black spruce",9,0.06,0.07,0.58
+"402","2024-08-06","CCE","Dry Creek","DrCr4","B","3 m","","yes","black spruce",2,0.04,0.01,NA
+"403","2024-07-31","CCE","Nugget Creek","NuCr4","C","3 m","","yes","black spruce",39,0.21,0.07,0.19
+"404","2024-07-31","CCE","Nugget Creek","NuCr4","C","3 m","","yes","birch",1,0.11,NA,NA
+"405","2024-07-23","CCE","Hess Creek","HeCr5","B","6 m","","yes","black spruce",1,0.01,NA,NA
+"406","2024-07-28","CCE","McCoy Creek","McCr4","B","3 m","","yes","birch",1,0.9,NA,NA
+"407","2024-07-29","CCE","McCoy Creek","McCr6","B","6 m","","no",NA,NA,NA,NA,NA
+"408","2024-07-23","CCE","Hess Creek","HeCr4","A","9 m","","no",NA,NA,NA,NA,NA
+"409","2024-07-14","CCE","Haystack","Hays2","A","3 m","","no",NA,NA,NA,NA,NA
+"410","2024-08-01","CCE","Munson Creek","MuCr3","A","3 m","","yes","black spruce",1,0.01,NA,NA
+"411","2024-08-01","CCE","Munson Creek","MuCr3","A","3 m","","yes","birch",1,0.01,NA,NA
+"412","2024-08-01","CCE","Munson Creek","MuCr2","A","6 m","","no",NA,NA,NA,NA,NA
+"413","2024-07-15","CCE","Lost Horse","LoHo3","C","9 m","","no",NA,NA,NA,NA,NA
+"414","2024-08-01","CCE","Munson Creek","MuCr1","A","0 m","0m, not 9m. Entered as 9 due to fulcrum set up.","yes","black spruce",2,0.04,0.1,NA
+"415","2024-07-23","CCE","Hess Creek","HeCr6","B","9 m","","yes","black spruce",6,0.06,0.01,0.17
+"416","2024-07-16","CCE","Shovel Creek","ShCr2","A","3 m","","yes","birch",6,0.6,0.05,0.05
+"417","2024-07-16","CCE","Shovel Creek","ShCr2","A","3 m","","yes","black spruce",4,0.05,0.05,0.05
+"418","2024-07-30","CCE","Nugget Creek","NuCr3","C","6 m","","yes","black spruce",24,0.29,0.09,0.08
+"419","2024-07-30","CCE","Nugget Creek","NuCr3","C","6 m","","yes","birch",6,0.1,0.13,0.07
+"420","2024-07-28","CCE","McCoy Creek","McCr5","C","3 m","","yes","black spruce",4,0.04,0.01,0.01
+"421","2024-07-16","CCE","Shovel Creek","ShCr2","B","9 m","","yes","birch",3,0.02,0.01,0.01
+"422","2024-07-16","CCE","Shovel Creek","ShCr2","B","9 m","","yes","black spruce",7,0.02,0.05,0.12
+"423","2024-08-05","CCE","Dry Creek","DrCr1","A","3 m","","yes","black spruce",9,0.03,0.06,0.02
+"424","2024-08-05","CCE","Dry Creek","DrCr1","A","3 m","","yes","birch",2,0.04,0.01,NA
+"425","2024-07-22","CCE","Hess Creek","HeCr2","B","3 m","","yes","birch",15,1.85,1.39,0.55
+"426","2024-07-22","CCE","Hess Creek","HeCr2","B","3 m","","yes","aspen",1,0.15,NA,NA
+"427","2024-07-23","CCE","Hess Creek","HeCr4","C","3 m","Old soil sampling hole in plot from LC","yes","black spruce",7,0.04,0.09,0.07
+"428","2024-07-23","CCE","Hess Creek","HeCr4","C","3 m","Old soil sampling hole in plot from LC","yes","birch",16,0.08,0.11,0.05
+"429","2024-08-06","CCE","Dry Creek","DrCr4","C","6 m","","yes","black spruce",1,0.5,NA,NA
+"430","2024-08-05","CCE","Dry Creek","DrCr3","B","6 m","","yes","black spruce",2,0.01,0.02,NA
+"431","2024-07-31","CCE","Nugget Creek","NuCr6","C","6 m","","no",NA,NA,NA,NA,NA
+"432","2024-08-02","CCE","Teklanika ","Tekl6","C","3 m","","no",NA,NA,NA,NA,NA
+"433","2024-07-30","CCE","Nugget Creek","NuCr2","C","6 m","","no",NA,NA,NA,NA,NA
+"434","2024-07-25","CCE","Haystack","Hays6","B","9 m","","no",NA,NA,NA,NA,NA
+"435","2024-07-18","CCE","Lost Horse","LoHo6","B","6 m","","no",NA,NA,NA,NA,NA
+"436","2024-07-17","CCE","Shovel Creek","ShCr5","A","6 m","","yes","aspen",1,0.3,NA,NA
+"437","2024-07-23","CCE","Hess Creek","HeCr6","C","9 m","","yes","black spruce",4,0.2,0.25,0.1
+"438","2024-07-23","CCE","Hess Creek","HeCr6","C","9 m","","yes","birch",1,0.1,NA,NA
+"439","2024-07-14","CCE","Haystack","Hays3","C","3 m","","yes","black spruce",1,0.01,NA,NA
+"440","2024-07-29","CCE","McCoy Creek","McCr6","C","6 m","","yes","black spruce",2,0.01,0.03,NA
+"441","2024-07-28","CCE","McCoy Creek","McCr5","C","6 m","","yes","black spruce",2,0.03,0.01,NA
+"442","2024-08-04","CCE","Munson Creek","MuCr5","C","3 m","","yes","black spruce",3,0.04,0.03,0.03
+"443","2024-07-22","CCE","Hess Creek","HeCr3","C","3 m","","yes","black spruce",3,0.23,0.31,0.12
+"444","2024-07-22","CCE","Hess Creek","HeCr1","B","6 m","","no",NA,NA,NA,NA,NA
+"445","2024-08-03","CCE","Teklanika ","Tekl3","A","3 m","","no",NA,NA,NA,NA,NA
+"446","2024-07-31","CCE","Nugget Creek","NuCr5","C","6 m","","no",NA,NA,NA,NA,NA
+"447","2024-08-02","CCE","Teklanika ","Tekl6","B","3 m","","no",NA,NA,NA,NA,NA
+"448","2024-07-14","CCE","Haystack","Hays3","A","6 m","","no",NA,NA,NA,NA,NA
+"449","2024-08-06","CCE","Dry Creek","DrCr6","A","3 m","","yes","black spruce",1,0.02,NA,NA
+"450","2024-07-14","CCE","Haystack","Hays3","B","3 m","","no",NA,NA,NA,NA,NA
+"451","2024-08-05","CCE","Dry Creek","DrCr3","C","6 m","","no",NA,NA,NA,NA,NA
+"452","2024-07-25","CCE","Haystack","Hays5","B","3 m","","no",NA,NA,NA,NA,NA
+"453","2024-07-15","CCE","Lost Horse","LoHo2","C","3 m","","no",NA,NA,NA,NA,NA
+"454","2024-08-01","CCE","Munson Creek","MuCr1","A","6 m","","yes","black spruce",3,0.01,0.03,0.02
+"455","2024-08-01","CCE","Munson Creek","MuCr1","A","6 m","","yes","birch",4,0.07,0.02,0.01
+"456","2024-07-14","CCE","Haystack","Hays3","A","9 m","","no",NA,NA,NA,NA,NA
+"457","2024-08-04","CCE","Munson Creek","MuCr5","B","3 m","","no",NA,NA,NA,NA,NA
+"458","2024-07-18","CCE","Lost Horse","LoHo4 ","A","9 m","","no",NA,NA,NA,NA,NA
+"459","2024-07-22","CCE","Hess Creek","HeCr3","C","9 m","","yes","black spruce",6,0.11,0.1,0.11
+"460","2024-07-22","CCE","Hess Creek","HeCr3","C","9 m","","yes","aspen",1,0.11,NA,NA
+"461","2024-07-22","CCE","Hess Creek","HeCr3","C","9 m","","yes","birch",20,0.11,0.12,0.11
+"462","2024-08-06","CCE","Dry Creek","DrCr6","A","6 m","","no",NA,NA,NA,NA,NA
+"463","2024-07-25","CCE","Haystack","Hays6","C","9 m","","no",NA,NA,NA,NA,NA
+"464","2024-08-01","CCE","Munson Creek","MuCr3","A","6 m","","yes","black spruce",1,0.05,NA,NA
+"465","2024-08-04","CCE","Munson Creek","MuCr4","C","6 m","","no",NA,NA,NA,NA,NA
+"466","2024-08-03","CCE","Teklanika ","Tekl3","B","6 m","","no",NA,NA,NA,NA,NA
+"467","2024-07-17","CCE","Shovel Creek","ShCr6","A","3 m","","no",NA,NA,NA,NA,NA
+"468","2024-07-14","CCE","Haystack","Hays2","B","9 m","","no",NA,NA,NA,NA,NA
+"469","2024-07-28","CCE","McCoy Creek","McCr1","A","6 m","","yes","black spruce",4,0.01,0.01,0.01
+"470","2024-07-31","CCE","Nugget Creek","NuCr4","C","6 m","","yes","black spruce",1,0.04,NA,NA
+"471","2024-07-17","CCE","Shovel Creek","ShCr6","B","9 m","","no",NA,NA,NA,NA,NA
+"472","2024-07-18","CCE","Lost Horse","LoHo5","B","9 m","","no",NA,NA,NA,NA,NA
+"473","2024-07-15","CCE","Lost Horse","LoHo3","C","6 m","","no",NA,NA,NA,NA,NA
+"474","2024-08-03","CCE","Teklanika ","Tekl3","B","3 m","","no",NA,NA,NA,NA,NA
+"475","2024-07-23","CCE","Hess Creek","HeCr5","C","6 m","","yes","black spruce",4,0.01,0.05,0.05
+"476","2024-07-23","CCE","Hess Creek","HeCr4","B","6 m","LC soil sample hole in plot","no",NA,NA,NA,NA,NA
+"477","2024-07-29","CCE","McCoy Creek","McCr6","B","3 m","","no",NA,NA,NA,NA,NA
+"478","2024-07-18","CCE","Lost Horse","LoHo5","A","3 m","","no",NA,NA,NA,NA,NA
+"479","2024-08-01","CCE","Munson Creek","MuCr2","C","3 m","","yes","black spruce",5,0.11,0.07,0.01
+"480","2024-08-01","CCE","Munson Creek","MuCr2","C","3 m","","yes","birch",2,0.01,0.04,NA
+"481","2024-07-15","CCE","Lost Horse","LoHo1","A","3 m","","no",NA,NA,NA,NA,NA
+"482","2024-07-18","CCE","Lost Horse","LoHo5","B","3 m","","no",NA,NA,NA,NA,NA

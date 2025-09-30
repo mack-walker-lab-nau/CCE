@@ -1,0 +1,25 @@
+﻿Variable,units,description
+sample_id,name,Sample ID for lab use
+field_id,name,Field ID recorded in the field
+fire,name,fire name
+site,name,site name
+plot,name,plot name
+soil_depth_top_cm,cm,Depth where the sample begins in the soil profile
+soil_depth_bottom_cm,,Depth where the sample ends in the soil profile
+initial_mass_g,g,Initial mass of soil sample
+pre_homo_subsample_mass_g,g,Initial mass of soil subsample for homogenization
+cn_d1,cm,depth measurement 1
+cn_d2,cm,depth measurement 2
+cn_w1,cm,width measurement 1
+cn_w2,cm,width measurement 2
+cn_l1,cm,height measurement 1
+cn_l2,cm,height measurement 2
+homogenized_soil_mass_g,g,Homogenized soil mass of fine soil 
+subsample_fine_wet_mass_g,g,wet weight of subsample of fine soil  (<2mm)
+coarse_wet_mass_g,g,wet weight of subsample of coarse soil (>2mm and roots and rocks removed)
+rock_weight_g,g,weight of rocks
+rock_volume_ml,ml,volume of rocks by water displacement
+subsample_fine_dry_mass_g,,dry weight of subsample of fine soil  (<2mm)
+coarse_dry_mass_g,,dry weight of subsample of coarse soil (>2mm and roots and rocks removed)
+N_weight_per,%,Percent nitrogen
+C_weight_per,%,Percent carbon

@@ -1,0 +1,1263 @@
+﻿fire,site,plot,date,location,org_depth,org_hit,ar_sol_depth,ar_sol_hit,ar_height,thaw_d,thaw_hit
+Aggie,103,A,7/18/2021,3 m,21,Mineral,5.5,Mineral,11,45,Rock
+Aggie,103,A,7/18/2021,6 m,18,Mineral,21,Mineral,20.33333333,26,Rock
+Aggie,103,A,7/18/2021,9 m,22,Mineral,22,Mineral,19,36,Rock
+Aggie,103,B,7/18/2021,6 m,8,Mineral,18.5,Mineral,19,42,Rock
+Aggie,103,B,7/18/2021,3 m,25.5,Mineral,4,Mineral,14,53,Rock
+Aggie,103,B,7/18/2021,9 m,17,Mineral,4,Mineral,16.33333333,45,Rock
+Aggie,103,C,7/18/2021,3 m,10,Mineral,12,Mineral,18.66666667,42,Rock
+Aggie,103,C,7/18/2021,6 m,10.25,Mineral,10.25,Mineral,15.66666667,37,Rock
+Aggie,103,C,7/18/2021,9 m,11.5,Mineral,13,Mineral,33.16666667,50,Rock
+Aggie,109,A,7/18/2021,3 m,16.5,Mineral,13.5,Mineral,25.66666667,72,Mineral
+Aggie,109,A,7/18/2021,9 m,16,Mineral,12.5,Mineral,23,NA,
+Aggie,109,A,7/18/2021,6 m,8,Mineral,7.5,Mineral,15.66666667,66,Mineral
+Aggie,109,B,7/18/2021,6 m,9.75,Mineral,20,Mineral,18.66666667,66,Mineral
+Aggie,109,B,7/18/2021,3 m,13.25,Mineral,10,Mineral,20.66666667,71,Mineral
+Aggie,109,B,7/18/2021,9 m,9.5,Mineral,11,,24,NA,
+Aggie,109,C,7/18/2021,3 m,8.75,Mineral,11,Mineral,11.66666667,73,Mineral
+Aggie,109,C,7/18/2021,6 m,9,Mineral,12.75,Mineral,10.33333333,NA,
+Aggie,109,C,7/18/2021,9 m,12.5,Mineral,12.5,Mineral,6.5,NA,
+Aggie,110,A,7/18/2021,6 m,12.5,Mineral,16.5,Mineral,16,NA,
+Aggie,110,A,7/18/2021,9 m,14,Mineral,14,Mineral,17,NA,
+Aggie,110,A,7/18/2021,3 m,11.5,Mineral,13.5,Mineral,12.66666667,NA,
+Aggie,110,B,7/18/2021,3 m,8.5,Mineral,22,Mineral,10.33333333,NA,
+Aggie,110,B,7/18/2021,6 m,12,Mineral,12,Mineral,8.166666667,NA,
+Aggie,110,B,7/18/2021,9 m,8,Mineral,8,Mineral,13,NA,
+Aggie,110,C,7/18/2021,6 m,10,Mineral,8,Mineral,10,73,Mineral
+Aggie,110,C,7/18/2021,9 m,9,Mineral,16,Mineral,14.66666667,66,Mineral
+Aggie,110,C,7/18/2021,3 m,10,Mineral,9.5,Mineral,16,72,Mineral
+Aggie,111,A,7/17/2021,6 m,7,Mineral,4,Mineral,29,40,Rock
+Aggie,111,A,7/17/2021,9 m,23,Mineral,4.25,Mineral,23.66666667,52,Rock
+Aggie,111,A,7/17/2021,3 m,8,Mineral,12.5,Mineral,12.66666667,38,Rock
+Aggie,111,B,7/17/2021,3 m,14.5,Mineral,9,Mineral,19,35,Rock
+Aggie,111,B,7/17/2021,6 m,12.5,Mineral,12.5,Mineral,14,32,Rock
+Aggie,111,B,7/17/2021,9 m,18,Mineral,7.5,Mineral,19.33333333,36,Rock
+Aggie,111,C,7/17/2021,6 m,9.25,Mineral,16,Mineral,11,42,Rock
+Aggie,111,C,7/17/2021,9 m,5.5,Mineral,6,Mineral,15.66666667,47,Rock
+Aggie,111,C,7/17/2021,3 m,10.75,Mineral,0,Mineral,22.33333333,40,Rock
+Aggie,89,A,7/18/2021,9 m,27,Mineral,12.25,Mineral,14,NA,
+Aggie,89,A,7/18/2021,6 m,13,Mineral,13,Mineral,9.666666667,51,Frozen Ground
+Aggie,89,A,7/18/2021,3 m,22,Mineral,9.75,Mineral,10.66666667,80,Frozen Ground
+Aggie,89,B,7/18/2021,9 m,11,Mineral,11,Mineral,6.75,NA,
+Aggie,89,B,7/18/2021,3 m,14.5,"Mineral,Rock",21.5,Mineral,2,75,Frozen Ground
+Aggie,89,B,7/18/2021,6 m,8.5,Mineral,22.5,Mineral,7,55,Frozen Ground
+Aggie,89,C,7/18/2021,3 m,27,Mineral,11,Mineral,5.333333333,56,Frozen Ground
+Aggie,89,C,7/18/2021,6 m,23.5,Mineral,35.5,Mineral,5.833333333,36,Frozen Ground
+Aggie,89,C,7/18/2021,9 m,22.5,Mineral,20,Rock,3,40,Frozen Ground
+Aggie,93,A,7/17/2021,6 m,10,Mineral,12.75,Rock,20.83333333,56,Rock
+Aggie,93,A,7/17/2021,3 m,30.5,Rock,14.5,Rock,6.833333333,31,Rock
+Aggie,93,A,7/17/2021,9 m,9.25,Mineral,27,Mineral,8.333333333,57,Rock
+Aggie,93,B,7/17/2021,6 m,6.5,"Mineral,Rock",15.5,Mineral,6.5,17,Rock
+Aggie,93,B,7/17/2021,9 m,3.75,Mineral,5,Mineral,16.66666667,14,Rock
+Aggie,93,B,7/17/2021,3 m,12,Rock,8.75,Mineral,9.666666667,38,Rock
+Aggie,93,C,7/17/2021,3 m,18,Rock,4.25,Rock,12.66666667,24,Rock
+Aggie,93,C,7/17/2021,6 m,10.5,"Mineral,Rock",12.5,Rock,3,20,Rock
+Aggie,93,C,7/17/2021,9 m,10,"Mineral,Rock",10.5,Rock,12.16666667,16,Rock
+Aggie,94,A,7/17/2021,3 m,48,Rock,19.5,Mineral,17.66666667,49,Rock
+Aggie,94,A,7/17/2021,9 m,9.25,Mineral,9,Mineral,14.33333333,40,Rock
+Aggie,94,A,7/17/2021,6 m,5.25,"Mineral,Rock",5.25,"Mineral,Rock",17,85,Rock
+Aggie,94,B,7/17/2021,9 m,36,Rock,24.25,Rock,6,42,Rock
+Aggie,94,B,7/17/2021,6 m,20,Mineral,11,Rock,11.33333333,71,Rock
+Aggie,94,B,7/17/2021,3 m,40.5,Mineral,21.5,Mineral,16.16666667,52,Rock
+Aggie,94,C,7/17/2021,9 m,13.25,Mineral,13.25,Mineral,13.66666667,36,Rock
+Aggie,94,C,7/17/2021,6 m,15.5,"Rock,Mineral",16,Mineral,17.66666667,40,Rock
+Aggie,94,C,7/17/2021,3 m,20.75,"Rock,Mineral",26,Mineral,12.66666667,32,Rock
+Aggie,99,A,7/18/2021,9 m,26.25,Mineral,30.5,Frozen Ground,10.66666667,30,Rock
+Aggie,99,A,7/18/2021,6 m,32.5,Mineral,21.75,Mineral,11.5,37,Frozen Ground
+Aggie,99,A,7/18/2021,3 m,35.5,Mineral,33,Mineral,4.666666667,44,Frozen Ground
+Aggie,99,B,7/18/2021,6 m,17.5,Mineral,18,Rock,8.333333333,56,Frozen Ground
+Aggie,99,B,7/18/2021,9 m,26.5,Frozen Ground,27.25,Frozen Ground,12.5,26,Frozen Ground
+Aggie,99,B,7/18/2021,3 m,22.5,"Mineral,Rock",22.5,Rock,7,59,Rock
+Aggie,99,C,7/18/2021,9 m,31,"Mineral,Rock",24.5,Mineral,6.5,31,Rock
+Aggie,99,C,7/18/2021,6 m,29,Frozen Ground,27.75,Mineral,17.66666667,29,Frozen Ground
+Aggie,99,C,7/18/2021,3 m,0,Mineral,26,Mineral,7.666666667,46,Frozen Ground
+BearFish,68274,A,7/19/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68274,A,7/19/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68274,B,7/19/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68274,B,7/19/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68274,C,7/19/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68274,C,7/19/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68303,A,7/19/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68303,A,7/19/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68303,B,7/19/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68303,B,7/19/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68303,C,7/19/2022,7.5 m,0.25,Mineral,NA,,NA,NA,
+BearFish,68303,C,7/19/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BearFish,6846,A,7/19/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BearFish,6846,A,7/19/2022,7.5 m,0,,NA,,NA,NA,
+BearFish,6846,B,7/19/2022,7.5 m,7.9,Mineral,NA,,NA,NA,
+BearFish,6846,B,7/19/2022,2.5 m,3.5,Mineral,NA,,NA,NA,
+BearFish,6846,C,7/19/2022,7.5 m,6.5,Mineral,NA,,NA,NA,
+BearFish,6846,C,7/19/2022,2.5 m,5.5,Mineral,NA,,NA,NA,
+BearFish,68469,A,7/19/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68469,B,7/19/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68469,B,7/19/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68469,C,7/19/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BearFish,68469,C,7/19/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BearFish,6887,A,7/19/2022,2.5 m,5.5,Mineral,NA,,NA,NA,
+BearFish,6887,A,7/19/2022,7.5 m,2.5,Mineral,NA,,NA,NA,
+BearFish,6887,B,7/19/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BearFish,6887,B,7/19/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BearFish,6887,C,7/19/2022,2.5 m,2,Mineral,NA,,NA,NA,
+BearFish,6887,C,7/19/2022,7.5 m,0.25,Mineral,NA,,NA,NA,
+BigTractor,101,A,7/20/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,101,A,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,101,B,7/20/2022,2.5 m,0.25,Mineral,NA,,NA,NA,
+BigTractor,101,B,7/20/2022,7.5 m,2.5,Mineral,NA,,NA,NA,
+BigTractor,101,C,7/20/2022,7.5 m,1.5,Mineral,NA,,NA,NA,
+BigTractor,101,C,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,145,A,7/20/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,145,A,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,145,B,7/20/2022,7.5 m,0.5,Mineral,NA,,NA,NA,
+BigTractor,145,B,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,145,C,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,145,C,7/20/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,158,A,7/20/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,158,A,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,158,B,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,158,B,7/20/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,158,C,7/20/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,158,C,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,262,A,7/20/2022,7.5 m,0,Mineral,0,Mineral,10.25,NA,
+BigTractor,262,A,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,262,B,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,262,B,7/20/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,262,C,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,262,C,7/20/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,39,A,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,39,A,7/20/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,39,B,7/20/2022,2.5 m,0,Mineral,0,,5,NA,
+BigTractor,39,B,7/20/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,39,C,7/20/2022,7.5 m,0,Mineral,0,,7,NA,
+BigTractor,39,C,7/20/2022,2.5 m,0,Mineral,0,,7,NA,
+BigTractor,90,A,7/20/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,90,A,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,90,B,7/20/2022,7.5 m,2,Mineral,NA,,NA,NA,
+BigTractor,90,B,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,90,C,7/20/2022,2.5 m,0,Mineral,NA,,NA,NA,
+BigTractor,90,C,7/20/2022,7.5 m,0,Mineral,NA,,NA,NA,
+BitzshitiniCosnaLittle,44,A,7/14/2023,2.5 m,19,Mineral,20,Mineral,12.5,50,Frozen Ground
+BitzshitiniCosnaLittle,44,A,7/14/2023,7.5 m,14,Mineral,20,Mineral,10,61,Frozen Ground
+BitzshitiniCosnaLittle,44,B,7/14/2023,2.5 m,18,Mineral,25,Mineral,5.5,64,Frozen Ground
+BitzshitiniCosnaLittle,44,B,7/14/2023,7.5 m,25,Mineral,31,Mineral,3,61,Frozen Ground
+BitzshitiniCosnaLittle,44,C,7/14/2023,7.5 m,26,Mineral,22,Mineral,7,47,Frozen Ground
+BitzshitiniCosnaLittle,44,C,7/14/2023,2.5 m,25,Mineral,19,Mineral,2.5,53,Frozen Ground
+BitzshitiniCosnaLittle,45,A,7/14/2023,2.5 m,24.5,Mineral,34,Mineral,2.5,56,Frozen Ground
+BitzshitiniCosnaLittle,45,A,7/14/2023,7.5 m,24,Mineral,33,Mineral,6.5,50,Frozen Ground
+BitzshitiniCosnaLittle,45,B,7/14/2023,2.5 m,24,Mineral,30,Mineral,6,42,Frozen Ground
+BitzshitiniCosnaLittle,45,B,7/14/2023,7.5 m,29,Mineral,42,Mineral,0,45,Frozen Ground
+BitzshitiniCosnaLittle,45,C,7/14/2023,7.5 m,22,Mineral,35,Mineral,9,46,Frozen Ground
+BitzshitiniCosnaLittle,45,C,7/14/2023,2.5 m,38,Mineral,42,Mineral,2.5,38,Frozen Ground
+BitzshitiniCosnaLittle,46,A,7/14/2023,7.5 m,30,Frozen Ground,32,Frozen Ground,6.25,30,Frozen Ground
+BitzshitiniCosnaLittle,46,A,7/14/2023,2.5 m,27,Mineral,31,Frozen Ground,3.5,44,Frozen Ground
+BitzshitiniCosnaLittle,46,B,7/14/2023,7.5 m,44,Frozen Ground,NA,Frozen Ground,0,44,Frozen Ground
+BitzshitiniCosnaLittle,46,B,7/14/2023,2.5 m,32,Frozen Ground,40,Frozen Ground,4,32,Frozen Ground
+BitzshitiniCosnaLittle,46,C,7/14/2023,2.5 m,27,Frozen Ground,38,Mineral,0,37,Frozen Ground
+BitzshitiniCosnaLittle,46,C,7/14/2023,7.5 m,41,Frozen Ground,43,Frozen Ground,1,42,Frozen Ground
+BitzshitiniCosnaLittle,47,A,7/15/2023,7.5 m,9,Mineral,9,Mineral,3.5,80,Frozen Ground
+BitzshitiniCosnaLittle,47,A,7/15/2023,2.5 m,18,Mineral,10,Mineral,3.5,89,Frozen Ground
+BitzshitiniCosnaLittle,47,B,7/15/2023,2.5 m,19.5,Mineral,11,Mineral,5,92,Frozen Ground
+BitzshitiniCosnaLittle,47,B,7/15/2023,7.5 m,11,Mineral,9,Mineral,4,80,Frozen Ground
+BitzshitiniCosnaLittle,47,C,7/15/2023,7.5 m,14,Mineral,10,Mineral,7,89,Frozen Ground
+BitzshitiniCosnaLittle,47,C,7/15/2023,2.5 m,12,Mineral,12,Mineral,5,89,Frozen Ground
+BitzshitiniCosnaLittle,48,A,7/15/2023,7.5 m,7,Mineral,7,Mineral,3.5,NA,
+BitzshitiniCosnaLittle,48,A,7/15/2023,2.5 m,9,Mineral,11,Mineral,10.5,NA,
+BitzshitiniCosnaLittle,48,B,7/15/2023,2.5 m,9.5,Mineral,7,Mineral,4,NA,
+BitzshitiniCosnaLittle,48,B,7/15/2023,7.5 m,9,Mineral,9,Mineral,5,NA,
+BitzshitiniCosnaLittle,48,C,7/15/2023,2.5 m,11,Mineral,7,Mineral,7.5,NA,
+BitzshitiniCosnaLittle,48,C,7/15/2023,7.5 m,8,Mineral,10,Mineral,4.5,NA,
+BitzshitiniCosnaLittle,49,A,7/15/2023,7.5 m,28,Mineral,29,Mineral,7.5,55,Frozen Ground
+BitzshitiniCosnaLittle,49,A,7/15/2023,2.5 m,28,Mineral,21,Mineral,6,50,Frozen Ground
+BitzshitiniCosnaLittle,49,B,7/15/2023,7.5 m,22,Mineral,32,Mineral,8,51,Frozen Ground
+BitzshitiniCosnaLittle,49,B,7/15/2023,2.5 m,28,Mineral,24,Mineral,4.5,60,Frozen Ground
+BitzshitiniCosnaLittle,49,C,7/15/2023,2.5 m,22.5,Mineral,25,Mineral,6,61,Frozen Ground
+BitzshitiniCosnaLittle,49,C,7/15/2023,7.5 m,34,Mineral,29,Mineral,1.5,77,Frozen Ground
+BitzshitiniWien,39,A,7/12/2023,7.5 m,22,Mineral,NA,,NA,61,Frozen Ground
+BitzshitiniWien,39,A,7/12/2023,2.5 m,14,Mineral,NA,,NA,72,Frozen Ground
+BitzshitiniWien,39,B,7/12/2023,7.5 m,20,Mineral,NA,,NA,51,Frozen Ground
+BitzshitiniWien,39,B,7/12/2023,2.5 m,14,Mineral,NA,,NA,64,Frozen Ground
+BitzshitiniWien,39,C,7/12/2023,2.5 m,11,Mineral,NA,,NA,56,Frozen Ground
+BitzshitiniWien,39,C,7/12/2023,7.5 m,10,Mineral,NA,,NA,56,Frozen Ground
+BitzshitiniWien,40,A,7/12/2023,7.5 m,31,Mineral,18,Mineral,14.5,44,Frozen Ground
+BitzshitiniWien,40,A,7/12/2023,2.5 m,22,Mineral,27,Mineral,3.5,30,Frozen Ground
+BitzshitiniWien,40,B,7/12/2023,7.5 m,8,Mineral,15,Mineral,8.5,51,Frozen Ground
+BitzshitiniWien,40,B,7/12/2023,2.5 m,22,Mineral,18,Mineral,5.5,43,Frozen Ground
+BitzshitiniWien,40,C,7/12/2023,2.5 m,11,Mineral,12,Mineral,3,52,Frozen Ground
+BitzshitiniWien,40,C,7/12/2023,7.5 m,16,Mineral,13,Mineral,9.25,58,Frozen Ground
+BitzshitiniWien,41,A,7/13/2023,2.5 m,15,Mineral,23,Mineral,8.5,41,Frozen Ground
+BitzshitiniWien,41,A,7/13/2023,7.5 m,13,Mineral,14,Mineral,9,54,Frozen Ground
+BitzshitiniWien,41,B,7/13/2023,7.5 m,17,Mineral,17,Mineral,9,34,Frozen Ground
+BitzshitiniWien,41,B,7/13/2023,2.5 m,9,Mineral,15,Mineral,8,41,Frozen Ground
+BitzshitiniWien,41,C,7/13/2023,7.5 m,16,Mineral,8,Mineral,5,60,Frozen Ground
+BitzshitiniWien,41,C,7/13/2023,2.5 m,14,Mineral,17,Mineral,11.5,43,Frozen Ground
+BitzshitiniWien,42,A,7/13/2023,7.5 m,19,Mineral,25,Mineral,4.5,67,Frozen Ground
+BitzshitiniWien,42,A,7/13/2023,2.5 m,13,Mineral,21,Mineral,0.5,72,Frozen Ground
+BitzshitiniWien,42,B,7/13/2023,2.5 m,18,Mineral,19,Mineral,1.75,57,Frozen Ground
+BitzshitiniWien,42,B,7/13/2023,7.5 m,19,Mineral,25,Mineral,4.5,67,Frozen Ground
+BitzshitiniWien,42,C,7/13/2023,2.5 m,24,Mineral,19,Mineral,2.5,62,Frozen Ground
+BitzshitiniWien,42,C,7/13/2023,7.5 m,26,Mineral,25,Mineral,1.5,55,Frozen Ground
+BitzshitiniWien,43,A,7/13/2023,2.5 m,14,Mineral,15,Mineral,0,69,Frozen Ground
+BitzshitiniWien,43,A,7/13/2023,7.5 m,10,Mineral,13,Mineral,2.5,90,Frozen Ground
+BitzshitiniWien,43,B,7/13/2023,2.5 m,10,Mineral,13,Mineral,3.25,NA,Frozen Ground
+BitzshitiniWien,43,B,7/13/2023,7.5 m,9,Mineral,15,Mineral,1.5,76,Frozen Ground
+BitzshitiniWien,43,C,7/13/2023,2.5 m,11,Mineral,13,Mineral,2.5,65,Frozen Ground
+BitzshitiniWien,43,C,7/13/2023,7.5 m,15,Mineral,21,Mineral,3.5,63,Frozen Ground
+Chitanana,29,A,7/8/2023,7.5 m,18,Mineral,18,Mineral,10.5,40,Frozen Ground
+Chitanana,29,A,7/8/2023,2.5 m,24,Mineral,30,Mineral,8,39,Frozen Ground
+Chitanana,29,B,7/8/2023,2.5 m,22,Mineral,25,Mineral,3.5,40,Frozen Ground
+Chitanana,29,B,7/8/2023,7.5 m,22,Mineral,22,Mineral,4,48,Frozen Ground
+Chitanana,29,C,7/8/2023,2.5 m,24,Mineral,24,Mineral,8.5,53,Frozen Ground
+Chitanana,29,C,7/8/2023,7.5 m,17,Mineral,17,Mineral,7,70,Frozen Ground
+Chitanana,30,A,7/9/2023,7.5 m,31,Mineral,31,Mineral,1.5,43,Frozen Ground
+Chitanana,30,A,7/9/2023,2.5 m,26,Frozen Ground,25,Frozen Ground,3.5,28,Frozen Ground
+Chitanana,30,B,7/9/2023,7.5 m,31,Mineral,31,Mineral,2.5,44,Frozen Ground
+Chitanana,30,B,7/9/2023,2.5 m,27,Mineral,27,Mineral,3.5,37,Frozen Ground
+Chitanana,30,C,7/9/2023,2.5 m,28,Mineral,35,Mineral,4.5,40,Frozen Ground
+Chitanana,30,C,7/9/2023,7.5 m,40,Mineral,31,Mineral,4,53,Frozen Ground
+Chitanana,31,A,7/9/2023,7.5 m,0,"Mineral,Water",0,Mineral,1,67,Frozen Ground
+Chitanana,31,A,7/9/2023,2.5 m,17,Mineral,17,Mineral,9.5,60,Frozen Ground
+Chitanana,31,B,7/9/2023,2.5 m,0,Mineral,NA,,NA,88,Frozen Ground
+Chitanana,31,B,7/9/2023,7.5 m,2,Mineral,NA,,NA,72,Frozen Ground
+Chitanana,31,C,7/9/2023,7.5 m,3,Mineral,0,Mineral,9.25,72,Frozen Ground
+Chitanana,31,C,7/9/2023,2.5 m,0,Mineral,NA,,NA,NA,
+Chitanana,32,A,7/9/2023,2.5 m,36,Frozen Ground,34,Frozen Ground,2.75,42,Frozen Ground
+Chitanana,32,A,7/9/2023,7.5 m,34,Frozen Ground,29,Frozen Ground,5.5,34,Frozen Ground
+Chitanana,32,B,7/9/2023,2.5 m,38.5,Frozen Ground,33,Frozen Ground,6,40,Frozen Ground
+Chitanana,32,B,7/9/2023,7.5 m,27,Frozen Ground,39,Frozen Ground,0,27,Frozen Ground
+Chitanana,32,C,7/9/2023,7.5 m,42,Frozen Ground,38,Frozen Ground,5.5,42,Frozen Ground
+Chitanana,32,C,7/9/2023,2.5 m,22,Frozen Ground,20,Frozen Ground,2,43,Frozen Ground
+Chitanana,33,A,7/9/2023,7.5 m,37,Frozen Ground,37,Frozen Ground,6,37,Frozen Ground
+Chitanana,33,A,7/9/2023,2.5 m,25,Mineral,31,Frozen Ground,3,35,Frozen Ground
+Chitanana,33,B,7/9/2023,2.5 m,32,Mineral,37,Frozen Ground,5.5,51,Frozen Ground
+Chitanana,33,B,7/9/2023,7.5 m,37,Frozen Ground,37,Frozen Ground,7.5,37,Frozen Ground
+Chitanana,33,C,7/9/2023,2.5 m,31,Frozen Ground,38,Frozen Ground,5.5,34,Frozen Ground
+Chitanana,33,C,7/9/2023,7.5 m,38,Frozen Ground,28,Frozen Ground,7.5,54,Frozen Ground
+ChitananaMooseheart,34,A,7/10/2023,7.5 m,25,Mineral,NA,,NA,50,Frozen Ground
+ChitananaMooseheart,34,A,7/10/2023,2.5 m,32,Mineral,NA,,NA,51,Frozen Ground
+ChitananaMooseheart,34,B,7/10/2023,2.5 m,32,Mineral,NA,,NA,55,Frozen Ground
+ChitananaMooseheart,34,B,7/10/2023,7.5 m,32,Mineral,NA,,NA,54,Frozen Ground
+ChitananaMooseheart,34,C,7/10/2023,7.5 m,46,Mineral,NA,,NA,66,Frozen Ground
+ChitananaMooseheart,34,C,7/10/2023,2.5 m,34,Mineral,NA,,NA,67,Frozen Ground
+ChitananaMooseheart,35,A,7/10/2023,2.5 m,24,Mineral,NA,,NA,78,Mineral
+ChitananaMooseheart,35,A,7/10/2023,7.5 m,18,Mineral,NA,,NA,NA,
+ChitananaMooseheart,35,B,7/10/2023,2.5 m,27,Mineral,NA,,NA,90,Frozen Ground
+ChitananaMooseheart,35,B,7/10/2023,7.5 m,31,Mineral,NA,,NA,60,Frozen Ground
+ChitananaMooseheart,35,C,7/10/2023,2.5 m,26,Mineral,NA,,NA,61,Frozen Ground
+ChitananaMooseheart,35,C,7/10/2023,7.5 m,38,Mineral,NA,,NA,88,Frozen Ground
+ChitananaMooseheart,36,A,7/10/2023,7.5 m,26,Mineral,NA,,NA,59,Frozen Ground
+ChitananaMooseheart,36,A,7/10/2023,2.5 m,24,Mineral,NA,,NA,61,Frozen Ground
+ChitananaMooseheart,36,B,7/10/2023,7.5 m,17,Mineral,NA,,NA,93,Frozen Ground
+ChitananaMooseheart,36,B,7/10/2023,2.5 m,25,Mineral,NA,,NA,91,Frozen Ground
+ChitananaMooseheart,36,C,7/10/2023,2.5 m,28,Mineral,NA,,NA,93,Frozen Ground
+ChitananaMooseheart,36,C,7/10/2023,7.5 m,22,Mineral,NA,,NA,55,Frozen Ground
+ChitananaMooseheart,37,A,7/12/2023,2.5 m,8,Mineral,9.5,Mineral,8.75,NA,
+ChitananaMooseheart,37,A,7/12/2023,7.5 m,9,Mineral,11,Mineral,10.5,NA,
+ChitananaMooseheart,37,B,7/12/2023,7.5 m,9,Mineral,10,Mineral,11,NA,
+ChitananaMooseheart,37,B,7/12/2023,2.5 m,10,Mineral,8.5,Mineral,10,NA,
+ChitananaMooseheart,37,C,7/12/2023,2.5 m,18,Mineral,11,Mineral,14.5,NA,
+ChitananaMooseheart,37,C,7/12/2023,7.5 m,13,Mineral,16,Mineral,11.75,NA,
+ChitananaMooseheart,38,A,7/12/2023,2.5 m,22,Mineral,3,Mineral,1.25,51,Frozen Ground
+ChitananaMooseheart,38,A,7/12/2023,7.5 m,3,Mineral,8,Mineral,8.75,NA,
+ChitananaMooseheart,38,B,7/12/2023,7.5 m,2,Mineral,7,Mineral,17,97,Frozen Ground
+ChitananaMooseheart,38,B,7/12/2023,2.5 m,8,Mineral,8,Mineral,8.5,NA,
+ChitananaMooseheart,38,C,7/12/2023,2.5 m,16.5,Mineral,8,Mineral,4.5,80,Frozen Ground
+ChitananaMooseheart,38,C,7/12/2023,7.5 m,27,Mineral,NA,,NA,33,Frozen Ground
+Douglas,14,A,6/26/2023,7.5 m,4,Mineral,4,Mineral,7.75,74,Frozen Ground
+Douglas,14,A,6/26/2023,2.5 m,13,Mineral,16,Mineral,10,56,Frozen Ground
+Douglas,14,B,6/26/2023,2.5 m,27,Mineral,10,Mineral,15.5,NA,Rock
+Douglas,14,B,6/26/2023,7.5 m,20,Mineral,11,Mineral,4,20,Frozen Ground
+Douglas,14,C,6/26/2023,7.5 m,38,Mineral,19,Water,15,38,Frozen Ground
+Douglas,14,C,6/26/2023,2.5 m,37,Mineral,23.5,Mineral,18,36,Frozen Ground
+Douglas,15,A,6/26/2023,2.5 m,23,Mineral,21,Frozen Ground,9.5,23,Frozen Ground
+Douglas,15,A,6/26/2023,7.5 m,28,Frozen Ground,32,Frozen Ground,4.25,28,Frozen Ground
+Douglas,15,B,6/26/2023,2.5 m,26,Frozen Ground,22,Frozen Ground,4,30,Frozen Ground
+Douglas,15,B,6/26/2023,7.5 m,26,Frozen Ground,33,Frozen Ground,8,26,Frozen Ground
+Douglas,15,C,6/26/2023,7.5 m,28,Frozen Ground,29,Frozen Ground,8,27,Frozen Ground
+Douglas,15,C,6/26/2023,2.5 m,26,Frozen Ground,35,Frozen Ground,14.5,27,Frozen Ground
+Douglas,16,A,6/27/2023,2.5 m,20,Frozen Ground,29,Frozen Ground,5.5,20,Frozen Ground
+Douglas,16,A,6/27/2023,7.5 m,82,Frozen Ground,82,Frozen Ground,0,82,Frozen Ground
+Douglas,16,B,6/27/2023,7.5 m,34,Frozen Ground,29,Frozen Ground,4.75,34,Frozen Ground
+Douglas,16,B,6/27/2023,2.5 m,30,Frozen Ground,32,Frozen Ground,4,35,Frozen Ground
+Douglas,16,C,6/27/2023,2.5 m,34,Frozen Ground,36,Frozen Ground,0,34,Frozen Ground
+Douglas,16,C,6/27/2023,7.5 m,30,Frozen Ground,26,Frozen Ground,4.5,30,Frozen Ground
+Douglas,17,A,6/27/2023,7.5 m,28,Frozen Ground,28,Frozen Ground,0.5,28,Frozen Ground
+Douglas,17,A,6/27/2023,2.5 m,28,Frozen Ground,33,Frozen Ground,10.5,28,Frozen Ground
+Douglas,17,B,6/27/2023,7.5 m,29,Frozen Ground,23,Frozen Ground,3.5,29,Frozen Ground
+Douglas,17,B,6/27/2023,2.5 m,29,Frozen Ground,28,Frozen Ground,2.25,28,Frozen Ground
+Douglas,17,C,6/27/2023,2.5 m,24,Frozen Ground,49,Frozen Ground,0,24,Frozen Ground
+Douglas,17,C,6/27/2023,7.5 m,45,Frozen Ground,41,Frozen Ground,0,45,Frozen Ground
+Douglas,18,A,6/27/2023,7.5 m,19,Frozen Ground,34,Frozen Ground,0,19,Frozen Ground
+Douglas,18,A,6/27/2023,2.5 m,32,Frozen Ground,45,Frozen Ground,0,32,Frozen Ground
+Douglas,18,B,6/27/2023,7.5 m,30,Frozen Ground,30,Frozen Ground,0,30,Frozen Ground
+Douglas,18,B,6/27/2023,2.5 m,23,Frozen Ground,31,Frozen Ground,4.75,23,Frozen Ground
+Douglas,18,C,6/27/2023,2.5 m,39,Frozen Ground,41,Frozen Ground,2.75,39,Frozen Ground
+Douglas,18,C,6/27/2023,7.5 m,35,Frozen Ground,31,Frozen Ground,0,35,Frozen Ground
+DouglasBonanza,10,A,6/25/2023,7.5 m,0,Mineral,0,Mineral,20,NA,
+DouglasBonanza,10,A,6/25/2023,2.5 m,0,Mineral,4,Mineral,12.5,NA,
+DouglasBonanza,10,B,6/25/2023,7.5 m,1.5,Mineral,0,Mineral,31,NA,
+DouglasBonanza,10,B,6/25/2023,2.5 m,0,Mineral,NA,,NA,NA,
+DouglasBonanza,10,C,6/25/2023,2.5 m,0,Mineral,NA,,NA,NA,
+DouglasBonanza,10,C,6/25/2023,7.5 m,0.5,Mineral,NA,,NA,NA,
+DouglasBonanza,11,A,6/25/2023,2.5 m,1,Mineral,0,Mineral,2.5,NA,
+DouglasBonanza,11,A,6/25/2023,7.5 m,1,Mineral,0,Mineral,1.9,NA,
+DouglasBonanza,11,B,6/25/2023,2.5 m,2,Mineral,0,Mineral,2.7,NA,
+DouglasBonanza,11,B,6/25/2023,7.5 m,6,Mineral,0,Mineral,2.25,NA,
+DouglasBonanza,11,C,6/25/2023,2.5 m,0,Mineral,0,Mineral,4.2,NA,
+DouglasBonanza,11,C,6/25/2023,7.5 m,7,Mineral,7,Mineral,7.75,NA,
+DouglasBonanza,12,A,6/26/2023,2.5 m,27,Frozen Ground,40,Frozen Ground,0,32,Frozen Ground
+DouglasBonanza,12,A,6/26/2023,7.5 m,29,Frozen Ground,30,Frozen Ground,4,29,Frozen Ground
+DouglasBonanza,12,B,6/26/2023,7.5 m,37,Frozen Ground,26,Frozen Ground,1.5,42,Frozen Ground
+DouglasBonanza,12,B,6/26/2023,2.5 m,27,Frozen Ground,30,Frozen Ground,0,29,Frozen Ground
+DouglasBonanza,12,C,6/26/2023,2.5 m,32,Frozen Ground,37,Frozen Ground,0,32,Frozen Ground
+DouglasBonanza,12,C,6/26/2023,7.5 m,28,Frozen Ground,32,Frozen Ground,4.75,28,Frozen Ground
+DouglasBonanza,13,A,6/26/2023,2.5 m,31,Frozen Ground,34,Frozen Ground,4.5,35,Frozen Ground
+DouglasBonanza,13,A,6/26/2023,7.5 m,31,Frozen Ground,31,Frozen Ground,6,31,Frozen Ground
+DouglasBonanza,13,B,6/26/2023,2.5 m,33,Frozen Ground,30,Frozen Ground,2.25,30,Frozen Ground
+DouglasBonanza,13,B,6/26/2023,7.5 m,34,Frozen Ground,33,Frozen Ground,5,34,Frozen Ground
+DouglasBonanza,13,C,6/26/2023,7.5 m,28,Frozen Ground,27,Frozen Ground,1.35,28,Frozen Ground
+DouglasBonanza,13,C,6/26/2023,2.5 m,28,Frozen Ground,27,Frozen Ground,0,28,Frozen Ground
+DouglasBonanza,9,A,6/25/2023,7.5 m,0,Rock,0,Rock,15.1,NA,
+DouglasBonanza,9,A,6/25/2023,2.5 m,0,Rock,0,"Rock,Mineral",14.75,NA,
+DouglasBonanza,9,B,6/25/2023,2.5 m,0,Mineral,0,Mineral,13.75,NA,
+DouglasBonanza,9,B,6/25/2023,7.5 m,4,Rock,0,Mineral,11.25,NA,
+DouglasBonanza,9,C,6/25/2023,7.5 m,6,"Mineral,Rock",NA,Mineral,13.25,NA,
+DouglasBonanza,9,C,6/25/2023,2.5 m,10,Mineral,0,,10.5,NA,
+DragonMooseheart,24,A,7/7/2023,7.5 m,4,Mineral,NA,,NA,NA,
+DragonMooseheart,24,A,7/7/2023,2.5 m,3.5,Mineral,NA,Mineral,NA,NA,
+DragonMooseheart,24,B,7/7/2023,2.5 m,5,Mineral,NA,,NA,NA,
+DragonMooseheart,24,B,7/7/2023,7.5 m,3,Mineral,NA,,NA,NA,Mineral
+DragonMooseheart,24,C,7/7/2023,7.5 m,1.5,Mineral,NA,,NA,NA,Mineral
+DragonMooseheart,24,C,7/7/2023,2.5 m,4.5,Mineral,NA,,NA,NA,Mineral
+DragonMooseheart,25,A,7/7/2023,2.5 m,2,Mineral,NA,,NA,NA,
+DragonMooseheart,25,A,7/7/2023,7.5 m,4.5,Mineral,NA,,NA,NA,
+DragonMooseheart,25,B,7/7/2023,2.5 m,1.5,Mineral,NA,,NA,NA,
+DragonMooseheart,25,B,7/7/2023,7.5 m,1.5,Mineral,NA,,NA,NA,
+DragonMooseheart,25,C,7/7/2023,7.5 m,4,Mineral,NA,,NA,NA,
+DragonMooseheart,25,C,7/7/2023,2.5 m,3,Mineral,NA,,NA,NA,
+DragonMooseheart,26,A,7/8/2023,2.5 m,0,Mineral,NA,,NA,NA,
+DragonMooseheart,26,A,7/8/2023,7.5 m,0,Mineral,NA,,NA,NA,
+DragonMooseheart,26,B,7/8/2023,7.5 m,1,Mineral,NA,,NA,NA,
+DragonMooseheart,26,B,7/8/2023,2.5 m,3,Mineral,NA,,NA,NA,
+DragonMooseheart,26,C,7/8/2023,7.5 m,2,Mineral,NA,,NA,NA,
+DragonMooseheart,26,C,7/8/2023,2.5 m,0,Mineral,NA,,NA,NA,
+DragonMooseheart,27,A,7/8/2023,7.5 m,2,Mineral,NA,,NA,NA,
+DragonMooseheart,27,A,7/8/2023,2.5 m,0,Mineral,NA,,NA,NA,
+DragonMooseheart,27,B,7/8/2023,7.5 m,0,Mineral,NA,,NA,NA,
+DragonMooseheart,27,B,7/8/2023,2.5 m,0.5,Mineral,NA,,NA,NA,
+DragonMooseheart,27,C,7/8/2023,7.5 m,0,Mineral,NA,,NA,NA,
+DragonMooseheart,27,C,7/8/2023,2.5 m,0,Mineral,NA,,NA,NA,
+DragonMooseheart,28,A,7/8/2023,2.5 m,5,Mineral,NA,,NA,NA,
+DragonMooseheart,28,A,7/8/2023,7.5 m,1,Mineral,NA,,NA,NA,
+DragonMooseheart,28,B,7/8/2023,2.5 m,3.5,Mineral,NA,,NA,NA,
+DragonMooseheart,28,B,7/8/2023,7.5 m,0,Mineral,NA,,NA,NA,
+DragonMooseheart,28,C,7/8/2023,7.5 m,1,Mineral,NA,,NA,NA,
+DragonMooseheart,28,C,7/8/2023,2.5 m,0.5,Mineral,NA,,NA,NA,
+DryMooseheart,19,A,7/6/2023,7.5 m,18,Mineral,16,Mineral,7.5,57,Mineral
+DryMooseheart,19,A,7/6/2023,2.5 m,16,Mineral,22.5,Mineral,9.75,34.5,Mineral
+DryMooseheart,19,B,7/6/2023,2.5 m,14.5,Mineral,24,Mineral,6,36,Frozen Ground
+DryMooseheart,19,B,7/6/2023,7.5 m,14,Mineral,17,Mineral,3.5,45,Frozen Ground
+DryMooseheart,19,C,7/6/2023,7.5 m,23,Mineral,16,Mineral,16,38,Frozen Ground
+DryMooseheart,19,C,7/6/2023,2.5 m,17,Mineral,17,Frozen Ground,8.5,39,Frozen Ground
+DryMooseheart,20,A,7/6/2023,7.5 m,27,Mineral,26,Mineral,4.5,69,Frozen Ground
+DryMooseheart,20,A,7/6/2023,2.5 m,36,Mineral,24,Mineral,1.5,86,Frozen Ground
+DryMooseheart,20,B,7/6/2023,7.5 m,16,"Frozen Ground,Mineral",24,Mineral,10.5,NA,
+DryMooseheart,20,B,7/6/2023,2.5 m,22,Mineral,21,Frozen Ground,8,98,Frozen Ground
+DryMooseheart,20,C,7/6/2023,2.5 m,21.5,Mineral,30,Mineral,10,NA,
+DryMooseheart,20,C,7/6/2023,7.5 m,25,Mineral,20,Mineral,8.5,NA,
+DryMooseheart,21,A,7/6/2023,2.5 m,33,Frozen Ground,35,Frozen Ground,5,39,Frozen Ground
+DryMooseheart,21,A,7/6/2023,7.5 m,31,Frozen Ground,3,Frozen Ground,4.5,31,Frozen Ground
+DryMooseheart,21,B,7/6/2023,7.5 m,45,Frozen Ground,23,Frozen Ground,7.5,45,Frozen Ground
+DryMooseheart,21,B,7/6/2023,2.5 m,31,Mineral,32,Frozen Ground,4,34,Frozen Ground
+DryMooseheart,21,C,7/6/2023,2.5 m,21,Mineral,40,Frozen Ground,7,37,Frozen Ground
+DryMooseheart,21,C,7/6/2023,7.5 m,35,Frozen Ground,27,Frozen Ground,10,38,Frozen Ground
+DryMooseheart,22,A,7/7/2023,2.5 m,13.5,Mineral,24,Mineral,14.5,80,Frozen Ground
+DryMooseheart,22,A,7/7/2023,7.5 m,21,Mineral,18,Mineral,12,65,Frozen Ground
+DryMooseheart,22,B,7/7/2023,7.5 m,29,Mineral,16,Mineral,10,48,Frozen Ground
+DryMooseheart,22,B,7/7/2023,2.5 m,17,Mineral,24,Mineral,6,73,Frozen Ground
+DryMooseheart,22,C,7/7/2023,2.5 m,18,Mineral,12,Mineral,8,50,Frozen Ground
+DryMooseheart,22,C,7/7/2023,7.5 m,12,Mineral,16,Mineral,12.5,66,Frozen Ground
+DryMooseheart,23,A,7/7/2023,7.5 m,25,Mineral,25,Frozen Ground,13,35,Frozen Ground
+DryMooseheart,23,A,7/7/2023,2.5 m,33,Frozen Ground,34,Frozen Ground,0,34,Frozen Ground
+DryMooseheart,23,B,7/7/2023,7.5 m,28,Frozen Ground,28,Frozen Ground,0,29,Frozen Ground
+DryMooseheart,23,B,7/7/2023,2.5 m,20.5,Mineral,27,Mineral,0,46,Frozen Ground
+DryMooseheart,23,C,7/7/2023,2.5 m,13,Mineral,10,Mineral,14,71,"Mineral,Frozen Ground"
+DryMooseheart,23,C,7/7/2023,7.5 m,15,Mineral,10,Mineral,10,NA,Mineral
+FrozenBlackCalf,1018,A,7/25/2022,2.5 m,4,Mineral,NA,,NA,NA,
+FrozenBlackCalf,1018,A,7/25/2022,7.5 m,1,"Mineral,Rock",NA,,NA,NA,
+FrozenBlackCalf,1018,B,7/25/2022,2.5 m,3.5,Mineral,NA,,NA,NA,
+FrozenBlackCalf,1018,B,7/25/2022,7.5 m,9.8,"Rock,Mineral",NA,,NA,NA,
+FrozenBlackCalf,1018,C,7/25/2022,7.5 m,0.25,"Rock,Mineral",NA,,NA,NA,
+FrozenBlackCalf,1018,C,7/25/2022,2.5 m,2,Mineral,NA,,NA,NA,
+FrozenBlackCalf,188,A,7/25/2022,2.5 m,1,"Mineral,Rock",0,Mineral,5.85,NA,
+FrozenBlackCalf,188,A,7/25/2022,7.5 m,3,Mineral,NA,,NA,NA,
+FrozenBlackCalf,188,B,7/25/2022,2.5 m,0.25,Mineral,NA,,NA,NA,
+FrozenBlackCalf,188,B,7/25/2022,7.5 m,0,"Mineral,Rock",NA,,NA,NA,
+FrozenBlackCalf,188,C,7/25/2022,7.5 m,2.5,"Mineral,Rock",NA,,NA,NA,
+FrozenBlackCalf,188,C,7/25/2022,2.5 m,0,"Mineral,Rock",NA,,NA,NA,
+FrozenBlackCalf,36,A,7/25/2022,7.5 m,1,Mineral,NA,,NA,NA,
+FrozenBlackCalf,36,A,7/25/2022,2.5 m,2,Mineral,NA,,NA,NA,
+FrozenBlackCalf,36,B,7/25/2022,7.5 m,0,Rock,NA,,NA,NA,
+FrozenBlackCalf,36,B,7/25/2022,2.5 m,7,Mineral,NA,,NA,NA,
+FrozenBlackCalf,36,C,7/25/2022,7.5 m,4,Mineral,NA,,NA,NA,
+FrozenBlackCalf,36,C,7/25/2022,2.5 m,5.5,Mineral,NA,,NA,NA,
+FrozenBlackCalf,449,A,7/25/2022,2.5 m,0,Mineral,NA,,NA,NA,
+FrozenBlackCalf,449,A,7/25/2022,7.5 m,0,Mineral,NA,,NA,NA,
+FrozenBlackCalf,449,B,7/25/2022,7.5 m,0,Mineral,NA,,NA,NA,
+FrozenBlackCalf,449,B,7/25/2022,2.5 m,0,Mineral,NA,,NA,NA,
+FrozenBlackCalf,449,C,7/25/2022,2.5 m,0.25,Mineral,NA,,NA,NA,
+FrozenBlackCalf,449,C,7/25/2022,7.5 m,2.5,Mineral,NA,,NA,NA,
+FrozenBlackCalf,593,A,7/25/2022,7.5 m,2,Mineral,NA,,NA,NA,
+FrozenBlackCalf,593,A,7/25/2022,2.5 m,0.5,Mineral,NA,,NA,NA,
+FrozenBlackCalf,593,B,7/25/2022,7.5 m,0,Mineral,NA,,NA,NA,
+FrozenBlackCalf,593,B,7/25/2022,2.5 m,0,Mineral,NA,,NA,NA,
+FrozenBlackCalf,593,C,7/25/2022,7.5 m,5.5,Mineral,NA,,NA,NA,
+FrozenBlackCalf,593,C,7/25/2022,2.5 m,2,Mineral,NA,,NA,NA,
+FrozenBlackCalf,807,A,7/25/2022,7.5 m,3.5,Mineral,NA,,NA,NA,
+FrozenBlackCalf,807,A,7/25/2022,2.5 m,0,Mineral,NA,,NA,NA,
+FrozenBlackCalf,807,B,7/25/2022,2.5 m,3,Mineral,2,,3.75,NA,
+FrozenBlackCalf,807,B,7/25/2022,7.5 m,0.5,Rock,NA,,NA,NA,
+FrozenBlackCalf,807,C,7/25/2022,7.5 m,0,Mineral,NA,,NA,NA,
+FrozenBlackCalf,807,C,7/25/2022,2.5 m,0,Mineral,NA,,NA,NA,
+FrozenCalf,11,A,7/24/2022,2.5 m,4,Mineral,8,,2,NA,
+FrozenCalf,11,A,7/24/2022,7.5 m,2,Mineral,NA,,NA,NA,
+FrozenCalf,11,B,7/24/2022,2.5 m,3,Mineral,NA,,NA,NA,
+FrozenCalf,11,B,7/24/2022,7.5 m,5,Mineral,5,,0,NA,
+FrozenCalf,11,C,7/24/2022,7.5 m,2,Mineral,0,,2.25,NA,
+FrozenCalf,11,C,7/24/2022,2.5 m,0.25,Mineral,0,,5,NA,
+FrozenCalf,26,A,7/24/2022,2.5 m,1.5,Mineral,1,Mineral,3.5,NA,
+FrozenCalf,26,A,7/24/2022,7.5 m,1.5,Mineral,2,Rock,4.1,NA,
+FrozenCalf,26,B,7/24/2022,2.5 m,2,"Rock,Mineral",0.25,Rock,3.3,NA,
+FrozenCalf,26,B,7/24/2022,7.5 m,0,Mineral,0,Mineral,3.45,NA,
+FrozenCalf,26,C,7/24/2022,2.5 m,1,"Mineral,Rock",2,Mineral,2.85,NA,
+FrozenCalf,26,C,7/24/2022,7.5 m,0,Rock,0,Rock,3.1,NA,
+FrozenCalf,268,A,7/24/2022,7.5 m,2,Mineral,2,Mineral,0,NA,
+FrozenCalf,268,A,7/24/2022,2.5 m,0.25,Mineral,1,Mineral,1.25,NA,
+FrozenCalf,268,B,7/24/2022,2.5 m,1,Mineral,1.5,Mineral,3.65,NA,
+FrozenCalf,268,B,7/24/2022,7.5 m,1,Mineral,0.5,Mineral,2.35,NA,
+FrozenCalf,268,C,7/24/2022,7.5 m,8,Mineral,4,Mineral,1.5,NA,
+FrozenCalf,268,C,7/24/2022,2.5 m,2.5,Mineral,0.5,Mineral,2.35,NA,
+FrozenCalf,360,A,7/24/2022,7.5 m,4,Rock,1,,3.25,NA,
+FrozenCalf,360,A,7/24/2022,2.5 m,4,"Mineral,Rock",1,,0.75,NA,
+FrozenCalf,360,B,7/24/2022,2.5 m,3.5,Mineral,4,,0.75,NA,
+FrozenCalf,360,B,7/24/2022,7.5 m,7,Mineral,3,Mineral,3,NA,
+FrozenCalf,360,C,7/24/2022,2.5 m,2,Mineral,0,Mineral,0,NA,
+FrozenCalf,360,C,7/24/2022,7.5 m,0,Rock,2,Mineral,0.5,NA,
+FrozenCalf,686,A,7/24/2022,2.5 m,10,Mineral,NA,,NA,NA,
+FrozenCalf,686,A,7/24/2022,7.5 m,1,Mineral,NA,,NA,NA,
+FrozenCalf,686,B,7/24/2022,7.5 m,1,Mineral,NA,,NA,NA,
+FrozenCalf,686,B,7/24/2022,2.5 m,2,Mineral,NA,,NA,NA,
+FrozenCalf,686,C,7/24/2022,2.5 m,2.5,Mineral,NA,,NA,NA,
+FrozenCalf,686,C,7/24/2022,7.5 m,1.5,Mineral,NA,,NA,NA,
+FrozenCalf,755,A,7/24/2022,7.5 m,4,Mineral,2,,1.75,NA,
+FrozenCalf,755,A,7/24/2022,2.5 m,4,Mineral,2,Mineral,4.3,NA,
+FrozenCalf,755,B,7/24/2022,7.5 m,7.5,Mineral,5,Rock,1.25,NA,
+FrozenCalf,755,B,7/24/2022,2.5 m,8,Mineral,9,Mineral,1.75,NA,
+FrozenCalf,755,C,7/24/2022,7.5 m,3,Rock,5.5,Mineral,2.25,NA,
+FrozenCalf,755,C,7/24/2022,2.5 m,5,Mineral,3,Mineral,2,NA,
+FrozenFish,1202,A,7/23/2022,2.5 m,2,Mineral,3.5,,2.9,NA,
+FrozenFish,1202,A,7/23/2022,7.5 m,1,Mineral,NA,,2.7,NA,
+FrozenFish,1202,B,7/23/2022,7.5 m,3,Mineral,2,,4.1,NA,
+FrozenFish,1202,B,7/23/2022,2.5 m,2,Mineral,1.5,,7.35,NA,
+FrozenFish,1202,C,7/23/2022,7.5 m,1,Mineral,3,,1.7,NA,
+FrozenFish,1202,C,7/23/2022,2.5 m,3,Mineral,0,,2.8,NA,
+FrozenFish,1820,A,7/23/2022,7.5 m,1.2,Mineral,0.2,Mineral,4.35,NA,
+FrozenFish,1820,A,7/23/2022,2.5 m,3,Mineral,0.8,Mineral,2.05,NA,
+FrozenFish,1820,B,7/23/2022,7.5 m,1,Mineral,0.2,Mineral,4.75,NA,
+FrozenFish,1820,B,7/23/2022,2.5 m,0,Mineral,0,Mineral,5.05,NA,
+FrozenFish,1820,C,7/23/2022,7.5 m,0,Mineral,0.5,Mineral,3,NA,
+FrozenFish,1820,C,7/23/2022,2.5 m,0.5,Mineral,0.2,Mineral,1.75,NA,
+FrozenFish,1879,A,7/23/2022,2.5 m,2,Mineral,0,Mineral,3.45,NA,
+FrozenFish,1879,A,7/23/2022,7.5 m,0,Mineral,0,,5.3,NA,
+FrozenFish,1879,B,7/23/2022,2.5 m,0,Mineral,0.5,,1.5,NA,
+FrozenFish,1879,B,7/23/2022,7.5 m,0.5,Mineral,0,,2.2,NA,
+FrozenFish,1879,C,7/23/2022,7.5 m,1,Mineral,NA,,1,NA,
+FrozenFish,1879,C,7/23/2022,2.5 m,0,Mineral,0,,4.35,NA,
+FrozenFish,2616,A,7/23/2022,2.5 m,6.5,Mineral,0.5,Mineral,6.25,NA,
+FrozenFish,2616,A,7/23/2022,7.5 m,0,Mineral,1,Mineral,5,NA,
+FrozenFish,2616,B,7/23/2022,7.5 m,5,Mineral,4.5,Mineral,2.75,NA,
+FrozenFish,2616,B,7/23/2022,2.5 m,2.5,Mineral,0,Mineral,4.25,NA,
+FrozenFish,2616,C,7/23/2022,2.5 m,0,Mineral,0,Mineral,9,NA,
+FrozenFish,2616,C,7/23/2022,7.5 m,1.5,Mineral,2,Mineral,4.25,NA,
+FrozenFish,374,A,7/23/2022,2.5 m,0,Mineral,0,Mineral,5.25,NA,
+FrozenFish,374,A,7/23/2022,7.5 m,0,Mineral,0.5,Mineral,3.35,NA,
+FrozenFish,374,B,7/23/2022,7.5 m,1,Mineral,0,Mineral,4.45,NA,
+FrozenFish,374,B,7/23/2022,2.5 m,0,Mineral,0,Mineral,7.3,NA,
+FrozenFish,374,C,7/23/2022,7.5 m,0,Mineral,0,Mineral,2.6,NA,
+FrozenFish,374,C,7/23/2022,2.5 m,1,Mineral,1,Mineral,3.55,NA,
+FrozenFish,953,A,7/23/2022,2.5 m,3,Mineral,0.2,Mineral,6.5,NA,
+FrozenFish,953,A,7/23/2022,7.5 m,0,Mineral,0,Mineral,5.15,NA,
+FrozenFish,953,B,7/23/2022,7.5 m,3,Mineral,3.3,Mineral,6.85,NA,
+FrozenFish,953,B,7/23/2022,2.5 m,5,Mineral,2,Mineral,6.95,NA,
+FrozenFish,953,C,7/23/2022,7.5 m,2,Mineral,3,Mineral,4.25,NA,
+FrozenFish,953,C,7/23/2022,2.5 m,3.5,Mineral,8,Mineral,5,NA,
+Isom,1,A,6/17/2023,2.5 m,9.5,Mineral,13.5,Mineral,7.3,30.4,Mineral
+Isom,1,B,6/17/2023,2.5 m,14,Mineral,14,Mineral,7.75,25,Mineral
+Isom,1,C,6/17/2023,2.5 m,14,Mineral,22,Mineral,7.25,22,Mineral
+Isom,2,A,6/18/2023,7.5 m,28,Frozen Ground,19,Mineral,5,28,Frozen Ground
+Isom,2,B,6/18/2023,2.5 m,16,"Frozen Ground,Mineral",20,Mineral,3.75,19,Frozen Ground
+Isom,2,C,6/18/2023,2.5 m,20,Mineral,15,Mineral,11.5,25,"Frozen Ground,Mineral"
+Isom,3,A,6/18/2023,2.5 m,4,Mineral,5,Mineral,6.5,45,"Mineral,Frozen Ground"
+Isom,3,B,6/18/2023,7.5 m,2,Mineral,6,Mineral,9,42,Frozen Ground
+Isom,3,C,6/18/2023,7.5 m,16,Mineral,22,Mineral,8.75,21,Frozen Ground
+Isom,70,A,7/24/2023,2.5 m,22,Mineral,26,Mineral,6,61,Frozen Ground
+Isom,70,A,7/24/2023,7.5 m,27,Mineral,12,Mineral,9,65,Frozen Ground
+Isom,70,B,7/24/2023,7.5 m,19,Mineral,8,Mineral,6.5,67,Frozen Ground
+Isom,70,B,7/24/2023,2.5 m,18.5,Mineral,16,Mineral,3.5,63,Frozen Ground
+Isom,70,C,7/24/2023,7.5 m,10,"Water,Mineral",17,Mineral,18.5,72,Frozen Ground
+Isom,70,C,7/24/2023,2.5 m,24.5,Mineral,26,Mineral,6.5,60,Frozen Ground
+Isom,71,A,7/24/2023,7.5 m,15,Mineral,20,Mineral,4,60,Frozen Ground
+Isom,71,A,7/24/2023,2.5 m,15.5,Mineral,20,Mineral,5.5,59,Frozen Ground
+Isom,71,B,7/24/2023,2.5 m,21,Mineral,25,Mineral,8,47,Frozen Ground
+Isom,71,B,7/24/2023,7.5 m,30,Mineral,21,Mineral,2.5,40,Frozen Ground
+Isom,71,C,7/24/2023,7.5 m,21,Mineral,15,Mineral,5.5,72,Frozen Ground
+Isom,71,C,7/24/2023,2.5 m,26.5,Mineral,17,Mineral,3.5,60,Frozen Ground
+Isom,72,A,7/24/2023,7.5 m,11,Mineral,16,Mineral,10,58,Frozen Ground
+Isom,72,A,7/24/2023,2.5 m,16,Mineral,16,Mineral,12.5,54,Frozen Ground
+Isom,72,B,7/24/2023,7.5 m,16,Mineral,15,Mineral,5.5,65,Frozen Ground
+Isom,72,B,7/24/2023,2.5 m,22,Mineral,28,Mineral,20,60,Frozen Ground
+Isom,72,C,7/24/2023,2.5 m,16,Mineral,11,Mineral,14,70,Frozen Ground
+Isom,72,C,7/24/2023,7.5 m,19,Mineral,26,Mineral,25,62,Frozen Ground
+KilolitnaTal,50,A,7/17/2023,2.5 m,7.5,Mineral,NA,,NA,NA,
+KilolitnaTal,50,A,7/17/2023,7.5 m,1,Mineral,NA,,NA,NA,
+KilolitnaTal,50,B,7/17/2023,7.5 m,2,Mineral,NA,,NA,NA,
+KilolitnaTal,50,B,7/17/2023,2.5 m,4,Mineral,NA,,NA,NA,
+KilolitnaTal,50,C,7/17/2023,2.5 m,1,Mineral,NA,,NA,NA,
+KilolitnaTal,50,C,7/17/2023,7.5 m,8,Mineral,NA,,NA,NA,
+KilolitnaTal,51,A,7/17/2023,7.5 m,19,Mineral,NA,,NA,NA,
+KilolitnaTal,51,A,7/17/2023,2.5 m,9.5,Mineral,NA,,NA,NA,
+KilolitnaTal,51,B,7/17/2023,2.5 m,18.5,Mineral,NA,,NA,NA,
+KilolitnaTal,51,B,7/17/2023,7.5 m,11.5,Rock,NA,,NA,NA,
+KilolitnaTal,51,C,7/17/2023,2.5 m,11.5,Mineral,NA,,NA,NA,
+KilolitnaTal,51,C,7/17/2023,7.5 m,21,Mineral,NA,,NA,NA,
+KilolitnaTal,52,A,7/17/2023,2.5 m,8,Mineral,NA,,NA,NA,
+KilolitnaTal,52,A,7/17/2023,7.5 m,15,Mineral,NA,,NA,NA,
+KilolitnaTal,52,B,7/17/2023,7.5 m,11,"Mineral,Rock",NA,,NA,NA,
+KilolitnaTal,52,B,7/17/2023,2.5 m,11,Mineral,NA,,NA,NA,
+KilolitnaTal,52,C,7/17/2023,7.5 m,4,"Mineral,Rock",NA,,NA,NA,
+KilolitnaTal,52,C,7/17/2023,2.5 m,9,Mineral,NA,,NA,NA,
+KilolitnaTal,53,A,7/18/2023,2.5 m,18,Mineral,NA,,NA,NA,
+KilolitnaTal,53,A,7/18/2023,7.5 m,8,Rock,NA,,NA,NA,
+KilolitnaTal,53,B,7/18/2023,7.5 m,9,Rock,NA,,NA,NA,
+KilolitnaTal,53,B,7/18/2023,2.5 m,8,Mineral,NA,,NA,NA,
+KilolitnaTal,53,C,7/18/2023,7.5 m,13,Rock,NA,,NA,NA,
+KilolitnaTal,53,C,7/18/2023,2.5 m,11,Rock,NA,,NA,NA,
+KilolitnaTal,54,A,7/18/2023,2.5 m,16,Mineral,NA,,NA,NA,
+KilolitnaTal,54,A,7/18/2023,7.5 m,8,"Mineral,Rock",NA,,NA,NA,
+KilolitnaTal,54,B,7/18/2023,7.5 m,11,"Mineral,Rock",NA,,NA,NA,
+KilolitnaTal,54,B,7/18/2023,2.5 m,14,Mineral,NA,,NA,NA,
+KilolitnaTal,54,C,7/18/2023,7.5 m,9,"Mineral,Rock",NA,,NA,NA,
+KilolitnaTal,54,C,7/18/2023,2.5 m,10,Rock,NA,,NA,NA,
+KilolitnaTalHolanada,55,A,7/18/2023,2.5 m,3,Rock,14,"Mineral,Rock",16,NA,
+KilolitnaTalHolanada,55,A,7/18/2023,7.5 m,22.5,Rock,11,"Mineral,Rock",28.5,NA,
+KilolitnaTalHolanada,55,B,7/18/2023,2.5 m,3,Rock,NA,,NA,NA,
+KilolitnaTalHolanada,55,B,7/18/2023,7.5 m,7,"Rock,Mineral",NA,,NA,NA,
+KilolitnaTalHolanada,55,C,7/18/2023,7.5 m,16,Rock,NA,,NA,56,Frozen Ground
+KilolitnaTalHolanada,55,C,7/18/2023,2.5 m,11,"Mineral,Rock",NA,,NA,NA,
+KilolitnaTalHolanada,56,A,7/18/2023,2.5 m,4,Rock,NA,,NA,72,
+KilolitnaTalHolanada,56,A,7/18/2023,7.5 m,11,Rock,NA,,NA,NA,
+KilolitnaTalHolanada,56,B,7/18/2023,7.5 m,14,Rock,NA,,NA,NA,
+KilolitnaTalHolanada,56,B,7/18/2023,2.5 m,16,Rock,NA,,NA,NA,
+KilolitnaTalHolanada,56,C,7/18/2023,2.5 m,6,"Rock,Mineral",NA,,NA,NA,
+KilolitnaTalHolanada,56,C,7/18/2023,7.5 m,6.5,Rock,NA,,NA,NA,
+KilolitnaTalHolanada,57,A,7/19/2023,7.5 m,9,Rock,9,Rock,10.5,NA,
+KilolitnaTalHolanada,57,A,7/19/2023,2.5 m,12,"Rock,Mineral",11,Rock,10.25,NA,
+KilolitnaTalHolanada,57,B,7/19/2023,2.5 m,12.5,Rock,14,,6.5,NA,
+KilolitnaTalHolanada,57,B,7/19/2023,7.5 m,10,Rock,22,,19,NA,
+KilolitnaTalHolanada,57,C,7/19/2023,2.5 m,16,Rock,24,,6.5,NA,
+KilolitnaTalHolanada,57,C,7/19/2023,7.5 m,7,"Mineral,Rock",3,,15.5,NA,
+KilolitnaTalHolanada,58,A,7/19/2023,7.5 m,3,Rock,NA,,NA,NA,
+KilolitnaTalHolanada,58,A,7/19/2023,2.5 m,3,Rock,NA,Rock,NA,NA,
+KilolitnaTalHolanada,58,B,7/19/2023,7.5 m,6,Rock,5,"Mineral,Rock",16.5,NA,
+KilolitnaTalHolanada,58,B,7/19/2023,2.5 m,1.5,Rock,9,"Mineral,Rock",11,NA,
+KilolitnaTalHolanada,58,C,7/19/2023,2.5 m,8,"Mineral,Rock",16,"Rock,Mineral",26,NA,
+KilolitnaTalHolanada,58,C,7/19/2023,7.5 m,0,"Rock,Mineral",10,"Rock,Mineral",24,NA,
+KilolitnaTalHolanada,59,A,7/19/2023,2.5 m,20,Frozen Ground,36,Rock,53.5,34,Frozen Ground
+KilolitnaTalHolanada,59,A,7/19/2023,7.5 m,32,Frozen Ground,43,Rock,31.5,32,Frozen Ground
+KilolitnaTalHolanada,59,B,7/19/2023,7.5 m,16,Rock,41,Rock,54.5,61,Frozen Ground
+KilolitnaTalHolanada,59,B,7/19/2023,2.5 m,16,Frozen Ground,34,Water,17.5,21,Rock
+KilolitnaTalHolanada,59,C,7/19/2023,7.5 m,28,Rock,20,Rock,45.5,43,"Rock,Frozen Ground"
+KilolitnaTalHolanada,59,C,7/19/2023,2.5 m,6.5,Rock,41,Rock,42,10,Rock
+LittleYunBear,1037,A,7/22/2022,7.5 m,0.25,Mineral,NA,,NA,NA,
+LittleYunBear,1037,A,7/22/2022,2.5 m,4,Mineral,NA,,NA,NA,
+LittleYunBear,1037,B,7/22/2022,7.5 m,0.5,Mineral,NA,,NA,NA,
+LittleYunBear,1037,B,7/22/2022,2.5 m,0.5,Mineral,NA,,NA,NA,
+LittleYunBear,1037,C,7/22/2022,7.5 m,0,Mineral,NA,,NA,NA,
+LittleYunBear,1037,C,7/22/2022,2.5 m,0,Mineral,NA,,NA,NA,
+LittleYunBear,2101,A,7/22/2022,2.5 m,11,Mineral,16,Mineral,5,NA,
+LittleYunBear,2101,A,7/22/2022,7.5 m,4,Mineral,9,Mineral,11.5,NA,
+LittleYunBear,2101,B,7/22/2022,2.5 m,6,Mineral,5.5,Mineral,8.45,NA,
+LittleYunBear,2101,B,7/22/2022,7.5 m,11.7,Mineral,5.4,Mineral,5.3,NA,
+LittleYunBear,2101,C,7/22/2022,7.5 m,11.5,Mineral,4.5,,13.5,NA,
+LittleYunBear,2101,C,7/22/2022,2.5 m,4,Mineral,2.9,Mineral,7.45,NA,
+LittleYunBear,342,A,7/22/2022,7.5 m,0,Mineral,NA,,NA,NA,
+LittleYunBear,342,A,7/22/2022,2.5 m,0,Mineral,NA,,NA,NA,
+LittleYunBear,342,B,7/22/2022,7.5 m,0,Mineral,NA,,NA,NA,
+LittleYunBear,342,B,7/22/2022,2.5 m,0,Mineral,0,Mineral,1.05,NA,
+LittleYunBear,342,C,7/22/2022,2.5 m,0.25,Mineral,NA,,NA,NA,
+LittleYunBear,342,C,7/22/2022,7.5 m,0,Mineral,0.2,Mineral,2.6,NA,
+LittleYunBear,410,A,7/22/2022,2.5 m,0,Mineral,NA,,NA,NA,
+LittleYunBear,410,A,7/22/2022,7.5 m,2.5,Mineral,NA,,NA,NA,
+LittleYunBear,410,B,7/22/2022,2.5 m,0,Mineral,NA,,NA,NA,
+LittleYunBear,410,B,7/22/2022,7.5 m,0,Mineral,NA,,NA,NA,
+LittleYunBear,410,C,7/22/2022,2.5 m,3,Mineral,NA,,NA,NA,
+LittleYunBear,410,C,7/22/2022,7.5 m,0.5,Mineral,NA,,NA,NA,
+LittleYunBear,501,A,7/22/2022,2.5 m,15,Mineral,14.5,Mineral,2.75,NA,
+LittleYunBear,501,A,7/22/2022,7.5 m,9,Mineral,4,Mineral,3.3,NA,
+LittleYunBear,501,B,7/22/2022,2.5 m,7,Mineral,11.1,Mineral,6.65,NA,
+LittleYunBear,501,B,7/22/2022,7.5 m,12.5,Mineral,8.5,Mineral,2.9,NA,
+LittleYunBear,501,C,7/22/2022,7.5 m,16,Mineral,13.5,Mineral,3.3,NA,
+LittleYunBear,501,C,7/22/2022,2.5 m,7.5,Mineral,5.2,,5.7,NA,
+LittleYunBear,664,A,7/22/2022,7.5 m,9.4,Mineral,NA,,4.6,NA,
+LittleYunBear,664,A,7/22/2022,2.5 m,10,Mineral,6.9,Mineral,2.1,NA,
+LittleYunBear,664,B,7/22/2022,7.5 m,16,Mineral,21,,2.7,NA,
+LittleYunBear,664,B,7/22/2022,2.5 m,4.5,Mineral,7.7,,2.85,NA,
+LittleYunBear,664,C,7/22/2022,2.5 m,3,Mineral,17.5,,4.75,NA,
+LittleYunBear,664,C,7/22/2022,7.5 m,13,Mineral,8,Mineral,7,NA,
+Livengood,126,A,7/11/2021,6 m,23,Mineral,29,Mineral,7,34,Frozen Ground
+Livengood,126,A,7/11/2021,9 m,32,Frozen Ground,32,Frozen Ground,0.666666667,32,Frozen Ground
+Livengood,126,A,7/11/2021,3 m,29,Frozen Ground,29,Frozen Ground,3.666666667,29,Frozen Ground
+Livengood,126,B,7/11/2021,6 m,18.5,Mineral,25,Mineral,5,63,Frozen Ground
+Livengood,126,B,7/11/2021,9 m,37,Mineral,19,Mineral,15.33333333,65,Frozen Ground
+Livengood,126,B,7/11/2021,3 m,32,Mineral,32,Mineral,3,46,Frozen Ground
+Livengood,126,C,7/11/2021,9 m,41,Mineral,29,Mineral,15,55,Frozen Ground
+Livengood,126,C,7/11/2021,6 m,27.5,Mineral,21,,18.66666667,64,Frozen Ground
+Livengood,126,C,7/11/2021,3 m,32.5,Mineral,33,Mineral,5.666666667,NA,
+Livengood,134,A,7/11/2021,6 m,28,Mineral,28,Mineral,5.333333333,39,Frozen Ground
+Livengood,134,A,7/11/2021,3 m,26,Mineral,34,Frozen Ground,4.333333333,39,Frozen Ground
+Livengood,134,A,7/11/2021,9 m,26.5,Frozen Ground,26.5,Frozen Ground,5.666666667,34,Frozen Ground
+Livengood,134,B,7/11/2021,3 m,33,Mineral,32,Mineral,4.666666667,74,Frozen Ground
+Livengood,134,B,7/11/2021,9 m,15.5,Mineral,32,Frozen Ground,7,58,Frozen Ground
+Livengood,134,B,7/11/2021,6 m,30.5,"Mineral,Frozen Ground",32,"Mineral,Water",0.833333333,37,Frozen Ground
+Livengood,134,C,7/11/2021,3 m,24,"Water,Mineral",34.5,"Water,Frozen Ground",6.666666667,56,Frozen Ground
+Livengood,134,C,7/11/2021,9 m,20.5,Mineral,20.5,Mineral,8.666666667,41,Frozen Ground
+Livengood,134,C,7/11/2021,6 m,16,Mineral,16,Mineral,5,48,Frozen Ground
+Livengood,148,A,7/10/2021,9 m,2.75,Mineral,0.5,Mineral,3.833333333,62,Rock
+Livengood,148,A,7/10/2021,3 m,4,Mineral,2,Mineral,5,65,Rock
+Livengood,148,A,7/10/2021,6 m,3,Mineral,1.25,Mineral,8,63,Rock
+Livengood,148,B,7/10/2021,3 m,4,Mineral,4.25,Mineral,1.333333333,54,Rock
+Livengood,148,B,7/10/2021,6 m,2.5,Mineral,NA,,NA,35,Rock
+Livengood,148,B,7/10/2021,9 m,1.75,Mineral,1.75,Mineral,1.5,54,Rock
+Livengood,148,C,7/10/2021,3 m,0,Mineral,0.5,Mineral,5,49,Rock
+Livengood,148,C,7/10/2021,9 m,2.75,Mineral,1.75,Mineral,1.083333333,35,Rock
+Livengood,148,C,7/10/2021,6 m,2.5,Mineral,1.5,Mineral,2.333333333,52,Rock
+Livengood,157,A,7/11/2021,3 m,26.5,Mineral,22,Mineral,6.666666667,40,Frozen Ground
+Livengood,157,A,7/11/2021,9 m,21,Mineral,21,Mineral,4.333333333,45,Frozen Ground
+Livengood,157,A,7/11/2021,6 m,19.5,Mineral,6.5,Mineral,28.75,48,Frozen Ground
+Livengood,157,B,7/11/2021,9 m,23,Mineral,20.5,Mineral,10.33333333,60,Frozen Ground
+Livengood,157,B,7/11/2021,3 m,30.5,Rock,NA,,NA,30,Rock
+Livengood,157,B,7/11/2021,6 m,20,Mineral,17.5,Mineral,7,73,Frozen Ground
+Livengood,157,C,7/11/2021,3 m,29,Rock,40,Mineral,11,29,Rock
+Livengood,157,C,7/11/2021,9 m,6.5,Mineral,7,Mineral,15.66666667,75,"Rock,Frozen Ground"
+Livengood,157,C,7/11/2021,6 m,42,Mineral,24.5,Mineral,15,55,Frozen Ground
+Livengood,164,A,7/10/2021,9 m,37,,31.5,Frozen Ground,11.66666667,46,Frozen Ground
+Livengood,164,A,7/10/2021,6 m,8,Mineral,20,Mineral,7,64,Frozen Ground
+Livengood,164,A,7/10/2021,3 m,31,Mineral,31,Mineral,14,39,Frozen Ground
+Livengood,164,B,7/10/2021,9 m,7.5,Mineral,28,Frozen Ground,5.666666667,85,Frozen Ground
+Livengood,164,B,7/10/2021,6 m,13.5,Mineral,27,Mineral,10.33333333,75,Frozen Ground
+Livengood,164,B,7/10/2021,3 m,6.5,Mineral,5,Mineral,19,85,Frozen Ground
+Livengood,164,C,7/10/2021,6 m,20.5,Mineral,20.5,Mineral,10.83333333,66,Frozen Ground
+Livengood,164,C,7/10/2021,3 m,2.75,Mineral,7.5,Mineral,2.666666667,NA,
+Livengood,164,C,7/10/2021,9 m,4,Mineral,11.5,Mineral,7.666666667,73,Rock
+Livengood,170,A,7/10/2021,3 m,2.5,Mineral,2.25,Mineral,2.666666667,32,Rock
+Livengood,170,A,7/10/2021,6 m,1,Mineral,3,Mineral,8.666666667,39,Rock
+Livengood,170,A,7/10/2021,9 m,1,Mineral,0,Mineral,19.33333333,20,Rock
+Livengood,170,B,7/10/2021,9 m,0,Mineral,2,Mineral,12.66666667,22,Rock
+Livengood,170,B,7/10/2021,6 m,1,Mineral,0,Mineral,18,NA,
+Livengood,170,B,7/10/2021,3 m,1.75,Mineral,4,Mineral,24.5,30,Rock
+Livengood,170,C,7/10/2021,3 m,4,Mineral,3.5,Mineral,17.83333333,44,Rock
+Livengood,170,C,7/10/2021,6 m,2.5,Mineral,2,,9.333333333,50,Rock
+Livengood,170,C,7/10/2021,9 m,7,Mineral,3.25,Mineral,9.666666667,85,Rock
+Livengood,173,A,7/10/2021,6 m,18,Mineral,14.5,Mineral,6.666666667,71,Frozen Ground
+Livengood,173,A,7/10/2021,3 m,17.5,Mineral,18,Mineral,11.33333333,NA,
+Livengood,173,A,7/10/2021,9 m,28.5,Mineral,19,Mineral,6.666666667,63,Frozen Ground
+Livengood,173,B,7/10/2021,9 m,39.5,Frozen Ground,24.5,Mineral,11.66666667,39,Frozen Ground
+Livengood,173,B,7/10/2021,3 m,23.5,Mineral,23.5,Mineral,6.666666667,52,Frozen Ground
+Livengood,173,B,7/10/2021,6 m,22.5,Mineral,22.5,Mineral,3.5,34,Mineral
+Livengood,173,C,7/10/2021,3 m,21,Mineral,20.5,Mineral,10,62,Frozen Ground
+Livengood,173,C,7/10/2021,9 m,42.5,"Mineral,Water",34,Mineral,5.333333333,55,Frozen Ground
+Livengood,173,C,7/10/2021,6 m,36,Frozen Ground,14,Mineral,4,36,Ice
+Livengood,176,A,7/11/2021,6 m,9.25,Mineral,NA,,NA,NA,
+Livengood,176,A,7/11/2021,3 m,40.5,Mineral,12,Mineral,12.33333333,77,
+Livengood,176,A,7/11/2021,9 m,23,Mineral,23,Mineral,19.66666667,62,Rock
+Livengood,176,B,7/11/2021,6 m,8,Mineral,10,Mineral,19,NA,
+Livengood,176,B,7/11/2021,9 m,1.5,Mineral,1.5,Mineral,8.166666667,NA,
+Livengood,176,B,7/11/2021,3 m,45.5,Mineral,16.5,Mineral,17,80,Frozen Ground
+Livengood,176,C,7/11/2021,3 m,0,Mineral,0,Mineral,10.33333333,NA,
+Livengood,176,C,7/11/2021,9 m,21.25,Mineral,21.25,Mineral,10.83333333,NA,
+Livengood,176,C,7/11/2021,6 m,10,Mineral,10,Mineral,9.333333333,NA,
+Livengood,179,A,7/10/2021,6 m,13.5,"Mineral,Rock",12.5,"Mineral,Rock",8,44,Rock
+Livengood,179,A,7/10/2021,9 m,11.5,"Mineral,Rock",12.5,"Mineral,Rock",10,16,Rock
+Livengood,179,A,7/10/2021,3 m,16,Rock,14,"Mineral,Rock",7.666666667,27,Rock
+Livengood,179,B,7/10/2021,3 m,8.75,Mineral,8,Rock,4.666666667,44,Rock
+Livengood,179,B,7/10/2021,9 m,17.5,Rock,12,Rock,2.666666667,18,Rock
+Livengood,179,B,7/10/2021,6 m,6.5,Rock,10,Rock,6.666666667,22,Rock
+Livengood,179,C,7/10/2021,9 m,3.75,Mineral,9,Mineral,4.666666667,NA,
+Livengood,179,C,7/10/2021,3 m,7,Rock,11.5,Rock,5.666666667,50,Rock
+Livengood,179,C,7/10/2021,6 m,10,Rock,12,Mineral,4.333333333,55,Rock
+Manley,326,A,7/15/2021,9 m,1,Mineral,6,Mineral,6,38,Mineral
+Manley,326,A,7/15/2021,6 m,1.5,Mineral,12.5,Mineral,10.5,37,Mineral
+Manley,326,A,7/15/2021,3 m,6.75,Mineral,9,Mineral,5.666666667,58,Mineral
+Manley,326,B,7/15/2021,3 m,1,Mineral,2,Mineral,3.5,40,Mineral
+Manley,326,B,7/15/2021,9 m,10.5,Mineral,6,Mineral,6.333333333,45,Mineral
+Manley,326,B,7/15/2021,6 m,1.75,Mineral,3.25,Mineral,9,42,Mineral
+Manley,326,C,7/15/2021,9 m,7.5,Mineral,10.5,Mineral,3.333333333,45,Mineral
+Manley,326,C,7/15/2021,3 m,1,Mineral,9,Mineral,6,55,Mineral
+Manley,326,C,7/15/2021,6 m,6,Mineral,6.5,Mineral,9.333333333,55,Mineral
+Manley,328,A,7/14/2021,3 m,5,Mineral,1.75,Mineral,15.16666667,NA,
+Manley,328,A,7/14/2021,9 m,8.5,Mineral,1.75,Mineral,12,46,Mineral
+Manley,328,A,7/14/2021,6 m,7.5,Mineral,4.25,Mineral,16.66666667,66,Mineral
+Manley,328,B,7/14/2021,3 m,0.75,Mineral,1.5,Mineral,11.33333333,36,"Mineral,Rock"
+Manley,328,B,7/14/2021,6 m,3,Mineral,1.5,Mineral,8,46,Mineral
+Manley,328,B,7/14/2021,9 m,0,Mineral,0,Mineral,11,60,
+Manley,328,C,7/14/2021,3 m,0,Mineral,0,Mineral,18.33333333,65,
+Manley,328,C,7/14/2021,9 m,1.75,Mineral,2.5,Mineral,10.5,68,Rock
+Manley,328,C,7/14/2021,6 m,0.5,Mineral,0,Mineral,28.33333333,75,
+Manley,331,A,7/14/2021,9 m,1,Mineral,0.5,Mineral,21.33333333,58,Mineral
+Manley,331,A,7/14/2021,3 m,0,Mineral,0,Mineral,16,65,Mineral
+Manley,331,A,7/14/2021,6 m,1,Mineral,0,Mineral,16,35,Mineral
+Manley,331,B,7/14/2021,9 m,1.75,Mineral,0.5,Mineral,20.33333333,48,Mineral
+Manley,331,B,7/14/2021,6 m,1,Mineral,0,,29.66666667,36,Mineral
+Manley,331,B,7/14/2021,3 m,0.25,Mineral,1,Mineral,18.83333333,38,Mineral
+Manley,331,C,7/14/2021,6 m,0,Mineral,0,Mineral,29,65,Mineral
+Manley,331,C,7/14/2021,9 m,3.75,Mineral,0,Mineral,17.66666667,46,Mineral
+Manley,331,C,7/14/2021,3 m,2.5,Mineral,0,Mineral,21.33333333,45,Mineral
+Manley,342,A,7/15/2021,3 m,20.5,Mineral,20.5,,3.666666667,51,Mineral
+Manley,342,A,7/15/2021,6 m,10,Mineral,21.5,Mineral,5.25,44,Mineral
+Manley,342,A,7/15/2021,9 m,12.5,Mineral,23,Mineral,2.333333333,56,Mineral
+Manley,342,B,7/15/2021,3 m,13,Mineral,8.25,Mineral,9.666666667,65,Mineral
+Manley,342,B,7/15/2021,9 m,3.25,Mineral,2.75,Mineral,6.666666667,57,Mineral
+Manley,342,B,7/15/2021,6 m,10,Mineral,2.25,Mineral,4.666666667,65,Mineral
+Manley,342,C,7/15/2021,9 m,5.5,Mineral,4.5,Mineral,9.333333333,42,Mineral
+Manley,342,C,7/15/2021,6 m,2.75,Mineral,2,Mineral,4.666666667,36,Mineral
+Manley,342,C,7/15/2021,3 m,6.75,Mineral,1,Mineral,3,50,Mineral
+Manley,345,A,7/14/2021,9 m,0.5,Mineral,0,Mineral,19,65,Mineral
+Manley,345,A,7/14/2021,6 m,5,Mineral,0,Mineral,13.33333333,75,Mineral
+Manley,345,A,7/14/2021,3 m,8,"Mineral,Rock",0.5,Mineral,21.66666667,65,Mineral
+Manley,345,B,7/14/2021,9 m,0.5,Mineral,0,Mineral,19.33333333,63,Mineral
+Manley,345,B,7/14/2021,3 m,1,Mineral,1,Mineral,15,61,Mineral
+Manley,345,B,7/14/2021,6 m,2,Mineral,0,Mineral,24.66666667,51,Mineral
+Manley,345,C,7/14/2021,9 m,1,Mineral,0,Mineral,24.33333333,55,Mineral
+Manley,345,C,7/14/2021,3 m,1,Mineral,1,Mineral,17.33333333,45,Mineral
+Manley,345,C,7/14/2021,6 m,1.75,Mineral,0,Mineral,21,45,Mineral
+Manley,355,A,7/15/2021,3 m,11.75,Mineral,14.5,Mineral,19.33333333,NA,
+Manley,355,A,7/15/2021,6 m,12.5,Mineral,10,Mineral,9,61,Mineral
+Manley,355,A,7/15/2021,9 m,17,Mineral,6.5,Mineral,7,NA,
+Manley,355,B,7/15/2021,3 m,14,Mineral,14,Mineral,11.66666667,60,Frozen Ground
+Manley,355,B,7/15/2021,6 m,14,Mineral,20,Mineral,4,69,Frozen Ground
+Manley,355,B,7/15/2021,9 m,25,Mineral,16,Mineral,9.333333333,65,Mineral
+Manley,355,C,7/15/2021,6 m,7.5,Mineral,1,Mineral,11,NA,
+Manley,355,C,7/15/2021,3 m,26,Mineral,32,Mineral,0,NA,
+Manley,355,C,7/15/2021,9 m,7,Mineral,14,Mineral,19.5,NA,
+Manley,358,A,7/14/2021,9 m,0.25,Mineral,0,Mineral,12.66666667,25,Rock
+Manley,358,A,7/14/2021,6 m,0,Mineral,0,Mineral,11.33333333,25,Rock
+Manley,358,A,7/14/2021,3 m,0.5,Mineral,0,Mineral,8,22,Mineral
+Manley,358,B,7/14/2021,3 m,2,Mineral,0.5,Mineral,8.333333333,38,Rock
+Manley,358,B,7/14/2021,9 m,1.5,Mineral,0.5,Mineral,9,30,Mineral
+Manley,358,B,7/14/2021,6 m,0,Mineral,0,Mineral,11.66666667,24,Rock
+Manley,358,C,7/14/2021,6 m,0,Mineral,0,Mineral,10,31,Rock
+Manley,358,C,7/14/2021,3 m,1.25,Mineral,0,Mineral,6.5,31,Rock
+Manley,358,C,7/14/2021,9 m,1.25,Mineral,1.75,Mineral,6.5,32,Rock
+Manley,359,A,7/15/2021,3 m,24.5,Mineral,21.5,Mineral,6.666666667,NA,
+Manley,359,A,7/15/2021,6 m,11,Mineral,18,Mineral,7.166666667,NA,
+Manley,359,A,7/15/2021,9 m,6.5,Mineral,12,Mineral,3.5,NA,
+Manley,359,B,7/15/2021,3 m,6,Mineral,10,Mineral,7.666666667,45,Frozen Ground
+Manley,359,B,7/15/2021,9 m,12,Mineral,16.5,Mineral,6.333333333,NA,
+Manley,359,B,7/15/2021,6 m,12.5,Mineral,11.5,Mineral,14,75,Frozen Ground
+Manley,359,C,7/15/2021,3 m,17,Mineral,9.5,Mineral,5.5,NA,
+Manley,359,C,7/15/2021,6 m,13,Mineral,16,Mineral,2.833333333,NA,
+Manley,359,C,7/15/2021,9 m,13.5,Mineral,20,Mineral,6.166666667,40,Mineral
+Manley,360,A,7/15/2021,6 m,5,Mineral,1.5,Mineral,11.5,56,Mineral
+Manley,360,A,7/15/2021,3 m,8.5,Mineral,4,Mineral,9.5,NA,
+Manley,360,A,7/15/2021,9 m,5,Mineral,NA,,NA,NA,
+Manley,360,B,7/15/2021,9 m,16,Mineral,NA,,NA,NA,
+Manley,360,B,7/15/2021,6 m,10.25,Mineral,14.25,Mineral,5,45,Mineral
+Manley,360,B,7/15/2021,3 m,10.25,Mineral,13,Mineral,4.75,41,Mineral
+Manley,360,C,7/15/2021,9 m,9.75,Mineral,11.25,Mineral,8.666666667,50,Mineral
+Manley,360,C,7/15/2021,3 m,11.5,Mineral,8.5,Mineral,6.333333333,65,Mineral
+Manley,360,C,7/15/2021,6 m,15.5,Mineral,15.5,Mineral,9.666666667,50,Mineral
+Marr,2051,A,7/27/2022,2.5 m,3,Mineral,NA,,NA,NA,
+Marr,2051,A,7/27/2022,7.5 m,6,Rock,NA,,NA,NA,
+Marr,2051,B,7/27/2022,2.5 m,1,"Mineral,Rock",NA,,NA,NA,
+Marr,2051,B,7/27/2022,7.5 m,9,Mineral,NA,,NA,NA,
+Marr,2051,C,7/27/2022,2.5 m,1,Rock,NA,,NA,NA,
+Marr,2051,C,7/27/2022,7.5 m,2,Frozen Ground,NA,,NA,NA,
+Marr,2823,A,7/27/2022,2.5 m,3.5,Mineral,17,Mineral,14.75,NA,
+Marr,2823,A,7/27/2022,7.5 m,4.5,Mineral,17,Mineral,8.5,NA,
+Marr,2823,B,7/27/2022,2.5 m,18,Mineral,5,Mineral,9.25,NA,
+Marr,2823,B,7/27/2022,7.5 m,8.1,Mineral,4.5,Mineral,8.25,NA,
+Marr,2823,C,7/27/2022,7.5 m,11,"Mineral,Rock",13,Mineral,9.25,NA,
+Marr,2823,C,7/27/2022,2.5 m,8,Mineral,8,Mineral,17.5,NA,
+Marr,2835,A,7/27/2022,2.5 m,1,Mineral,NA,,NA,NA,
+Marr,2835,A,7/27/2022,7.5 m,4.5,Mineral,2.5,Mineral,4.25,NA,
+Marr,2835,B,7/27/2022,2.5 m,3,Mineral,NA,,NA,NA,
+Marr,2835,B,7/27/2022,7.5 m,0,Mineral,NA,,NA,NA,
+Marr,2835,C,7/27/2022,2.5 m,0,Mineral,NA,,NA,NA,
+Marr,2835,C,7/27/2022,7.5 m,1.5,Mineral,0,Mineral,13,NA,
+Marr,2957,A,7/27/2022,2.5 m,0.25,Mineral,NA,,NA,NA,
+Marr,2957,A,7/27/2022,7.5 m,2,Mineral,2,Mineral,17,NA,
+Marr,2957,B,7/27/2022,2.5 m,3.5,Mineral,NA,,NA,NA,
+Marr,2957,B,7/27/2022,7.5 m,0,Rock,1,Mineral,4.75,NA,
+Marr,2957,C,7/27/2022,2.5 m,1,"Mineral,Rock",1,Mineral,7.5,NA,
+Marr,2957,C,7/27/2022,7.5 m,0,Mineral,NA,,NA,NA,
+Marr,679,A,7/27/2022,2.5 m,5.5,Mineral,NA,,NA,NA,
+Marr,679,A,7/27/2022,7.5 m,5,Mineral,NA,,NA,NA,
+Marr,679,B,7/27/2022,7.5 m,3,Rock,NA,,NA,NA,
+Marr,679,B,7/27/2022,2.5 m,3,Mineral,NA,,NA,NA,
+Marr,679,C,7/27/2022,7.5 m,5,Rock,NA,,NA,NA,
+Marr,679,C,7/27/2022,2.5 m,8.5,Mineral,NA,,NA,NA,
+Marr,910,A,7/27/2022,7.5 m,3,Mineral,0.25,Mineral,17.5,NA,
+Marr,910,A,7/27/2022,2.5 m,2.5,Mineral,1.5,Mineral,10.6,NA,
+Marr,910,B,7/27/2022,7.5 m,4,Mineral,0.25,Mineral,10.75,NA,
+Marr,910,B,7/27/2022,2.5 m,0.25,Mineral,0,Mineral,11.5,NA,
+Marr,910,C,7/27/2022,2.5 m,3,Mineral,1,Mineral,4,NA,
+Marr,910,C,7/27/2022,7.5 m,3.5,"Mineral,Rock",1,Mineral,8.25,NA,
+MarrRock,1133,A,7/28/2022,2.5 m,0,"Mineral,Rock",NA,,NA,NA,
+MarrRock,1133,A,7/28/2022,7.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,1133,B,7/28/2022,7.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,1133,B,7/28/2022,2.5 m,0,Mineral,0,Mineral,0.75,NA,
+MarrRock,1133,C,7/28/2022,2.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,1133,C,7/28/2022,7.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,1371,A,7/28/2022,7.5 m,4,Mineral,NA,,NA,NA,
+MarrRock,1371,A,7/28/2022,2.5 m,3.5,Mineral,NA,,NA,NA,
+MarrRock,1371,B,7/28/2022,2.5 m,12,Mineral,NA,,NA,NA,
+MarrRock,1371,B,7/28/2022,7.5 m,5,Mineral,NA,,NA,NA,
+MarrRock,1371,C,7/28/2022,7.5 m,3,Mineral,NA,,NA,NA,
+MarrRock,1371,C,7/28/2022,2.5 m,3,Mineral,NA,,NA,NA,
+MarrRock,168,A,7/28/2022,2.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,168,A,7/28/2022,7.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,168,B,7/28/2022,2.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,168,B,7/28/2022,7.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,168,C,7/28/2022,7.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,168,C,7/28/2022,2.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,552,A,7/28/2022,7.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,552,A,7/28/2022,2.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,552,B,7/28/2022,2.5 m,0.1,Mineral,NA,,NA,NA,
+MarrRock,552,B,7/28/2022,7.5 m,0.5,Mineral,NA,,NA,NA,
+MarrRock,552,C,7/28/2022,2.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,552,C,7/28/2022,7.5 m,0,Mineral,NA,,NA,NA,
+MarrRock,643,A,7/28/2022,2.5 m,2.5,Mineral,NA,,NA,NA,
+MarrRock,643,A,7/28/2022,7.5 m,10,Mineral,NA,,NA,NA,
+MarrRock,643,B,7/28/2022,7.5 m,2.5,Mineral,NA,,NA,NA,
+MarrRock,643,B,7/28/2022,2.5 m,1.5,Mineral,NA,,NA,NA,
+MarrRock,643,C,7/28/2022,7.5 m,3,Mineral,NA,,NA,NA,
+MarrRock,643,C,7/28/2022,2.5 m,4,Mineral,NA,,NA,NA,
+MarrRock,781,A,7/28/2022,7.5 m,5.5,Mineral,NA,,NA,NA,
+MarrRock,781,A,7/28/2022,2.5 m,6,Mineral,NA,,NA,NA,
+MarrRock,781,B,7/28/2022,2.5 m,6.5,Mineral,NA,,NA,NA,
+MarrRock,781,B,7/28/2022,7.5 m,8,Mineral,NA,,NA,NA,
+MarrRock,781,C,7/28/2022,2.5 m,7.5,Mineral,NA,,NA,NA,
+MarrRock,781,C,7/28/2022,7.5 m,6,Mineral,NA,,NA,NA,
+MmBonanza,4,A,6/23/2023,2.5 m,9.5,Mineral,5,Mineral,4.65,66,Mineral
+MmBonanza,4,A,6/23/2023,7.5 m,8.5,Mineral,4.5,Mineral,7,49,Frozen Ground
+MmBonanza,4,B,6/23/2023,7.5 m,16,Mineral,11,Mineral,10.75,32,Frozen Ground
+MmBonanza,4,B,6/23/2023,2.5 m,10,Mineral,6.5,Mineral,5.7,56,Frozen Ground
+MmBonanza,4,C,6/23/2023,2.5 m,7.5,Mineral,11.5,Mineral,4.35,64,"Frozen Ground,Rock"
+MmBonanza,4,C,6/23/2023,7.5 m,14,Mineral,15,Mineral,10.75,26,"Frozen Ground,Rock"
+MmBonanza,5,A,6/23/2023,7.5 m,3,Mineral,1,Mineral,23.5,31,Frozen Ground
+MmBonanza,5,A,6/23/2023,2.5 m,10,Mineral,0.5,Mineral,19.5,36,Frozen Ground
+MmBonanza,5,B,6/23/2023,7.5 m,0.5,Mineral,0.5,Mineral,21,36,Frozen Ground
+MmBonanza,5,B,6/23/2023,2.5 m,0.5,Mineral,1,Mineral,21.75,36,Frozen Ground
+MmBonanza,5,C,6/23/2023,7.5 m,0.5,Mineral,10,Mineral,14,28,Frozen Ground
+MmBonanza,5,C,6/23/2023,2.5 m,0.5,Mineral,0.5,Mineral,24,29,Frozen Ground
+MmBonanza,6,A,6/24/2023,7.5 m,23,"Mineral,Frozen Ground",6,Mineral,5.65,29,Frozen Ground
+MmBonanza,6,A,6/24/2023,2.5 m,14,Mineral,5,Mineral,5.5,33,Frozen Ground
+MmBonanza,6,B,6/24/2023,7.5 m,26,Mineral,7,Mineral,5.9,30,Frozen Ground
+MmBonanza,6,B,6/24/2023,2.5 m,21,Mineral,29.5,Mineral,7.4,29.5,Frozen Ground
+MmBonanza,6,C,6/24/2023,7.5 m,23,Mineral,12.5,Mineral,9,28,Frozen Ground
+MmBonanza,6,C,6/24/2023,2.5 m,21,Frozen Ground,10.5,Mineral,6.8,24,Frozen Ground
+MmBonanza,7,A,6/24/2023,2.5 m,22,Mineral,20,Mineral,6,30,Frozen Ground
+MmBonanza,7,A,6/24/2023,7.5 m,27,Mineral,20,Mineral,7.5,44,Frozen Ground
+MmBonanza,7,B,6/24/2023,7.5 m,30,Mineral,24,Mineral,5.25,35,Frozen Ground
+MmBonanza,7,B,6/24/2023,2.5 m,26,Mineral,24,Mineral,4,30,Frozen Ground
+MmBonanza,7,C,6/24/2023,2.5 m,32,Mineral,31,Mineral,3.75,22,Frozen Ground
+MmBonanza,7,C,6/24/2023,7.5 m,28,Mineral,31,Mineral,2.7,31,Frozen Ground
+MmBonanza,8,A,6/24/2023,7.5 m,20,Mineral,17,"Mineral,Water",3.75,26,Frozen Ground
+MmBonanza,8,A,6/24/2023,2.5 m,18,Mineral,15,Mineral,2.75,27,Frozen Ground
+MmBonanza,8,B,6/24/2023,2.5 m,16,Mineral,24,Mineral,3.5,30.5,Frozen Ground
+MmBonanza,8,B,6/24/2023,7.5 m,15,Mineral,28,Mineral,5.75,46,Frozen Ground
+MmBonanza,8,C,6/24/2023,2.5 m,26,Mineral,21,Mineral,5.95,26,Frozen Ground
+MmBonanza,8,C,6/24/2023,7.5 m,28,Frozen Ground,23,Frozen Ground,9.1,28,Frozen Ground
+MtPrindle1,536,A,7/9/2021,3 m,2.5,Mineral,NA,,NA,25,Rock
+MtPrindle1,536,A,7/9/2021,6 m,6,Mineral,NA,,NA,18,Rock
+MtPrindle1,536,A,7/9/2021,9 m,12,Mineral,NA,,NA,35,Mineral
+MtPrindle1,536,B,7/9/2021,9 m,0,Mineral,NA,,NA,55,Rock
+MtPrindle1,536,B,7/9/2021,6 m,4.5,Mineral,NA,,NA,37,Rock
+MtPrindle1,536,B,7/9/2021,3 m,1,Mineral,NA,,NA,29,Rock
+MtPrindle1,536,C,7/9/2021,3 m,3.25,"Rock,Mineral",NA,,NA,55,Rock
+MtPrindle1,536,C,7/9/2021,9 m,3.5,Mineral,NA,,NA,28,Rock
+MtPrindle1,536,C,7/9/2021,6 m,2,Mineral,NA,,NA,24,Rock
+MtPrindle1,542,A,7/9/2021,9 m,2.75,Mineral,NA,,NA,28,Rock
+MtPrindle1,542,A,7/9/2021,6 m,3.5,"Mineral,Rock",NA,,NA,14,Rock
+MtPrindle1,542,A,7/9/2021,3 m,0,Mineral,NA,,NA,6,Rock
+MtPrindle1,542,B,7/9/2021,6 m,1,Mineral,NA,,NA,9,Rock
+MtPrindle1,542,B,7/9/2021,3 m,4,Mineral,NA,,NA,14,Rock
+MtPrindle1,542,B,7/9/2021,9 m,0,"Mineral,Rock",NA,,NA,35,Rock
+MtPrindle1,542,C,7/9/2021,3 m,0.5,Mineral,NA,,NA,23,Rock
+MtPrindle1,542,C,7/9/2021,9 m,0,Mineral,NA,,NA,24,Rock
+MtPrindle1,542,C,7/9/2021,6 m,2.75,Mineral,NA,,NA,24,Rock
+MtPrindle1,552,A,7/9/2021,6 m,1.25,Mineral,NA,,NA,7,Rock
+MtPrindle1,552,A,7/9/2021,3 m,2.25,Mineral,NA,,NA,25,Rock
+MtPrindle1,552,A,7/9/2021,9 m,0.5,Mineral,NA,,NA,36,Rock
+MtPrindle1,552,B,7/9/2021,6 m,1.75,"Mineral,Rock",NA,,NA,31,Rock
+MtPrindle1,552,B,7/9/2021,3 m,1.5,"Mineral,Rock",NA,,NA,50,Rock
+MtPrindle1,552,B,7/9/2021,9 m,1.75,"Mineral,Rock",NA,,NA,22,Rock
+MtPrindle1,552,C,7/9/2021,9 m,1.5,Mineral,NA,,NA,19,Rock
+MtPrindle1,552,C,7/9/2021,3 m,1,Mineral,NA,,NA,33,Rock
+MtPrindle1,552,C,7/9/2021,6 m,2,"Rock,Mineral",NA,,NA,30,Rock
+MtPrindle1,554,A,7/9/2021,3 m,1,"Rock,Mineral",NA,,NA,13,Rock
+MtPrindle1,554,A,7/9/2021,9 m,0.5,Mineral,NA,,NA,12,Rock
+MtPrindle1,554,A,7/9/2021,6 m,1.75,Mineral,NA,,NA,9,Rock
+MtPrindle1,554,B,7/9/2021,9 m,3.25,Mineral,NA,,NA,15,Rock
+MtPrindle1,554,B,7/9/2021,6 m,2,Mineral,NA,,NA,NA,
+MtPrindle1,554,B,7/9/2021,3 m,2.5,Mineral,NA,,NA,28,Rock
+MtPrindle1,554,C,7/9/2021,6 m,2.5,Mineral,NA,,NA,40,Rock
+MtPrindle1,554,C,7/9/2021,3 m,1.75,Mineral,NA,,NA,15,Rock
+MtPrindle1,554,C,7/9/2021,9 m,2.25,Mineral,NA,,NA,23,Rock
+MtPrindle1,570,A,7/9/2021,6 m,2.5,Mineral,NA,,NA,23,Rock
+MtPrindle1,570,A,7/9/2021,3 m,1.5,Mineral,NA,,NA,25,Mineral
+MtPrindle1,570,A,7/9/2021,9 m,2,Mineral,NA,,NA,22,Rock
+MtPrindle1,570,B,7/9/2021,9 m,19.25,Mineral,NA,,NA,30,Rock
+MtPrindle1,570,B,7/9/2021,3 m,2.25,Mineral,NA,,NA,32,Rock
+MtPrindle1,570,B,7/9/2021,6 m,1,Mineral,NA,,NA,20,Rock
+MtPrindle1,570,C,7/9/2021,3 m,3.25,Mineral,NA,,NA,46,Rock
+MtPrindle1,570,C,7/9/2021,6 m,2.25,Mineral,NA,,NA,40,Rock
+MtPrindle1,570,C,7/9/2021,9 m,2.75,Mineral,NA,,NA,23,Rock
+MtPrindle1,576,A,7/9/2021,6 m,1,Mineral,NA,,NA,25,Rock
+MtPrindle1,576,A,7/9/2021,3 m,0.75,Mineral,NA,,NA,36,Rock
+MtPrindle1,576,A,7/9/2021,9 m,1,Mineral,NA,,NA,35,Rock
+MtPrindle1,576,B,7/9/2021,9 m,0.75,Mineral,NA,,NA,12,Rock
+MtPrindle1,576,B,7/9/2021,6 m,1.75,Mineral,NA,,NA,21,Rock
+MtPrindle1,576,B,7/9/2021,3 m,0,Mineral,NA,,NA,65,Rock
+MtPrindle1,576,C,7/9/2021,6 m,0.5,Mineral,NA,,NA,15,Rock
+MtPrindle1,576,C,7/9/2021,9 m,2.75,Mineral,NA,,NA,19,Rock
+MtPrindle1,576,C,7/9/2021,3 m,1,Mineral,NA,,NA,34,Rock
+MtPrindle2,587,A,7/8/2021,6 m,19.5,Mineral,NA,,NA,80,Frozen Ground
+MtPrindle2,587,A,7/8/2021,3 m,21.5,Mineral,NA,,NA,45,Frozen Ground
+MtPrindle2,587,A,7/8/2021,9 m,14.5,Mineral,NA,,NA,69,Frozen Ground
+MtPrindle2,587,B,7/8/2021,9 m,24,Mineral,NA,,NA,55,Frozen Ground
+MtPrindle2,587,B,7/8/2021,6 m,9.5,Mineral,NA,,NA,NA,
+MtPrindle2,587,B,7/8/2021,3 m,26.5,Mineral,NA,,NA,75,Frozen Ground
+MtPrindle2,587,C,7/8/2021,6 m,21,Mineral,NA,,NA,74,Frozen Ground
+MtPrindle2,587,C,7/8/2021,3 m,53,Mineral,NA,,NA,70,Frozen Ground
+MtPrindle2,587,C,7/8/2021,9 m,21.5,Mineral,NA,,NA,NA,
+MtPrindle2,607,A,7/8/2021,3 m,5.5,Mineral,NA,,NA,24,Rock
+MtPrindle2,607,A,7/8/2021,6 m,6,Mineral,NA,,NA,20,Rock
+MtPrindle2,607,A,7/8/2021,9 m,9.75,Mineral,NA,,NA,35,Rock
+MtPrindle2,607,B,7/8/2021,3 m,7,Mineral,NA,,NA,43,Rock
+MtPrindle2,607,B,7/8/2021,9 m,9,Mineral,NA,,NA,25,Rock
+MtPrindle2,607,B,7/8/2021,6 m,1,Mineral,NA,,NA,30,Rock
+MtPrindle2,607,C,7/8/2021,3 m,9.5,Mineral,NA,,NA,55,Rock
+MtPrindle2,607,C,7/8/2021,9 m,4,"Mineral,Rock",NA,,NA,46,Rock
+MtPrindle2,607,C,7/8/2021,6 m,5,"Mineral,Rock",NA,,NA,55,Rock
+MtPrindle2,609,A,7/8/2021,6 m,3.5,Mineral,NA,,NA,37,Rock
+MtPrindle2,609,A,7/8/2021,9 m,1,"Mineral,Rock",NA,,NA,29,Rock
+MtPrindle2,609,A,7/8/2021,3 m,1.25,,NA,,NA,50,Rock
+MtPrindle2,609,B,7/8/2021,6 m,1.75,Mineral,NA,,2,35,Rock
+MtPrindle2,609,B,7/8/2021,3 m,8,Mineral,NA,,NA,50,Rock
+MtPrindle2,609,B,7/8/2021,9 m,1.25,Mineral,NA,,NA,50,Rock
+MtPrindle2,609,C,7/8/2021,9 m,3,Mineral,NA,,NA,48,Rock
+MtPrindle2,609,C,7/8/2021,6 m,7.5,Mineral,NA,,NA,35,Rock
+MtPrindle2,609,C,7/8/2021,3 m,3.75,Mineral,NA,,NA,10,Rock
+MtPrindle2,617,A,7/8/2021,3 m,3,"Mineral,Rock",NA,,NA,40,Rock
+MtPrindle2,617,A,7/8/2021,9 m,1.5,Rock,NA,,NA,20,Rock
+MtPrindle2,617,A,7/8/2021,6 m,1.5,"Mineral,Rock",NA,,NA,42,Rock
+MtPrindle2,617,B,7/8/2021,6 m,5.5,Mineral,NA,,NA,35,Rock
+MtPrindle2,617,B,7/8/2021,3 m,0.5,"Mineral,Rock",NA,,NA,37,Rock
+MtPrindle2,617,B,7/8/2021,9 m,0.5,Mineral,NA,,NA,25,Rock
+MtPrindle2,617,C,7/8/2021,6 m,4,Mineral,NA,,NA,50,Rock
+MtPrindle2,617,C,7/8/2021,3 m,5,Mineral,NA,,NA,45,Rock
+MtPrindle2,617,C,7/8/2021,9 m,5,Mineral,NA,,NA,55,Rock
+MtPrindle2,624,A,7/8/2021,9 m,1.75,Mineral,NA,,NA,29,Rock
+MtPrindle2,624,A,7/8/2021,6 m,4,"Mineral,Rock",NA,,NA,44,Rock
+MtPrindle2,624,A,7/8/2021,3 m,1.25,Rock,NA,,NA,37,Rock
+MtPrindle2,624,B,7/8/2021,6 m,5.25,"Mineral,Rock",NA,,NA,35,Rock
+MtPrindle2,624,B,7/8/2021,3 m,4,Mineral,NA,,NA,30,Rock
+MtPrindle2,624,B,7/8/2021,9 m,5.5,Mineral,NA,,NA,55,Rock
+MtPrindle2,624,C,7/8/2021,3 m,0.5,"Mineral,Rock",NA,,NA,48,Rock
+MtPrindle2,624,C,7/8/2021,6 m,3,"Mineral,Rock",NA,,NA,22,Rock
+MtPrindle2,624,C,7/8/2021,9 m,1,"Mineral,Rock",NA,,NA,20,Rock
+MtPrindle2,627,A,7/8/2021,6 m,3.5,"Mineral,Rock",NA,,NA,50,Rock
+MtPrindle2,627,A,7/8/2021,3 m,6.5,Mineral,NA,,NA,40,Rock
+MtPrindle2,627,A,7/8/2021,9 m,13.25,Mineral,NA,,NA,45,Rock
+MtPrindle2,627,B,7/8/2021,6 m,13,Mineral,NA,,NA,65,Rock
+MtPrindle2,627,B,7/8/2021,3 m,15,Mineral,NA,,NA,50,Rock
+MtPrindle2,627,B,7/8/2021,9 m,18,Mineral,NA,,NA,78,Rock
+MtPrindle2,627,C,7/8/2021,3 m,11.5,Mineral,NA,,NA,45,Rock
+MtPrindle2,627,C,7/8/2021,9 m,8.5,Mineral,NA,,NA,85,Rock
+MtPrindle2,627,C,7/8/2021,6 m,9.5,Mineral,NA,,NA,75,Rock
+MudNowitnaDirt,65,A,7/22/2023,2.5 m,0,Mineral,1,,3.5,NA,
+MudNowitnaDirt,65,A,7/22/2023,7.5 m,9,Mineral,0,,2,NA,
+MudNowitnaDirt,65,B,7/22/2023,2.5 m,0,Mineral,0,,4,NA,
+MudNowitnaDirt,65,B,7/22/2023,7.5 m,0,Mineral,0,,4.5,NA,
+MudNowitnaDirt,65,C,7/22/2023,2.5 m,0,Mineral,0,,3.5,NA,
+MudNowitnaDirt,65,C,7/22/2023,7.5 m,8,Mineral,0,,4.5,NA,
+MudNowitnaDirt,66,A,7/22/2023,7.5 m,3,Mineral,0,,2.5,NA,
+MudNowitnaDirt,66,A,7/22/2023,2.5 m,0,Mineral,1,,7,NA,
+MudNowitnaDirt,66,B,7/22/2023,7.5 m,0,Mineral,1,,3.5,NA,
+MudNowitnaDirt,66,B,7/22/2023,2.5 m,0,Mineral,0.5,,3,NA,
+MudNowitnaDirt,66,C,7/22/2023,2.5 m,0,Mineral,3,,4.5,NA,
+MudNowitnaDirt,66,C,7/22/2023,7.5 m,0,Mineral,1.5,,3,NA,
+MudNowitnaDirt,67,A,7/22/2023,7.5 m,14,Mineral,5,,7,NA,
+MudNowitnaDirt,67,A,7/22/2023,2.5 m,13,Mineral,2,,7.5,NA,
+MudNowitnaDirt,67,B,7/22/2023,7.5 m,2,Mineral,0,,5,NA,
+MudNowitnaDirt,67,B,7/22/2023,2.5 m,9,Mineral,5,,5,NA,
+MudNowitnaDirt,67,C,7/22/2023,7.5 m,5,Mineral,5,,1.5,NA,
+MudNowitnaDirt,67,C,7/22/2023,2.5 m,12,Mineral,4,,4.5,NA,
+MudNowitnaDirt,68,A,7/23/2023,2.5 m,0,Mineral,4,Mineral,5.5,NA,
+MudNowitnaDirt,68,A,7/23/2023,7.5 m,10,Mineral,2,Mineral,2.5,87,Frozen Ground
+MudNowitnaDirt,68,B,7/23/2023,7.5 m,1,Mineral,2,Mineral,2,NA,
+MudNowitnaDirt,68,B,7/23/2023,2.5 m,0,Mineral,4,Mineral,3.5,NA,
+MudNowitnaDirt,68,C,7/23/2023,2.5 m,10,Mineral,2,Mineral,3.5,NA,
+MudNowitnaDirt,68,C,7/23/2023,7.5 m,7,Mineral,5,Mineral,2.5,NA,
+MudNowitnaDirt,69,A,7/23/2023,2.5 m,0.5,Mineral,1,Mineral,3,NA,
+MudNowitnaDirt,69,A,7/23/2023,7.5 m,0.5,Mineral,2,Mineral,1.5,NA,
+MudNowitnaDirt,69,B,7/23/2023,2.5 m,2.5,Mineral,1,Mineral,3.5,NA,
+MudNowitnaDirt,69,B,7/23/2023,7.5 m,0.5,Mineral,1,Mineral,2.5,NA,
+MudNowitnaDirt,69,C,7/23/2023,7.5 m,2.5,Mineral,2,Mineral,9,NA,
+MudNowitnaDirt,69,C,7/23/2023,2.5 m,0,Mineral,1,Mineral,2,NA,
+PreachPreacher,281,A,7/26/2022,2.5 m,0.5,Mineral,NA,,NA,NA,
+PreachPreacher,281,A,7/26/2022,7.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,281,B,7/26/2022,2.5 m,1,Mineral,NA,,NA,NA,
+PreachPreacher,281,B,7/26/2022,7.5 m,0.25,Mineral,NA,,NA,NA,
+PreachPreacher,281,C,7/26/2022,2.5 m,4.5,Mineral,NA,,NA,NA,
+PreachPreacher,281,C,7/26/2022,7.5 m,8,Mineral,NA,,NA,NA,
+PreachPreacher,46,A,7/26/2022,7.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,46,A,7/26/2022,2.5 m,1,Mineral,NA,,NA,NA,
+PreachPreacher,46,B,7/26/2022,2.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,46,B,7/26/2022,7.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,46,C,7/26/2022,7.5 m,1.5,Mineral,NA,,NA,NA,
+PreachPreacher,46,C,7/26/2022,2.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,483,A,7/26/2022,7.5 m,2.5,Mineral,NA,,NA,NA,
+PreachPreacher,483,A,7/26/2022,2.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,483,B,7/26/2022,7.5 m,0.25,Mineral,NA,,NA,NA,
+PreachPreacher,483,B,7/26/2022,2.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,483,C,7/26/2022,7.5 m,7,Mineral,NA,,NA,NA,
+PreachPreacher,483,C,7/26/2022,2.5 m,0.5,Mineral,NA,,NA,NA,
+PreachPreacher,579,A,7/26/2022,7.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,579,A,7/26/2022,2.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,579,B,7/26/2022,7.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,579,B,7/26/2022,2.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,579,C,7/26/2022,2.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,579,C,7/26/2022,7.5 m,0,Mineral,NA,,NA,NA,
+PreachPreacher,8675309,A,7/26/2022,2.5 m,4,Mineral,NA,,NA,NA,
+PreachPreacher,8675309,A,7/26/2022,7.5 m,12,Mineral,NA,,NA,NA,
+PreachPreacher,8675309,B,7/26/2022,2.5 m,3.5,Mineral,NA,,NA,NA,
+PreachPreacher,8675309,B,7/26/2022,7.5 m,1.5,Mineral,NA,,NA,NA,
+PreachPreacher,8675309,C,7/26/2022,2.5 m,1,Mineral,NA,,NA,NA,
+PreachPreacher,8675309,C,7/26/2022,7.5 m,1,Mineral,NA,,NA,NA,
+PreachPreacher,918,A,7/26/2022,2.5 m,13.5,Mineral,NA,,NA,68,Ice
+PreachPreacher,918,A,7/26/2022,7.5 m,9.5,Mineral,NA,,NA,75,Ice
+PreachPreacher,918,B,7/26/2022,7.5 m,17,Mineral,NA,,NA,75,Ice
+PreachPreacher,918,B,7/26/2022,2.5 m,7.5,Mineral,NA,,NA,75,Ice
+PreachPreacher,918,C,7/26/2022,2.5 m,13,Mineral,NA,,NA,90,Ice
+PreachPreacher,918,C,7/26/2022,7.5 m,13,Mineral,NA,,NA,80,Mineral
+Shovel,18,A,7/5/2021,9 m,23.5,Mineral,33,Mineral,14.33333333,NA,Rock
+Shovel,18,A,7/5/2021,6 m,20.75,"Mineral,Rock",11.25,,2.833333333,NA,Rock
+Shovel,18,A,7/5/2021,3 m,1,Mineral,0,Mineral,11.66666667,NA,Rock
+Shovel,18,B,7/5/2021,3 m,34.5,Rock,45.5,Rock,4.333333333,NA,Rock
+Shovel,18,B,7/5/2021,6 m,17.5,Mineral,25.5,Mineral,7.5,NA,Rock
+Shovel,18,B,7/5/2021,9 m,24,Mineral,33.5,Mineral,4.5,NA,Rock
+Shovel,18,C,7/5/2021,6 m,20.5,Mineral,26,Mineral,4.833333333,NA,Rock
+Shovel,18,C,7/5/2021,3 m,16.5,Mineral,17,Mineral,11,NA,Rock
+Shovel,18,C,7/5/2021,9 m,24,Mineral,30.5,Mineral,11,NA,Rock
+Shovel,21,A,7/4/2021,3 m,9.25,"Rock,Mineral",2,Rock,15,NA,
+Shovel,21,A,7/4/2021,6 m,10.5,"Rock,Mineral",1.75,Mineral,9.666666667,NA,
+Shovel,21,A,7/4/2021,9 m,22.5,"Mineral,Rock",17.5,Mineral,8.333333333,NA,
+Shovel,21,B,7/4/2021,6 m,10.5,Mineral,10.5,Mineral,12.5,NA,
+Shovel,21,B,7/4/2021,9 m,15,Mineral,10,"Mineral,Rock",11.66666667,NA,
+Shovel,21,B,7/4/2021,3 m,0.5,Mineral,8,Mineral,10.33333333,NA,
+Shovel,21,C,7/4/2021,6 m,7,Rock,11.5,Mineral,11,NA,
+Shovel,21,C,7/4/2021,3 m,13.25,Mineral,9.5,Mineral,6.666666667,NA,
+Shovel,21,C,7/4/2021,9 m,23,Mineral,13.5,,5,NA,
+Shovel,26,A,7/5/2021,6 m,19,Mineral,0,Mineral,5,NA,Rock
+Shovel,26,A,7/5/2021,9 m,0,Mineral,0,Mineral,24,NA,Rock
+Shovel,26,A,7/5/2021,3 m,0.25,Mineral,0,Mineral,22,NA,Rock
+Shovel,26,B,7/5/2021,3 m,1.75,Mineral,3.5,Mineral,30.66666667,NA,Rock
+Shovel,26,B,7/5/2021,9 m,2.25,Mineral,0,Mineral,28.66666667,NA,
+Shovel,26,B,7/5/2021,6 m,2.75,Mineral,2.25,Mineral,21,NA,Rock
+Shovel,26,C,7/5/2021,6 m,5,Mineral,2.25,Mineral,34.33333333,NA,Mineral
+Shovel,26,C,7/5/2021,3 m,11.5,Mineral,3.25,Mineral,21.66666667,NA,Rock
+Shovel,26,C,7/5/2021,9 m,2,Mineral,0,Mineral,33.33333333,NA,Rock
+Shovel,31,A,7/4/2021,3 m,8,Mineral,7.5,Mineral,32,NA,Rock
+Shovel,31,A,7/4/2021,6 m,4.5,Mineral,12,Mineral,8.333333333,NA,Rock
+Shovel,31,A,7/4/2021,9 m,21,Mineral,11.5,Mineral,8,NA,Rock
+Shovel,31,B,7/4/2021,9 m,26.5,Rock,16,Rock,4.333333333,NA,Rock
+Shovel,31,B,7/4/2021,6 m,20.5,Rock,16,Rock,4,NA,Rock
+Shovel,31,B,7/4/2021,3 m,12,Rock,14,Rock,11,NA,Rock
+Shovel,31,C,7/4/2021,6 m,19.5,Rock,NA,,NA,NA,Rock
+Shovel,31,C,7/4/2021,3 m,17.25,Rock,NA,,NA,NA,Rock
+Shovel,31,C,7/4/2021,9 m,62.25,Rock,10,Rock,7.166666667,NA,Rock
+Shovel,41,A,7/3/2021,6 m,7.25,Mineral,0,Mineral,16.66666667,NA,
+Shovel,41,A,7/3/2021,3 m,NA,,NA,,NA,NA,
+Shovel,41,A,7/3/2021,9 m,NA,,NA,,NA,NA,
+Shovel,41,B,7/3/2021,3 m,NA,,NA,,NA,NA,
+Shovel,41,B,7/3/2021,6 m,10,"Mineral, Rock",0,Mineral,11,NA,
+Shovel,41,B,7/3/2021,9 m,NA,,NA,,NA,NA,
+Shovel,41,C,7/3/2021,6 m,3.75,"Mineral, Rock",3.5,Mineral,13,NA,
+Shovel,41,C,7/3/2021,9 m,NA,,NA,,NA,NA,
+Shovel,41,C,7/3/2021,3 m,NA,,NA,,NA,NA,
+Shovel,47,A,7/20/2021,3 m,1.75,"Rock,Mineral",4.25,Mineral,25,NA,
+Shovel,47,A,7/20/2021,9 m,15,Rock,4,Mineral,12,15,Rock
+Shovel,47,A,7/20/2021,6 m,16.5,Rock,2,,18.33333333,25,Rock
+Shovel,47,B,7/20/2021,3 m,14.75,Mineral,17,Mineral,8,NA,
+Shovel,47,B,7/20/2021,6 m,12.25,Rock,6.5,Mineral,13.66666667,NA,
+Shovel,47,B,7/20/2021,9 m,1,Mineral,2,Mineral,15.33333333,NA,
+Shovel,47,C,7/20/2021,3 m,12.5,Rock,2,Mineral,15.66666667,NA,
+Shovel,47,C,7/20/2021,6 m,7.5,Mineral,12.5,Rock,11.16666667,NA,
+Shovel,47,C,7/20/2021,9 m,1,Mineral,0,"Mineral,Rock",21,NA,
+Shovel,60,A,7/5/2021,3 m,0,Mineral,0,Mineral,23,NA,
+Shovel,60,A,7/5/2021,9 m,20.5,Mineral,0,Mineral,30.66666667,NA,Rock
+Shovel,60,A,7/5/2021,6 m,13.5,Mineral,5.5,Mineral,27.66666667,NA,Rock
+Shovel,60,B,7/5/2021,6 m,4,Rock,27,Rock,12.33333333,NA,Rock
+Shovel,60,B,7/5/2021,9 m,0,Mineral,0,Mineral,21,NA,
+Shovel,60,B,7/5/2021,3 m,0,Mineral,0,Mineral,31.33333333,NA,Rock
+Shovel,60,C,7/5/2021,9 m,0,Mineral,0,Mineral,16.66666667,NA,Rock
+Shovel,60,C,7/5/2021,3 m,23,Mineral,17.5,Mineral,10.33333333,NA,Rock
+Shovel,60,C,7/5/2021,6 m,4.75,Mineral,24.5,Mineral,17,NA,
+Shovel,8,A,7/5/2021,9 m,19.5,Mineral,25,Rock,8,NA,Rock
+Shovel,8,A,7/5/2021,3 m,43.5,Frozen Ground,44,,0,45,Frozen Ground
+Shovel,8,A,7/5/2021,6 m,38.5,Mineral,0,Mineral,13,NA,Rock
+Shovel,8,B,7/5/2021,3 m,2.25,Rock,0,Rock,16.66666667,NA,Rock
+Shovel,8,B,7/5/2021,6 m,21,Mineral,0,Rock,12.66666667,NA,Rock
+Shovel,8,B,7/5/2021,9 m,7.5,Mineral,12,Mineral,12.66666667,NA,Rock
+Shovel,8,C,7/5/2021,3 m,0,Rock,8.25,Rock,26,NA,Rock
+Shovel,8,C,7/5/2021,6 m,20.5,Rock,16,Rock,28,NA,Rock
+Shovel,8,C,7/5/2021,9 m,29.5,Rock,NA,,0,NA,Rock
+SnohomishEagle,60,A,7/20/2023,2.5 m,0,Mineral,0,Mineral,6.25,NA,
+SnohomishEagle,60,A,7/20/2023,7.5 m,11,Mineral,9.5,Mineral,4.75,NA,
+SnohomishEagle,60,B,7/20/2023,7.5 m,6,Mineral,6,Mineral,3.5,NA,
+SnohomishEagle,60,B,7/20/2023,2.5 m,0,Mineral,0,Mineral,5.25,NA,
+SnohomishEagle,60,C,7/20/2023,7.5 m,5,Mineral,3,Mineral,4.5,NA,
+SnohomishEagle,60,C,7/20/2023,2.5 m,3,Mineral,5,Mineral,4.5,NA,
+SnohomishEagle,61,A,7/20/2023,2.5 m,0,Mineral,0,,14.5,NA,
+SnohomishEagle,61,A,7/20/2023,7.5 m,11,Mineral,16,Mineral,9.75,NA,
+SnohomishEagle,61,B,7/20/2023,2.5 m,13,Mineral,11,Mineral,10,NA,
+SnohomishEagle,61,B,7/20/2023,7.5 m,35,Mineral,28,Mineral,8,NA,
+SnohomishEagle,61,C,7/20/2023,7.5 m,23,Mineral,30,Mineral,7.5,NA,
+SnohomishEagle,61,C,7/20/2023,2.5 m,18,Mineral,22,Mineral,10.5,NA,
+SnohomishEagle,62,A,7/21/2023,7.5 m,15,Mineral,11,Mineral,8,NA,
+SnohomishEagle,62,A,7/21/2023,2.5 m,8,Mineral,11,Mineral,7.5,NA,
+SnohomishEagle,62,B,7/21/2023,7.5 m,27,Mineral,13,Mineral,10.5,NA,
+SnohomishEagle,62,B,7/21/2023,2.5 m,9,Mineral,13,Mineral,10.5,NA,
+SnohomishEagle,62,C,7/21/2023,7.5 m,15,Mineral,20,Mineral,4.5,NA,
+SnohomishEagle,62,C,7/21/2023,2.5 m,20.5,Mineral,18,Mineral,8,NA,
+SnohomishEagle,63,A,7/21/2023,2.5 m,0.5,Mineral,NA,,NA,NA,
+SnohomishEagle,63,A,7/21/2023,7.5 m,2.5,Mineral,NA,,NA,NA,
+SnohomishEagle,63,B,7/21/2023,7.5 m,0,Mineral,NA,,NA,NA,
+SnohomishEagle,63,B,7/21/2023,2.5 m,0,Mineral,NA,,NA,NA,
+SnohomishEagle,63,C,7/21/2023,2.5 m,0,Mineral,NA,,NA,NA,
+SnohomishEagle,63,C,7/21/2023,7.5 m,0,Mineral,NA,,NA,NA,
+SnohomishEagle,64,A,7/21/2023,2.5 m,0,Mineral,2,Mineral,6.5,NA,
+SnohomishEagle,64,A,7/21/2023,7.5 m,0,Mineral,1,Mineral,5,NA,
+SnohomishEagle,64,B,7/21/2023,2.5 m,0,"Mineral,Rock",0,Mineral,6,NA,
+SnohomishEagle,64,B,7/21/2023,7.5 m,0,"Mineral,Rock",4,Mineral,7,NA,
+SnohomishEagle,64,C,7/21/2023,7.5 m,6,Mineral,5,"Mineral,Rock",5,NA,
+SnohomishEagle,64,C,7/21/2023,2.5 m,0,Mineral,3,Mineral,8.5,NA,
+TananaRoad,735,A,7/24/2021,9 m,8,Mineral,8,Mineral,8.666666667,55,Rock
+TananaRoad,735,A,7/24/2021,3 m,0.5,Mineral,2.5,Mineral,12.66666667,57,Rock
+TananaRoad,735,A,7/24/2021,6 m,2,Mineral,1,Mineral,13.66666667,9,Rock
+TananaRoad,735,B,7/24/2021,6 m,0,Rock,3,Mineral,2.166666667,19,Rock
+TananaRoad,735,B,7/24/2021,3 m,12.5,Mineral,0,Mineral,7,68,Rock
+TananaRoad,735,B,7/24/2021,9 m,8.75,Mineral,6,Mineral,11.33333333,18,Rock
+TananaRoad,735,C,7/24/2021,6 m,3.25,Rock,7.25,Rock,7.666666667,42,Rock
+TananaRoad,735,C,7/24/2021,3 m,4.5,"Rock,Mineral",4.5,Rock,6.333333333,19,Rock
+TananaRoad,735,C,7/24/2021,9 m,9.25,Mineral,13,Mineral,0.75,56,Rock
+TananaRoad,740,A,7/25/2021,3 m,3.25,Mineral,0.5,Mineral,16.66666667,46,Rock
+TananaRoad,740,A,7/25/2021,9 m,3.75,Mineral,2.75,Mineral,15.33333333,29,Rock
+TananaRoad,740,A,7/25/2021,6 m,1.5,Mineral,2,Mineral,16,44,Rock
+TananaRoad,740,B,7/25/2021,6 m,1.25,Mineral,2.75,Mineral,16.33333333,39,Rock
+TananaRoad,740,B,7/25/2021,9 m,2,Mineral,0.5,Mineral,14.66666667,36,Rock
+TananaRoad,740,B,7/25/2021,3 m,2.25,Mineral,12,Mineral,25.66666667,25,Mineral
+TananaRoad,740,C,7/25/2021,3 m,1.25,Mineral,1,Mineral,13,17,Rock
+TananaRoad,740,C,7/25/2021,6 m,0,Mineral,3.5,Mineral,34,34,Rock
+TananaRoad,740,C,7/25/2021,9 m,3,Mineral,3,Mineral,18.33333333,33,Rock
+TananaRoad,747,A,7/24/2021,9 m,3.5,Mineral,6,Mineral,13.33333333,32,Rock
+TananaRoad,747,A,7/24/2021,6 m,2.75,Mineral,0,Mineral,11.66666667,42,Rock
+TananaRoad,747,A,7/24/2021,3 m,0.25,Mineral,1,Mineral,11.5,52,Rock
+TananaRoad,747,B,7/24/2021,9 m,2,Mineral,0,Mineral,4,39,Mineral
+TananaRoad,747,B,7/24/2021,6 m,0,Mineral,1.5,Mineral,11,36,Rock
+TananaRoad,747,B,7/24/2021,3 m,0,Mineral,0,Mineral,13,26,Mineral
+TananaRoad,747,C,7/24/2021,6 m,13,Mineral,4,Mineral,5,67,Rock
+TananaRoad,747,C,7/24/2021,3 m,12.75,Mineral,0,Mineral,9.833333333,45,Rock
+TananaRoad,747,C,7/24/2021,9 m,2,Mineral,2,Mineral,7,12,Rock
+TananaRoad,757,A,7/25/2021,6 m,3,Mineral,1,Mineral,13.83333333,26,Rock
+TananaRoad,757,A,7/25/2021,3 m,1.75,Mineral,1.75,Mineral,16.33333333,31,Rock
+TananaRoad,757,A,7/25/2021,9 m,0,Mineral,0,Mineral,17,37,Rock
+TananaRoad,757,B,7/25/2021,3 m,2.75,Mineral,2.75,Mineral,20.33333333,42,Rock
+TananaRoad,757,B,7/25/2021,9 m,4,Mineral,8.75,Mineral,4.666666667,30,Rock
+TananaRoad,757,B,7/25/2021,6 m,10,Mineral,6.25,Mineral,10.16666667,30,"Mineral,Rock"
+TananaRoad,757,C,7/25/2021,6 m,2,Mineral,2.25,Mineral,11.5,35,Rock
+TananaRoad,757,C,7/25/2021,3 m,5,Mineral,1.5,Mineral,14,41,Mineral
+TananaRoad,757,C,7/25/2021,9 m,9,Mineral,1.75,Mineral,14.5,25,Rock
+TananaRoad,777,A,7/25/2021,3 m,0,Mineral,6.25,Mineral,32,16,Rock
+TananaRoad,777,A,7/25/2021,9 m,0,Mineral,1.5,Mineral,14,32,Mineral
+TananaRoad,777,A,7/25/2021,6 m,3.75,Mineral,0.5,Mineral,14.66666667,37,Rock
+TananaRoad,777,B,7/25/2021,3 m,4,Mineral,1.5,Mineral,17.16666667,41,"Mineral,Rock"
+TananaRoad,777,B,7/25/2021,6 m,0,Mineral,3.5,Mineral,17.83333333,22,Rock
+TananaRoad,777,B,7/25/2021,9 m,2,Mineral,3,Mineral,21.33333333,50,Rock
+TananaRoad,777,C,7/25/2021,6 m,4.75,Mineral,1.25,Mineral,23.66666667,49,Rock
+TananaRoad,777,C,7/25/2021,3 m,0,Mineral,2,Mineral,24,28,Rock
+TananaRoad,777,C,7/25/2021,9 m,1,Mineral,1.25,Mineral,22.66666667,23,Rock
+TananaRoad,876,A,7/25/2021,9 m,20,"Mineral,Rock",12.5,Mineral,6.5,28,Rock
+TananaRoad,876,A,7/25/2021,3 m,15,Rock,22,Rock,13.33333333,39,Rock
+TananaRoad,876,A,7/25/2021,6 m,14.5,Rock,24,Mineral,4.25,34,Rock
+TananaRoad,876,B,7/25/2021,6 m,17,Rock,38.5,Rock,5.5,64,Rock
+TananaRoad,876,B,7/25/2021,9 m,17,Rock,19,Rock,7.166666667,46,Rock
+TananaRoad,876,B,7/25/2021,3 m,9,Rock,11,Mineral,8.333333333,55,Rock
+TananaRoad,876,C,7/25/2021,3 m,15,Mineral,15,Mineral,29.33333333,48,Rock
+TananaRoad,876,C,7/25/2021,9 m,1.5,Mineral,12,Rock,20.66666667,12,Rock
+TananaRoad,876,C,7/25/2021,6 m,5.25,Mineral,6,Mineral,22.5,66,Rock
+TananaRoad,905,A,7/25/2021,9 m,27.75,Rock,19,Rock,16.33333333,31,Rock
+TananaRoad,905,A,7/25/2021,3 m,15.75,Rock,18,Rock,10.5,22,Rock
+TananaRoad,905,A,7/25/2021,6 m,19,Rock,16,Rock,16.33333333,19,Rock
+TananaRoad,905,B,7/25/2021,6 m,12,Rock,9,Rock,15.33333333,16,Rock
+TananaRoad,905,B,7/25/2021,9 m,16,Rock,16,Rock,21.33333333,48,Rock
+TananaRoad,905,B,7/25/2021,3 m,11,Rock,11,Rock,20.66666667,35,Rock
+TananaRoad,905,C,7/25/2021,9 m,22,Rock,24,Rock,3.5,24,Rock
+TananaRoad,905,C,7/25/2021,3 m,24.5,Rock,22,Rock,8,25,Rock
+TananaRoad,905,C,7/25/2021,6 m,19,Rock,41,Rock,8.666666667,26,Rock
+TananaRoad,929,A,7/24/2021,3 m,22.5,Mineral,8,Mineral,17.33333333,50,Rock
+TananaRoad,929,A,7/24/2021,6 m,9.5,Mineral,14,Mineral,16,NA,
+TananaRoad,929,A,7/24/2021,9 m,20,Mineral,10,Mineral,20,46,Rock
+TananaRoad,929,B,7/24/2021,9 m,1.25,Mineral,9.5,Mineral,17,40,Rock
+TananaRoad,929,B,7/24/2021,3 m,15,Mineral,8,Mineral,15.33333333,55,Rock
+TananaRoad,929,B,7/24/2021,6 m,11.5,Mineral,0,Mineral,14.33333333,42,Rock
+TananaRoad,929,C,7/24/2021,6 m,1.75,Mineral,6.25,Mineral,24,46,Mineral
+TananaRoad,929,C,7/24/2021,3 m,11.5,Mineral,2,Mineral,18,NA,
+TananaRoad,929,C,7/24/2021,9 m,1,Mineral,1,Mineral,20.5,70,Mineral
+Tractor,1232,A,7/21/2022,7.5 m,0,Mineral,NA,,NA,NA,
+Tractor,1232,A,7/21/2022,2.5 m,0,Mineral,NA,,NA,NA,
+Tractor,1232,B,7/21/2022,7.5 m,0,Mineral,NA,,NA,NA,
+Tractor,1232,B,7/21/2022,2.5 m,0,Mineral,NA,,NA,NA,
+Tractor,1232,C,7/21/2022,2.5 m,0,Mineral,NA,,NA,NA,
+Tractor,1232,C,7/21/2022,7.5 m,1.5,Mineral,NA,,NA,NA,
+Tractor,2132,A,7/21/2022,7.5 m,4,Mineral,0.2,Mineral,4.15,NA,
+Tractor,2132,A,7/21/2022,2.5 m,0,Mineral,0,Mineral,7.9,NA,
+Tractor,2132,B,7/21/2022,7.5 m,3.5,Mineral,2.1,Mineral,2.15,NA,
+Tractor,2132,B,7/21/2022,2.5 m,0.5,Mineral,0.4,Mineral,3.25,NA,
+Tractor,2132,C,7/21/2022,2.5 m,0,Mineral,0,Mineral,14.25,NA,
+Tractor,2132,C,7/21/2022,7.5 m,9,Mineral,9,,11.75,NA,
+Tractor,2513,A,7/21/2022,2.5 m,0,Mineral,NA,,NA,NA,
+Tractor,2513,A,7/21/2022,7.5 m,0,Mineral,NA,,NA,NA,
+Tractor,2513,B,7/21/2022,7.5 m,0,Mineral,NA,,NA,NA,
+Tractor,2513,B,7/21/2022,2.5 m,0,Mineral,NA,,NA,NA,
+Tractor,2513,C,7/21/2022,2.5 m,0,Mineral,NA,,NA,NA,
+Tractor,2513,C,7/21/2022,7.5 m,0,Mineral,NA,,NA,NA,
+Tractor,2759,A,7/21/2022,7.5 m,0,Mineral,NA,,10.25,NA,
+Tractor,2759,A,7/21/2022,2.5 m,0,Mineral,0,Mineral,12.75,NA,
+Tractor,2759,B,7/21/2022,7.5 m,0,Mineral,1.5,Mineral,3.5,NA,
+Tractor,2759,B,7/21/2022,2.5 m,0,Mineral,0,Mineral,5.15,NA,
+Tractor,2759,C,7/21/2022,2.5 m,0,Mineral,0,Mineral,16.25,NA,
+Tractor,2759,C,7/21/2022,7.5 m,0,Mineral,0,Mineral,9.25,NA,
+Tractor,3982,A,7/21/2022,2.5 m,0,Mineral,NA,,NA,NA,
+Tractor,3982,A,7/21/2022,7.5 m,0,Mineral,NA,,NA,NA,
+Tractor,3982,B,7/21/2022,7.5 m,0,Mineral,NA,,NA,NA,
+Tractor,3982,B,7/21/2022,2.5 m,0,Mineral,NA,,NA,NA,
+Tractor,3982,C,7/21/2022,2.5 m,0,Mineral,NA,,NA,NA,
+Tractor,3982,C,7/21/2022,7.5 m,0,Mineral,NA,,NA,NA,
+Tractor,4156,A,7/21/2022,7.5 m,0,Mineral,NA,,NA,NA,
+Tractor,4156,A,7/21/2022,2.5 m,0,Mineral,NA,,NA,NA,
+Tractor,4156,B,7/21/2022,7.5 m,0,Mineral,NA,,NA,NA,
+Tractor,4156,B,7/21/2022,2.5 m,0,Mineral,NA,,NA,NA,
+Tractor,4156,C,7/21/2022,7.5 m,6,Mineral,NA,,NA,NA,
+Tractor,4156,C,7/21/2022,2.5 m,0.25,Mineral,NA,,NA,NA,

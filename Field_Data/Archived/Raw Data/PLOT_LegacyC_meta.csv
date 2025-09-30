@@ -1,0 +1,69 @@
+﻿Variable,Units,Description
+fire,name,fire scar name
+site,id,site id used in the field
+plot,letter,"A, B, or C plot within a site"
+unique_site_id,id,"the unique site id given toeach site after combining 2021, 2022, and 2023 field data"
+date,date,sampling date
+official_fire_scar,name,official state fire scar name
+latitude,decimal degrees,latitude
+longitude,decimal degrees,longitude
+lat_NAD83,UTM,lat_NAD83
+lon_NAD83,UTM,lon_NAD83
+elevation,meters,elevation
+slope,degrees,slope
+aspect,degrees,aspect
+moisture_class,class,Six topographic moisture classes from xeric to subhyric. as per Johnstone et al. 2008
+moisture_numeric,numeric,"1=xeric, 2=subxeric, 3=subxeric-mesic, 4=mesic, 5=mesic-subhygric, 6=subhygric"
+recent_burn,year,year of most recent fir
+second_burn,year,year of previous fire
+triple_burn,year,year of third fire in the past
+reburn_age_original_estimate,class,orginal estimates of reburn age based on fire history data and year of recent burn and second burn
+triple_age,years,orginal estimates of tripl eburn age based on fire history data and year of second burn and triple burn
+std_age_max,years,Maximum site level stand age based on three basal tree disks per site
+std_age_min,years,MInimum site level stand age based on three basal tree disks per site
+std_age_avg,years,Average site level stand age based on three basal tree disks per site
+StdAge,years,Site level stand age based on tree ring data
+reburn_class_original,class,Classification of reburns based on fire history
+Stdage_final,years,Site level stand age used for reburn classifications
+reburn_class_final,class,Classification of reburns based on tree ring data and fire history
+pre_fire_vegetation,notes,Pre fire vegation description
+site_notes,notes,Additiona site level notes
+dens.trees,stems m-2,Density of trees (stems m-2) measured 60 m 2 belt transect
+basal.area.trees,cm-2 m-2,Basal area of all trees (cm-2 m-2) measured 60 m 2 belt transect
+dens.shrubs,stems m-2,Density of shrubs (stems m-2) measured 30 m 2 belt transect
+basal.area.shrubs,cm-2 m-2,Basal area of all shrubs (cm-2m-2) measured 30 m 2 belt transect
+ForestType,class,Forest type based on biomass and density fraction
+prefire.trees.biomass,g m-2,Prefire tree biomass (g m-2)
+prefire.trees.carbon,g C m-2,Prefire tree carbon (g C m-2)
+combustion.trees.biomass,g m-2,Combusted tree biomass (g m-2)
+combustion.trees.carbon,g C m-2,Combusted tree carbon ( g Cm-2)
+postfire.trees.biomass,g m-2,Postfire tree biomass (g m-2)
+postfire.trees.carbon,g C m-2,Postfire tree carbon (g C m-2)
+prefire.shrubs.biomass,g m-2,Prefire shrub biomass (g m-2)
+prefire.shrubs.carbon,g C m-2,Prefire shrub carbon (g C m-2)
+combustion.shrubs.biomass,g m-2,Combusted shrub biomass (g m-2)
+combustion.shrubs.carbon,g C m-2,Combusted shrub carbon ( g Cm-2)
+postfire.shrubs.biomass,g m-2,Postfire shrub biomass (g m-2)
+postfire.shrubs.carbon,g C m-2,Postfire shrub carbon (g C m-2)
+prefire.snags.biomass,g m-2,Prefire snags biomass (g m-2)
+prefire.snags.carbon,g C m-2,Prefire snags carbon (g C m-2)
+combustion.snags.biomass,g m-2,Combusted snags biomass (g m-2)
+combustion.snags.carbon,g C m-2,Combusted snags carbon ( g Cm-2)
+postfire.snags.biomass,g m-2,Postfire snags biomass (g m-2)
+postfire.snags.carbon,g C m-2,Postfire snags carbon (g C m-2)
+post.cwd.carbon,g C m-2,Postfire coarse woody debris carbon  (g C m-2)
+pre.cwd.carbon,g C m-2,Prefire coarse woody debris carbon  (g C m-2)
+combustion.cwd.carbon,g C m-2,Combusted coarse woody debris carbon  (g C m-2)
+prefire.above,g C m-2,"Prefire aboveground C pools (Cpool of trees, snags, CWD)"
+postfire.above,g C m-2,"Postfire aboveground C pools (Cpool of trees, snags, CWD)"
+combustion.above,g C m-2,"Combustion aboveground C pools (Cpool of trees, snags, CWD)"
+thaw_d,cm,Thaw depth (cm)
+residualSOL_depth,cm,Residual Soil orgnaic layer depth (cm)
+burn_depth,cm,Burn depth (cm) based on adventitous roots and offset
+prefireSOL_depth,cm,Prefire soil organic layer depth
+residualSOL.C,cm,Postifre Soil organic layer C pool (g C m-2)
+SOL.C.Combusted,g C m-2,Combusted Soil organic layer C pool (g C m-2)
+prefireSOL.C,g C m-2,Prefire Soil organic layer C pool (g C m-2)
+totalC.combusted,g C m-2,Total C combusted (g Cm-2). Sum of the above and belowground combusted C pools
+prefire.carbon.total,g C m-2,Total C prefire (g Cm-2). Sum of the above and belowground prefire C pools
+postfire.carbon.total,g C m-2,Total C combusted (g Cm-2). Sum of the above and belowground C postfire pools

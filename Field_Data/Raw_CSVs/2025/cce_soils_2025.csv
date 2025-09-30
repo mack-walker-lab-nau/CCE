@@ -1,0 +1,379 @@
+date,fire_scar,site,plot,CollectionID,location (m),green_moss,depth1,org_hit,thaw_d,thaw_hit,ar_sol_depth1,ar_sol_hit,ar_height1,ar_height2,ar_height3,collected,sample_id,sample_depth1,sample_depth2,sample_width1,sample_width2,sample_length1,sample_length2,organic_notes,min_depth,m1_depth1,m1_depth2,m2_depth1,m2_depth_2,min_coregrab,mineral_notes,general_notes,sample_photo
+7/26/25,Slate,SLAT2,C,SLAT2C6,6,0,15,Mineral,55,Frozen Ground,6,"Mineral,Water",14,12,13.5,yes,C6,14.5,15,11.5,10.5,10.5,11,,NA,5,5,5,5,Core,,,NA
+7/26/25,Slate,SLAT2,C,SLAT2C9,9,0,27.5,Mineral,56,Frozen Ground,28,"Mineral,Water",9,9.5,10.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT2,C,SLAT2C3,3,0,17.5,Mineral,45,Frozen Ground,25.5,"Mineral,Water",9,8.5,7,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB6,B,GLOB6B3,3,0.5,0,Mineral,46,Rock,0,Mineral,30,24,23,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,"AR hard to see, all trees fallen",NA
+7/23/25,Globe,GLOB6,B,GLOB6B6,6,0.5,0,Mineral,36,Rock,0,Mineral,15,13,10,yes,B6,0,0,0,0,0,0,No organic taken,NA,5,5,5,5,Core,Thick layer of ash above,,NA
+7/23/25,Globe,GLOB6,B,GLOB6B9,9,0,0,Mineral,28,Rock,0,Mineral,10,11,12,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT1,C,SLAT1C3,3,0,6,Mineral,64,Mineral,6,Mineral,5,5,6,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT1,C,SLAT1C6,6,0,21,"Mineral,Water",72,Frozen Ground,5,Mineral,11,14,12,yes,C6,21,20.5,11,12,11,12.5,,NA,5,NA,5,NA,Grab,,,NA
+7/26/25,Slate,SLAT1,C,SLAT1C9,9,0,12,Mineral,63,Frozen Ground,12,Mineral,6,6,6,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT4,C,CHIT4C3,3,0,25,Mineral,48,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT4,C,CHIT4C6,6,0,33,Mineral,49,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT4,C,CHIT4C9,9,0,36,Mineral,46,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT6,A,SLAT6A3,3,0,11,Mineral,88,Mineral,0.5,Mineral,9,10.5,8,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT6,A,SLAT6A6,6,0,0,Mineral,110,>100cm,0,Mineral,17,18,15,yes,So,7.5,8.5,9,9,10,10.5,Lots of roots,NA,5,5,5,5,Core,,,NA
+7/27/25,Slate,SLAT6,A,SLAT6A9,9,0,3.5,Mineral,110,>100cm,7,Mineral,15,14,9,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO5,C,MCDO5C3,3,0,32,Mineral,48,Frozen Ground,24,Mineral,5,7,5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO5,C,MCDO5C6,6,0,25.5,Mineral,45,Frozen Ground,25.5,Mineral,7,5,4,yes,C9,25,26,9,9.5,10,9,,NA,5,NA,5,NA,Grab,,,NA
+7/29/25,McDonald,MCDO5,C,MCDO5C9,9,0,48,"Frozen Ground,Mineral,Water",55,Frozen Ground,48,"Frozen Ground,Mineral,Water",3,5,4,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO6,A,MCDO6A6,6,0,21,Mineral,50,Frozen Ground,22,Mineral,7,6,6,yes,A6,21,21.5,10.5,11,8,8,,NA,5,5,5,5,Grab,Hit ice,,NA
+7/29/25,McDonald,MCDO6,A,MCDO6A3,3,0,15,Mineral,54,Frozen Ground,35,Mineral,5,4,2,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO6,A,MCDO6A9,9,0,44,"Mineral,Water",61,Frozen Ground,44,"Mineral,Water",7,9,4,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR6,B,AGCR6B3,3,3,5.5,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR6,B,AGCR6B9,9,3.5,6,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR6,B,AGCR6B6,6,5,15,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR3,B,YUCR3B3,3,0,13,Mineral,90,Frozen Ground,23,"Mineral,Water",15,9,11,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR3,B,YUCR3B9,9,4,26,Mineral,61,Frozen Ground,24,Mineral,15,14,4,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR3,B,YUCR3B6,6,0.1,6,Mineral,76,Frozen Ground,5,Mineral,7,12,5,yes,B6,6,5.5,9,10,10,9.5,,NA,5,5,5,5,Core,,,NA
+7/29/25,McDonald,MCDO5,B,MCDO5B3,3,0,19,Mineral,55,Frozen Ground,22,"Mineral,Water",5,4,3,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO5,B,MCDO5B6,6,0,36,"Ice,Water",32,Frozen Ground,25,"Mineral,Water",5,3,7,yes,B6,35.5,36,11,10,9.5,9.5,Transitions at 13.5,NA,NA,NA,NA,NA,,Ice can’t grab,,NA
+7/29/25,McDonald,MCDO5,B,MCDO5B9,9,0,36,"Mineral,Water",55,Ice,36,"Mineral,Water",16,14,5,no,,NA,NA,NA,NA,NA,NA,Hit hornet nest went further than 1m,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM3,A,ISOM3A3,3,0,11,Mineral,100,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM3,A,ISOM3A6,6,0,13.5,Mineral,111,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM3,A,ISOM3A9,9,0,12.5,Mineral,112,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT2,A,SLAT2A6,6,0,14.5,Mineral,42,Frozen Ground,26.5,"Mineral,Water",8,10,7.5,yes,A6,14,15,10.5,11,11.5,11.5,,NA,5,5,5,5,Grab,"Super wet sample, soil lost form",,NA
+7/26/25,Slate,SLAT2,A,SLAT2A9,9,0,24.5,"Mineral,Water",39,Frozen Ground,27.5,"Mineral,Water",14,11.5,12.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT2,A,SLAT2A3,3,0,29.5,"Mineral,Water",66,Frozen Ground,37,"Mineral,Water",12,11,7,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT1,B,SLAT1B3,3,0,25.5,Mineral,62,Frozen Ground,25.5,Mineral,8.5,10.5,9,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT1,B,SLAT1B6,6,0,23.5,Mineral,60,Frozen Ground,23.5,Mineral,19,16,6,yes, B6,23,23.5,11,11,10,10.5,,NA,5,NA,5,NA,Core,,,NA
+7/26/25,Slate,SLAT1,B,SLAT1B9,9,0,15,"Mineral,Water",55,Frozen Ground,27,Mineral,4,10,13,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB4,B,GLOB4B6,6,0,10.5,"Mineral,Rock",98,Rock,17,Mineral,12.5,14,17,yes,Glob4 b6,8,10,12,13,10,10.5,,NA,5,5,5,5,Core,,,NA
+7/23/25,Globe,GLOB4,B,GLOB4B3,3,0.1,20,Mineral,50.5,Rock,20,"Mineral,Rock",29,22,22,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB4,B,GLOB4B9,9,1.5,8,Mineral,72,Rock,8,Mineral,28,27,22,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB1,C,GLOB1C3,3,0,20,"Mineral,Water",31,Frozen Ground,20,"Mineral,Water",8,13,3,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB1,C,GLOB1C6,6,0,11.5,Mineral,56,Frozen Ground,9,Mineral,4,3,8,yes,C6,11,11.5,10,10,9.5,9,,NA,5,5,5,5,Grab,,,NA
+7/31/25,Globe,GLOB1,C,GLOB1C9,9,0,17,Mineral,45,Frozen Ground,14.5,Mineral,9,2,17,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR1,B,AGCR1B3,3,2,7,Mineral,54,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR1,B,AGCR1B6,6,9.5,3.5,Mineral,83,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR1,B,AGCR1B9,9,5,3.5,Mineral,60,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM3,C,ISOM3C3,3,0.1,17,Mineral,120,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM3,C,ISOM3C6,6,0,21,Mineral,120,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM3,C,ISOM3C9,9,0,20,Mineral,120,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR3,C,AGCR3C3,3,1.5,1,Mineral,26.5,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR3,C,AGCR3C6,6,2,5.5,Mineral,46,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR3,C,AGCR3C9,9,2.5,3.5,Mineral,28,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO2,A,MCDO2A3,3,0,17,"Mineral,Water",65,"Frozen Ground,Ice",20,"Mineral,Water",4,8,6,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO2,A,MCDO2A6,6,0,23,"Mineral,Water",71,Ice,21,"Mineral,Water",7.5,2.5,2,yes,A6,17,16.5,10.5,11,11,10.5,,NA,5,NA,5,NA,Core,,,NA
+7/25/25,McDonald,MCDO2,A,MCDO2A9,9,0,22,"Mineral,Water",70,Ice,26,"Mineral,Water",11,6,7,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,9m in water sampled a little further away,,NA
+8/3/25,Chitanana,CHIT3,C,CHIT3C3,3,0.1,48,"Frozen Ground,Ice",48,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT3,C,CHIT3C6,6,0,45,Frozen Ground,45,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT3,C,CHIT3C9,9,0,43,Frozen Ground,43,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO1,A,MCDO1A3,3,0,11.5,Mineral,90,Frozen Ground,2,Mineral,12,10,15,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO1,A,MCDO1A6,6,0,10,Mineral,91,Frozen Ground,1.5,Mineral,10,9,9,yes,Mcdo1a,10.5,9.5,10.5,10.5,10,11,,NA,5,5,5,5,,,,NA
+7/25/25,McDonald,MCDO1,A,MCDO1A9,9,0.1,1,Mineral,89,Frozen Ground,1,Mineral,12,10,16,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM4,A,ISOM4A3,3,1,14.5,"Mineral,Water",77,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM4,A,ISOM4A6,6,0.1,17,"Mineral,Water",85,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM4,A,ISOM4A9,9,0.1,20,"Mineral,Water",110,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT3,B,SLAT3B3,3,0,26,"Mineral,Water",50,Frozen Ground,26,"Mineral,Water",5,3,3,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT3,B,SLAT3B6,6,0,18,"Mineral,Water",42,Frozen Ground,16,"Mineral,Water",5,5,NA,yes,Slat3 b,18,18,10,12,11,10,"Very wet at bottom, falling apart",NA,5,NA,NA,NA,Grab,Grab sample. Too wet for core. No deeper grab. ,,NA
+7/26/25,Slate,SLAT3,B,SLAT3B9,9,0,17.5,"Mineral,Water",45,Frozen Ground,16,"Mineral,Water",4,2,4,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR2,C,YUCR2C6,6,0,10,Mineral,88,Mineral,3.5,Mineral,26,24.5,23.5,yes,C6,9.5,10.5,9.5,9,9.5,10,,NA,5,5,5,5,Core,,,NA
+8/1/25,Yukon Creek,YUCR2,C,YUCR2C3,3,0.5,14.5,Mineral,101,Mineral,17.5,Mineral,13,15,16.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR2,C,YUCR2C9,9,0,13.5,Mineral,115,Rock,13.5,Mineral,25.5,24.5,19.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR1,A,AGCR1A3,3,3.5,3,Mineral,29,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM2,A,ISOM2A3,3,0,19,Mineral,60,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM2,A,ISOM2A6,6,0,20,Mineral,58,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM2,A,ISOM2A9,9,2,17,Mineral,61,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM5,A,ISOM5A3,3,0,22.5,Mineral,69,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM5,A,ISOM5A6,6,0.1,22.5,Mineral,68,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM5,A,ISOM5A9,9,0,22.5,Mineral,105,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU1,B,TROU1B3,3,0.1,48,Rock,48,Rock,8,"Mineral,Rock",8,5,4,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU1,B,TROU1B6,6,0.1,9,Mineral,31,Rock,13,"Mineral,Rock",6,8,9,yes,B6,8.5,9,10,10.5,8.5,8,,NA,5,NA,5,NA,Core,,,NA
+8/2/25,Troublesome,TROU1,B,TROU1B9,9,0,11,Mineral,12,Rock,9,Mineral,16,12,11,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO1 ,C,MCDO1 C3,3,0,12.5,Mineral,110,>100cm,11,Mineral,7,10,5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO1 ,C,MCDO1 C6,6,0,17,Mineral,90,Frozen Ground,13,Mineral,3,4,1,yes,McDo1 c,17,17,12,11.5,10,10.5,,NA,5,5,5,5,Core,,,NA
+7/25/25,McDonald,MCDO1 ,C,MCDO1 C9,9,0,3,Mineral,110,>100cm,3,Mineral,15,16,14,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB5 ,A,GLOB5 A6,6,0,13,Mineral,100,Rock,17,Mineral,24,12,13,yes,GLOB5 A,13,12.5,11.5,12,11,12,,NA,5,NA,5,NA,Core,,,NA
+7/23/25,Globe,GLOB5 ,A,GLOB5 A3,3,0,31.5,Mineral,57,Rock,26,Mineral,10,10.5,12,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB5 ,A,GLOB5 A9,9,0,17,Mineral,87,Rock,17.5,Mineral,18.5,19,13,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO4,A,MCDO4A3,3,0,6,Mineral,101,Frozen Ground,6,Mineral,15,13,12,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO4,A,MCDO4A6,6,0,8,Mineral,90,Frozen Ground,12,"Mineral,Water",28,13,15,yes,A6,7,9.5,11.5,11.5,11,10.5,,NA,5,NA,5,NA,Core,,,NA
+7/29/25,McDonald,MCDO4,A,MCDO4A9,9,NA,28,Mineral,81,Frozen Ground,26,Mineral,24,30,16,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT4,B,SLAT4B3,3,0.5,0,Mineral,110,>100cm,0.5,Mineral,24,24.5,23,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT4,B,SLAT4B6,6,0.5,0.5,Rock,66,Rock,0.5,Mineral,16,19.5,22,yes,B6,1,1,10,10,9.5,9.5,Had to go further than 1 m to find organic,NA,5,5,5,5,Core,,,NA
+7/27/25,Slate,SLAT4,B,SLAT4B9,9,0.5,0,Mineral,110,>100cm,0,Mineral,23,19.5,23.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO3,B,MCDO3B3,3,0,27,Mineral,75,Frozen Ground,25,Mineral,6,7,5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO3,B,MCDO3B6,6,0.5,9.5,Mineral,105,Frozen Ground,6,Mineral,14,12,24,yes,McDo3 b,10.5,11.5,13,13.5,9.5,10,,NA,5,5,5,5,Core,,,NA
+7/25/25,McDonald,MCDO3,B,MCDO3B9,9,0,15,"Mineral,Water",110,>100cm,22,"Mineral,Water",3,4,3,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR1,C,YUCR1C3,3,2,20,Mineral,83,Frozen Ground,15,Mineral,7,6,6,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR1,C,YUCR1C6,6,0.5,10.5,Mineral,67,Frozen Ground,22,Mineral,3,10,5,yes,C6,10,10.5,10.5,10.5,9,9,,NA,5,5,5,5,Core,,,NA
+8/1/25,Yukon Creek,YUCR1,C,YUCR1C9,9,0.1,17,Mineral,51,Frozen Ground,17,Mineral,10,12,11,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT3,A,SLAT3A3,3,0,37,Frozen Ground,37,Frozen Ground,43,"Frozen Ground,Water",3,2,1,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT3,A,SLAT3A6,6,0,29,Mineral,42,Frozen Ground,54,"Frozen Ground,Water",3,2,1,yes,Slat3 a,19,21,12.5,11.5,11,10.5,Wider at top. ,NA,5,5,5,5,,M1 was core. M2 was grab. ,,NA
+7/26/25,Slate,SLAT3,A,SLAT3A9,9,NA,49,"Frozen Ground,Water",50,"Frozen Ground,Water",49,"Frozen Ground,Water",1,0.5,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB1,A,GLOB1A3,3,0,21,Mineral,50,Frozen Ground,22,Mineral,6,8,12,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB1,A,GLOB1A6,6,0,21.5,Mineral,54,Frozen Ground,32,Mineral,6,2,12,yes,A6,21,22,11,11.5,11,11.5,,NA,5,5,5,5,Grab,Hit ice,,NA
+7/31/25,Globe,GLOB1,A,GLOB1A9,9,0,21,"Mineral,Water",35,Frozen Ground,21,"Mineral,Water",8,7,7,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT5,B,SLAT5B3,3,0.5,0,Mineral,90,Mineral,0,Mineral,16,13.5,17,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT5,B,SLAT5B6,6,0.5,0,Mineral,110,>100cm,0,Mineral,17,21,22,yes,Slat5b,1.5,1.5,9,9,9.5,9.5,Sample collected further than 1m horizontally from transect because no organic present at 1m,NA,5,5,5,5,Core,Sample collected further than 1m,,NA
+7/27/25,Slate,SLAT5,B,SLAT5B9,9,0.1,0,Mineral,110,>100cm,0,Mineral,14,22,24,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,Small ceratadon coverage everywhere. ,NA
+7/21/25,Aggie,AGCR1,A,AGCR1A6,6,8,2,Mineral,60,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,Hole depth = organic layer depth for all ,NA
+7/21/25,Aggie,AGCR1,A,AGCR1A9,9,8.5,3,Mineral,45,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT6,C,SLAT6C3,3,0,0,Mineral,110,>100cm,0,Mineral,3,4,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT6,C,SLAT6C6,6,0,0,Mineral,100,>100cm,0,Mineral,17,18,12,yes,Slat6c,2,1.5,10,10,10,9.5,Sampling at 28.5 to obtain organic,NA,5,5,5,5,Core,,,NA
+7/27/25,Slate,SLAT6,C,SLAT6C9,9,0.1,0,Mineral,100,>100cm,0,Mineral,18,13,21,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM1,A,ISOM1A3,3,1,11.5,Mineral,120,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM1,A,ISOM1A6,6,0,11,Mineral,120,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM1,A,ISOM1A9,9,0,16,Mineral,120,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR1,B,YUCR1B3,3,5,0,Mineral,120,>100cm,0,Mineral,6,9,8,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR1,B,YUCR1B6,6,0.5,17,"Mineral,Water",105,Frozen Ground,32,"Mineral,Water",13,8,4,yes,B6,17,17,10.5,10,9.5,9,,NA,5,5,5,5,Grab,,,NA
+8/1/25,Yukon Creek,YUCR1,B,YUCR1B9,9,0,20,Mineral,102,Frozen Ground,17,Mineral,6,4,10,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB3,A,GLOB3A6,6,0,18,Mineral,55,Frozen Ground,15,Mineral,8,7,5,yes,A6,18,17.5,9.5,10,9,9.5,,NA,5,5,5,5,Core,,,NA
+7/31/25,Globe,GLOB3,A,GLOB3A3,3,0,19,Mineral,52,Frozen Ground,18,Mineral,5,3,3,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB3,A,GLOB3A9,9,0,28,Mineral,42,Frozen Ground,14,Mineral,2,10,1,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR2,A,YUCR2A6,6,0.5,8.5,Mineral,120,>100cm,11,Mineral,25,21.5,22,yes,A6,8.5,8.5,10,10.5,9,9.5,,NA,5,5,5,5,Core,,,NA
+8/1/25,Yukon Creek,YUCR2,A,YUCR2A3,3,0.1,3.5,Mineral,120,>100cm,11,Mineral,25.5,19,22,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR2,A,YUCR2A9,9,0.5,5,Mineral,94,Mineral,5.5,Mineral,21,19,12.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT4,B,CHIT4B3,3,0,30,Mineral,35,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT4,B,CHIT4B6,6,0,27,Mineral,42,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT4,B,CHIT4B9,9,0,34,Mineral,45,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR4,A,YUCR4A3,3,0.1,2,Mineral,34,Mineral,2,Mineral,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR4,A,YUCR4A6,6,0.1,4.5,Mineral,32,Mineral,1,Mineral,11,11,NA,yes,A6,4.5,4.5,9.5,9.5,10,10,,NA,5,NA,5,NA,Core,Crumbly and dry,,NA
+8/4/25,Yukon Creek,YUCR4,A,YUCR4A9,9,1,2,Mineral,52,Mineral,2,Mineral,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB5,C,GLOB5C3,3,0,4.5,Mineral,68,Rock,7.5,Mineral,9,4.5,7,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB5,C,GLOB5C9,9,0,24,"Mineral,Rock",52,Rock,23.5,Mineral,7,6.5,5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB5,C,GLOB5C6,6,0,12,Mineral,38,Rock,22,Mineral,7,8,7.5,yes,C6,12.5,12,12.5,12.5,8,10,,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR5,A,YUCR5A3,3,0.5,0,Mineral,61,Rock,0,Mineral,19.5,21.5,22,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR5,A,YUCR5A6,6,0.5,3.5,Mineral,51,Rock,0,Mineral,26,24.5,28,yes,A6,3.5,3.5,9.5,9.5,9,9,,NA,5,5,5,5,Core,,,NA
+8/4/25,Yukon Creek,YUCR5,A,YUCR5A9,9,0.1,0.5,Mineral,25,Rock,0,Mineral,18,14,23,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB6,C,GLOB6C3,3,0.5,0,Mineral,22,Rock,0,Mineral,18,16,14.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB6,C,GLOB6C6,6,0.5,0,Mineral,55,Rock,0,Mineral,20,25.5,21.5,no,C6,0,0,0,0,0,0,No organic taken,NA,5,5,5,5,Core,,,NA
+7/23/25,Globe,GLOB6,C,GLOB6C9,9,0.5,0,Mineral,36,Rock,0,Mineral,26,23,21.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR4 ,C,AGCR4 C3,3,8,25,"Mineral,Water",110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR4 ,C,AGCR4 C6,6,7,13,"Mineral,Water",85,"Frozen Ground,Rock",NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR4 ,C,AGCR4 C9,9,5,23,"Mineral,Water",112,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR4,C,YUCR4C3,3,0,1,Mineral,46,Mineral,2,Mineral,6,9,14,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR4,C,YUCR4C6,6,0,0,Mineral,35,Mineral,3,Mineral,21,18,NA,yes,C6,10.5,11,9,9.5,10,9.5,Had to go farther then 1 meter away from the transect to find organic,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR4,C,YUCR4C9,9,1,1.5,Mineral,34,Mineral,2,Mineral,28,23,18,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO1,B,MCDO1B3,3,0,14,Mineral,90,Frozen Ground,26,Mineral,5,6,7,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO1,B,MCDO1B6,6,0,12,Mineral,80,Frozen Ground,7,Mineral,4,6,10,yes,Mcdo1b,12,12,9,11,10.5,10.5,,NA,5,5,5,5,Core,,,NA
+7/25/25,McDonald,MCDO1,B,MCDO1B9,9,0,9.5,Mineral,85,Frozen Ground,4.5,Mineral,9,8.5,13,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU1,A,TROU1A3,3,0.1,13,Mineral,30,Rock,8,Mineral,6,2,6,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU1,A,TROU1A6,6,0,8.5,Mineral,62,Rock,11,Mineral,8,10,5,yes,A6,8.5,8,10.5,10,11,11,,NA,5,NA,5,NA,Core,,,NA
+8/2/25,Troublesome,TROU1,A,TROU1A9,9,0,10,"Mineral,Rock",36,Rock,14,"Mineral,Rock",9,7,5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT1,A,SLAT1A6,6,0,8.5,Mineral,77,Frozen Ground,10.5,Mineral,9.5,12,8,yes,A6,9,9.5,10,10.5,10.5,11,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT1,A,SLAT1A3,3,0,27.5,Mineral,65,Frozen Ground,27.5,Mineral,1.5,1,2,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT1,A,SLAT1A9,9,0,47,"Frozen Ground,Mineral,Water",54,Frozen Ground,40,"Frozen Ground,Mineral,Water",2,2,1,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM3,B,ISOM3B3,3,0,17,Mineral,102,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM3,B,ISOM3B6,6,0.1,14,Mineral,120,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM3,B,ISOM3B9,9,0,13.5,Mineral,120,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM2,C,ISOM2C3,3,4,37,Mineral,62,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM2,C,ISOM2C6,6,1,25,Mineral,60,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM2,C,ISOM2C9,9,1,26,Mineral,51,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM5,B,ISOM5B3,3,0,15,Mineral,101,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM5,B,ISOM5B6,6,0.1,15,Mineral,67,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM5,B,ISOM5B9,9,0,11.5,Mineral,90,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR3,C,YUCR3C3,3,10,36,Mineral,92,Frozen Ground,21,Mineral,14,12,12,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR3,C,YUCR3C9,9,0.1,12,Mineral,120,>100cm,12,Mineral,34,18,9,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR3,C,YUCR3C6,6,0,18.5,Mineral,75,Frozen Ground,4,Mineral,5,10,10,yes,C6,18,18.5,10,11,10,10.5,,NA,5,5,5,5,Core,,,NA
+7/31/25,Globe,GLOB2,C,GLOB2C6,6,0,19.5,Mineral,41,Frozen Ground,17,Mineral,5,3,1,yes,C6,19.5,19.5,9.5,9.5,10,10.5,,NA,5,NA,5,NA,Core,,,NA
+7/31/25,Globe,GLOB2,C,GLOB2C3,3,0,34,"Ice,Water",34,"Frozen Ground,Ice",22,"Mineral,Water",3,4,3,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB2,C,GLOB2C9,9,0,25,"Mineral,Water",40,Frozen Ground,30,"Mineral,Water",4,4,4,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR3,A,YUCR3A3,3,1,4,Mineral,120,Frozen Ground,16,Mineral,15,24,23,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR3,A,YUCR3A9,9,0,25,Mineral,54,Frozen Ground,19,Mineral,11,13,17,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR3,A,YUCR3A6,6,0,19.5,Mineral,48,Frozen Ground,21,Mineral,19,9.5,18,yes,A6,19.5,19,10,10,10,11,,NA,5,5,5,5,Core,,,NA
+8/3/25,Chitanana,CHIT1,C,CHIT1C3,3,0,17,Mineral,55,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT1,C,CHIT1C6,6,0,18,Mineral,51,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT1,C,CHIT1C9,9,0.1,24.5,Mineral,58,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO3,C,MCDO3C3,3,0.1,10.5,Rock,110,Frozen Ground,10.5,Mineral,19,21,17,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO3,C,MCDO3C6,6,0,13,Mineral,110,Frozen Ground,22,"Mineral,Water",6,7,6,yes,McDo3 c,12.5,13,10,10,9.5,10,,NA,5,5,5,5,Core,,,NA
+7/25/25,McDonald,MCDO3,C,MCDO3C9,9,0,17,Mineral,110,>100cm,10,Mineral,9,9,12,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT5,A,SLAT5A6,6,0,0,Mineral,90,Mineral,0,Mineral,20,21.5,20,yes,A6,7.5,8.5,10.5,11,10.5,10.5,Taken at 4m because there was no organic at 6,NA,5,5,5,5,Core,Taken at 4m,,NA
+7/27/25,Slate,SLAT5,A,SLAT5A3,3,0,0,Mineral,110,>100cm,0,Mineral,26.5,18.5,27,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT5,A,SLAT5A9,9,0.5,0,Mineral,110,>100cm,0,Mineral,15,11,11.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT2,B,SLAT2B6,6,0,7.5,Mineral,64,Frozen Ground,13.5,Mineral,19,20.5,19,yes,B6,7.5,7,9,9.5,10,10.5,,NA,5,5,5,5,Core,,,NA
+7/26/25,Slate,SLAT2,B,SLAT2B9,9,0,17.5,Mineral,56,Frozen Ground,11,Mineral,17,18,13.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT2,B,SLAT2B3,3,0.5,12,Mineral,63,Frozen Ground,11,Mineral,10.5,13,15,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM1,B,ISOM1B3,3,0,16,Mineral,118,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM1,B,ISOM1B6,6,0,21.5,Mineral,115,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM1,B,ISOM1B9,9,0,14.5,Mineral,92,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR1,C,AGCR1C3,3,6,9,"Mineral,Rock",71,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT3,B,CHIT3B3,3,0,42,Frozen Ground,42,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT3,B,CHIT3B6,6,0,40,Frozen Ground,40,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT3,B,CHIT3B9,9,0,45,Frozen Ground,45,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU1,C,TROU1C3,3,0,14,"Mineral,Rock",30,Rock,14,Mineral,12,16,12,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU1,C,TROU1C6,6,0.1,8.5,Mineral,2.4,Rock,6,"Mineral,Rock",9,11,15,yes,C6,8,9,9.5,10,9,8.5,,NA,5,NA,5,NA,Core,,,NA
+8/2/25,Troublesome,TROU1,C,TROU1C9,9,0.1,12,"Mineral,Rock",21,Rock,15,"Mineral,Rock",8,7,12,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT4,A,SLAT4A3,3,0.5,0,Mineral,110,>100cm,0.5,Mineral,20,22,17.5,yes,A6,NA,NA,NA,NA,NA,NA,,NA,5,NA,5,NA,Core,,,NA
+7/27/25,Slate,SLAT4,A,SLAT4A6,6,0.5,0,Mineral,40,Rock,0,Mineral,18,19.5,22,yes,A6,5,4.5,10,10,9,9,At roughly 5m and further than 1m away horizontally from transect,NA,5,5,5,5,Core,,,NA
+7/27/25,Slate,SLAT4,A,SLAT4A9,9,0.5,0,Mineral,99,Rock,0,Mineral,24,26,28.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/5/25,Troublesome,TROU4,C,TROU4C3,3,0,25,Mineral,52,Frozen Ground,32,Mineral,3,5,2,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/5/25,Troublesome,TROU4,C,TROU4C6,6,0,12,Mineral,69,Rock,25,Mineral,10,6,12,yes,C6,12,12.5,10,10,10,10.5,,NA,5,5,5,5,Core,,,NA
+8/5/25,Troublesome,TROU4,C,TROU4C9,9,0.1,28,Mineral,48,Rock,30,Mineral,4,4,6,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR2,B,YUCR2B6,6,0,6,Root,96,Rock,2,Mineral,15.5,17,14.5,yes,B6,5,7,10,10,10,9.5,,NA,5,5,5,5,Core,,,NA
+8/1/25,Yukon Creek,YUCR2,B,YUCR2B3,3,0,17,Mineral,120,>100cm,2,Mineral,22,24.5,26,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR2,B,YUCR2B9,9,0.5,9,Mineral,120,>100cm,6.5,Mineral,18,20,14,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT4,C,SLAT4C3,3,0.5,0,Mineral,98,"Frozen Ground,Mineral",0,Mineral,19.5,20,15,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT4,C,SLAT4C6,6,0,0,Mineral,99,Mineral,0,Mineral,14,13.5,17,yes,C6,5.5,6,10,10,9.5,9,,NA,5,5,5,5,Core,,,NA
+7/27/25,Slate,SLAT4,C,SLAT4C9,9,0.5,0,Mineral,100,Mineral,0,Mineral,18,19.5,23,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT1,B,CHIT1B3,3,3,26,Mineral,46,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT1,B,CHIT1B6,6,0.1,22,Mineral,52,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT1,B,CHIT1B9,9,0.1,20,Mineral,60,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB6,A,GLOB6A3,3,0,0,Mineral,18,Rock,0,Mineral,28.5,25,19,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB6,A,GLOB6A6,6,0.5,0,Mineral,15,Rock,0,Mineral,20,20.5,22,no,A6,0,0,0,0,0,0,No organic taken,NA,5,5,5,5,Core,,,NA
+7/23/25,Globe,GLOB6,A,GLOB6A9,9,0.5,0,Mineral,35.5,Mineral,0,Mineral,26,25,23.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR2,C,AGCR2C3,3,4,5.5,Mineral,26,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR2,C,AGCR2C6,6,2.5,1.5,Mineral,31,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR2,C,AGCR2C9,9,3,3.5,Mineral,30,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB2,A,GLOB2A6,6,0,29.5,Mineral,50,"Frozen Ground,Mineral,Water",30,Frozen Ground,2,2,5,yes,A6,29,30,10,11,9,9.5,,NA,5,5,5,5,Grab,,,NA
+7/31/25,Globe,GLOB2,A,GLOB2A3,3,0,17,Mineral,33,Frozen Ground,19,Mineral,16,13,13,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB2,A,GLOB2A9,9,0,22,"Mineral,Water",72,Frozen Ground,28,"Mineral,Water",6,3,6,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO5,A,MCDO5A6,6,0,33.5,Mineral,42,Frozen Ground,37,"Mineral,Water",4,5,1,yes,A6,33,34,12,9.5,12,11.5,Has mix mineral starts at 15.5,NA,5,NA,5,NA,Core,Half grab,,NA
+7/29/25,McDonald,MCDO5,A,MCDO5A3,3,0,26,Mineral,104,Rock,28.5,Mineral,3,3,3,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO5,A,MCDO5A9,9,0,15,Mineral,52,Frozen Ground,15,Mineral,13,16,14,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB1,B,GLOB1B3,3,0,14,Mineral,52,Frozen Ground,14,Mineral,9,12,4,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB1,B,GLOB1B6,6,1,25.5,"Mineral,Water",60,Frozen Ground,25,"Mineral,Water",2,4,5,yes,B6,26,25,9,9.5,9,8.5,,NA,5,5,5,5,Core,,,NA
+7/31/25,Globe,GLOB1,B,GLOB1B9,9,0,35,"Mineral,Water",40,Frozen Ground,35,"Mineral,Water",12,9,7,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR5,C,YUCR5C6,6,0,2,Mineral,76,Mineral,2,Mineral,24.5,25,23.5,yes,C6,2,2,9,9,8,8,,NA,5,5,5,5,Core,,,NA
+8/4/25,Yukon Creek,YUCR5,C,YUCR5C9,9,0.1,3,Mineral,57,Mineral,2.5,Mineral,19,24,23,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR5,C,YUCR5C3,3,0.5,2.5,Mineral,11,Rock,4,Mineral,33.5,37,33,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB4,A,GLOB4A3,3,0,7,Mineral,110,>100cm,9,"Mineral,Rock",11,14,9,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB4,A,GLOB4A6,6,1.5,5.5,Mineral,96,Rock,10,Mineral,8,11,5,yes,A6,8,5.5,10,9.5,12.5,12.5,,NA,5,5,5,5,Core,,,NA
+7/23/25,Globe,GLOB4,A,GLOB4A9,9,1,11,"Mineral,Rock",103,Rock,14.5,Mineral,21,18,17,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU2,A,TROU2A3,3,0.5,14,Mineral,83,Rock,13,Mineral,13,10,9,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU2,A,TROU2A9,9,0,21,Mineral,88,Rock,13,Mineral,15,7,8,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU2,A,TROU2A6,6,0,15,Mineral,89,Rock,25,Mineral,22,17,12,yes,A6,15,14.5,9,9.5,9.5,10,,NA,5,5,5,5,Core,,,NA
+8/5/25,Troublesome,TROU5,B,TROU5B6,6,0,20,Mineral,59,Frozen Ground,47,Frozen Ground,5,4,4,yes,B6,19,22,9,9,8,7,,NA,5,5,5,5,Core,,,NA
+8/5/25,Troublesome,TROU5,B,TROU5B3,3,0,54,Frozen Ground,54,Frozen Ground,22,Mineral,11,12,10,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/5/25,Troublesome,TROU5,B,TROU5B9,9,0,25,Mineral,44,Frozen Ground,30,Mineral,5,5,5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/5/25,Troublesome,TROU4,B,TROU4B3,3,0.1,32,Frozen Ground,52,Frozen Ground,25,Mineral,12,11,3,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/5/25,Troublesome,TROU4,B,TROU4B9,9,0,30,"Frozen Ground,Mineral",72,Mineral,19,Mineral,3,9,5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/5/25,Troublesome,TROU4,B,TROU4B6,6,1,30,Mineral,48,Frozen Ground,36,Mineral,6,2,3,yes,B6,29.5,30,10.5,10,8.5,8,,NA,5,5,5,5,,,,NA
+8/3/25,Chitanana,CHIT4,A,CHIT4A3,3,0,34,Mineral,49,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT4,A,CHIT4A6,6,0,28,Mineral,42,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT4,A,CHIT4A9,9,0,29,Mineral,41,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM2,B,ISOM2B3,3,0.1,20.5,Mineral,72,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM2,B,ISOM2B6,6,0,27.5,Mineral,72,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM2,B,ISOM2B9,9,0.1,14,Mineral,64,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR1,A,YUCR1A6,6,0.5,0,Mineral,120,>100cm,15,Mineral,16,5,8,yes,A6,23,23.5,10.5,10,9,8.5,"Had to go off point to find organic, at 5m",NA,5,5,5,5,Core,,,NA
+8/1/25,Yukon Creek,YUCR1,A,YUCR1A3,3,3,10,Mineral,120,Frozen Ground,13,Mineral,15,12,16,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/1/25,Yukon Creek,YUCR1,A,YUCR1A9,9,0.1,45,Mineral,59,Frozen Ground,45,Mineral,15,11,10,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT3,A,CHIT3A3,3,0,30,Mineral,52,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT3,A,CHIT3A6,6,0,43,Mineral,76,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT3,A,CHIT3A9,9,0.1,47,Frozen Ground,47,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB3,C,GLOB3C3,3,0,35,Mineral,50,Frozen Ground,21,Mineral,5,7,3,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB3,C,GLOB3C6,6,0,17,Mineral,56,Frozen Ground,17,Mineral,11,11,6,yes,C6,16.5,17,9.5,10,8.5,8.5,,NA,5,5,5,5,Core,,,NA
+7/31/25,Globe,GLOB3,C,GLOB3C9,9,0,20,Mineral,51,Frozen Ground,16,Mineral,9,7,4,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO6,B,MCDO6B3,3,0,43,"Mineral,Water",55,Frozen Ground,36,"Mineral,Water",10,4,2,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO6,B,MCDO6B6,6,0,16,Mineral,45,Frozen Ground,16,Mineral,8,8,23,yes,B6,16,15.5,10.5,11,9,11,,NA,5,5,5,5,Core,,,NA
+7/29/25,McDonald,MCDO6,B,MCDO6B9,9,0,52,"Frozen Ground,Mineral",52.5,Frozen Ground,21.5,Mineral,27,21,15,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/5/25,Troublesome,TROU5,A,TROU5A6,6,0,25,Frozen Ground,39,Frozen Ground,25,Frozen Ground,7,5,7,yes,A6,28,23,10,10,8.5,8,,NA,5,5,5,5,Core,,,NA
+8/5/25,Troublesome,TROU5,A,TROU5A3,3,0,44,Mineral,55,Frozen Ground,44,Mineral,4,8,7,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/5/25,Troublesome,TROU5,A,TROU5A9,9,0,15,Mineral,55,Frozen Ground,37,Mineral,10,10,6,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB2,B,GLOB2B6,6,0,33.5,Mineral,42,Frozen Ground,30,Ice,2,2,4,yes,B6,33.5,33,10.5,11,11,11.5,,NA,5,5,3,3,Grab,Hit ice,,NA
+7/31/25,Globe,GLOB2,B,GLOB2B3,3,0,25,Frozen Ground,48,Frozen Ground,26,Frozen Ground,9,4,4,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB2,B,GLOB2B9,9,0,63,Mineral,65,Frozen Ground,63,Mineral,7,4,5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB3,B,GLOB3B3,3,0,32,Mineral,45,Frozen Ground,21,Mineral,3,3,1,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/31/25,Globe,GLOB3,B,GLOB3B6,6,1.5,15.5,"Mineral,Water",66,Frozen Ground,12,Mineral,6,6,7,yes,B6,15.5,15.5,10,10,9.5,9,,NA,5,5,5,5,Grab,,,NA
+7/31/25,Globe,GLOB3,B,GLOB3B9,9,0,14,Mineral,68,Frozen Ground,14,Mineral,12,14,5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO2,B,MCDO2B3,3,0,25,"Mineral,Water",50,Frozen Ground,28,"Mineral,Water",12,10,7,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO2,B,MCDO2B6,6,0,17,Mineral,55,Frozen Ground,30,"Mineral,Water",2,1.5,1,yes,B6,17,17.5,9,9.5,11,11.5,,NA,5,NA,5,NA,Core,,,NA
+7/25/25,McDonald,MCDO2,B,MCDO2B9,9,9,23,"Mineral,Water",55,Frozen Ground,21,"Mineral,Water",6,7,6.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR3,A,AGCR3A6,6,0.5,7.5,Rock,17,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR3,A,AGCR3A9,9,0,3.5,Mineral,56,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR3,A,AGCR3A3,3,6,4.5,Mineral,53,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR4,A,AGCR4A3,3,0.1,14.5,Mineral,112,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR4,A,AGCR4A6,6,10,20,"Mineral,Water",110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR4,A,AGCR4A9,9,10,9,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO6,C,MCDO6C3,3,0,27,Mineral,50,Frozen Ground,28,Mineral,4,7,28,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO6,C,MCDO6C6,6,0,1,Mineral,50,Frozen Ground,33,Mineral,4,5,2,yes,C6,18,17.5,10,9.5,10.5,10.5,,NA,5,5,5,5,Core,,,NA
+7/29/25,McDonald,MCDO6,C,MCDO6C9,9,0,36,Mineral,47,Frozen Ground,34,Mineral,6,4,9,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR1,C,AGCR1C6,6,10.5,4.5,Mineral,53,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR1,C,AGCR1C9,9,10,4,Rock,30,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR5,B,AGCR5B3,3,0.1,10,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR5,B,AGCR5B6,6,0.1,10.3,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR5,B,AGCR5B9,9,6,15,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR3,B,AGCR3B3,3,1,19.5,Rock,82,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR3,B,AGCR3B6,6,1,7.5,Mineral,18,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR3,B,AGCR3B9,9,3,7.5,Mineral,22.5,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR4 ,B,AGCR4 B3,3,15,13,"Mineral,Water",110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR4 ,B,AGCR4 B6,6,8,17,"Mineral,Water",110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR4 ,B,AGCR4 B9,9,1,18,"Mineral,Water",110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR5,A,AGCR5A3,3,0.5,32.5,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR5,A,AGCR5A6,6,2,17,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR5,A,AGCR5A9,9,0.5,22,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO4,B,MCDO4B3,3,0.1,7,Mineral,120,>100cm,21,Mineral,18,13,22,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO4,B,MCDO4B6,6,0,15,Mineral,120,>100cm,18,Mineral,16,15,4,yes,B6,15,15.5,11,11.5,8.5,9,,NA,5,NA,5,NA,Core,Very muddy can’t measure accurately,,NA
+7/29/25,McDonald,MCDO4,B,MCDO4B9,9,0,28,Mineral,75,Frozen Ground,29,Mineral,7,3,4,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM1,C,ISOM1C3,3,0,17,Mineral,62,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM1,C,ISOM1C6,6,0,20,Mineral,82,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM1,C,ISOM1C9,9,0,24,Mineral,63,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT1,A,CHIT1A3,3,0,23,Mineral,52,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT1,A,CHIT1A6,6,0.1,21,Mineral,49,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/3/25,Chitanana,CHIT1,A,CHIT1A9,9,0.1,18,Mineral,77,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/5/25,Troublesome,TROU4,A,TROU4A3,3,0,23,Mineral,70,Rock,20,Mineral,17,3,17.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/5/25,Troublesome,TROU4,A,TROU4A6,6,0,24.5,Mineral,74,Frozen Ground,13,Mineral,3,6,1,yes,A6,24,25,9.5,9.5,10,10.5,,NA,5,NA,5,NA,Core,,,NA
+8/5/25,Troublesome,TROU4,A,TROU4A9,9,0.1,30,Mineral,91,Frozen Ground,30,Mineral,2,6,7,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM4,B,ISOM4B3,3,0,23,Mineral,78,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM4,B,ISOM4B6,6,0,15.5,Mineral,120,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM4,B,ISOM4B9,9,0,17,Mineral,109,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU2,B,TROU2B6,6,0,10,Mineral,76,"Mineral,Rock",NA,,NA,NA,NA,yes,B6,9.5,10,8.5,8.5,10,9.5,,NA,5,5,5,5,Core,,,NA
+8/2/25,Troublesome,TROU2,B,TROU2B3,3,0,9,Mineral,88,Rock,37,Mineral,4,12,16,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU2,B,TROU2B9,9,0.5,7,Mineral,74,Rock,18,Mineral,11,2,2,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU2,C,TROU2C6,6,0,15,Mineral,83,Mineral,12,Mineral,10,2,11,yes,C6,14,15,10,9.5,9,10,,NA,5,5,5,5,Core,,,NA
+8/2/25,Troublesome,TROU2,C,TROU2C3,3,11,15,Mineral,85,Rock,9,Mineral,6,7,9,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU2,C,TROU2C9,9,0,13,Mineral,90,Mineral,23,Mineral,14,13,9.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR5,B,YUCR5B3,3,0.5,0.5,Mineral,58,Mineral,3.5,Mineral,25.5,21.5,22,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR5,B,YUCR5B6,6,0.5,0.5,Mineral,15,Rock,1.5,Mineral,27,25.5,34,yes,B6,13,13.5,10.5,10,9.5,10,Had to go further than 1m off transect to find organic sample,NA,5,5,5,5,Core,,,NA
+8/4/25,Yukon Creek,YUCR5,B,YUCR5B9,9,0.5,1,Mineral,52,Rock,1.5,Mineral,30,32,34.5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB4,C,GLOB4C6,6,0.5,12,Mineral,100,"Mineral,Rock",11,Rock,10,14,12,yes,GLOB4 C 6,9.5,9,10.5,10,11,10.5,Crumble at bottom,NA,5,5,5,5,Core,,,NA
+7/23/25,Globe,GLOB4,C,GLOB4C3,3,0,25.5,Mineral,68,Mineral,24,Mineral,17,26,18,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB4,C,GLOB4C9,9,0,5,Mineral,110,>100cm,15,Mineral,19,26,15,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU3,C,TROU3C3,3,0,11,Mineral,68,Rock,11,Mineral,11,17,10,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU3,C,TROU3C6,6,0,18,Mineral,55,Rock,15,Mineral,12,6,9,yes,C6,18,17.5,9.5,10,10,11,,NA,5,5,5,5,Core,,,NA
+8/2/25,Troublesome,TROU3,C,TROU3C9,9,0,4.5,Mineral,66,Rock,13,Mineral,16,3,7,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU3,A,TROU3A3,3,0.5,9,Mineral,41,Rock,12,Mineral,8,2,11,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU3,A,TROU3A6,6,0,14.5,Mineral,48,Rock,3,Mineral,29,17,17,yes,A6,14,14.5,9.5,11,10,11,,NA,5,5,5,5,Core,,,NA
+8/2/25,Troublesome,TROU3,A,TROU3A9,9,0,12,Mineral,42,Rock,2,Mineral,21,15,11,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/5/25,Troublesome,TROU5,C,TROU5C6,6,0,12.5,Mineral,55,Frozen Ground,11,Mineral,3,3,4,yes,C6,13,12,10,9,9.5,8.5,,NA,5,5,5,5,Core,,,NA
+8/5/25,Troublesome,TROU5,C,TROU5C3,3,0,37,Mineral,50,Rock,34,Frozen Ground,8,5,2,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/5/25,Troublesome,TROU5,C,TROU5C9,9,0,33,Mineral,55,Frozen Ground,33,Mineral,1,2,1,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT3,C,SLAT3C3,3,0,18,"Mineral,Water",55,Frozen Ground,21,"Mineral,Water",2,7,8,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT3,C,SLAT3C9,9,0,24,"Mineral,Water",49,Frozen Ground,24,"Mineral,Water",4,4,1,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/26/25,Slate,SLAT3,C,SLAT3C6,6,0,16,"Mineral,Water",48,Frozen Ground,16,"Mineral,Water",5,8,8,yes,Slat3 c,16,16,13,9,10,10,Wider at top. Narrower at bottom,NA,5,5,5,5,Core,,,NA
+8/8/25,Isom,ISOM5,C,ISOM5C3,3,0,21,Mineral,62,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM5,C,ISOM5C6,6,0.1,22,Mineral,60,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM5,C,ISOM5C9,9,0,16.5,Mineral,65,Frozen Ground,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR6,A,AGCR6A3,3,2,10,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR6,A,AGCR6A6,6,7,7,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR6,A,AGCR6A9,9,6,8,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT6,B,SLAT6B3,3,0,0.5,Mineral,110,>100cm,0,Mineral,13,12,12,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT6,B,SLAT6B6,6,0,0,Mineral,100,>100cm,0,Mineral,16,15,NA,yes,SLAT6 b,3,2.5,9,9,9.5,9.5,Sample collected another m off transect,NA,5,5,5,5,Core,,,NA
+7/27/25,Slate,SLAT6,B,SLAT6B9,9,0,5.5,Mineral,110,>100cm,0,Mineral,10,9,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR2,B,AGCR2B3,3,0.5,5,Mineral,20,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR2,B,AGCR2B6,6,0,3.5,Mineral,54,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR2,B,AGCR2B9,9,0,20.5,Mineral,70,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR4,B,YUCR4B3,3,1,3,Mineral,29,Mineral,0.1,Mineral,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/4/25,Yukon Creek,YUCR4,B,YUCR4B6,6,0.1,2,Mineral,45,Mineral,6,Mineral,12,NA,NA,yes,B6,2,1.5,9,9,10,10,,NA,5,NA,5,NA,Core,Dry and crumbly,,NA
+8/4/25,Yukon Creek,YUCR4,B,YUCR4B9,9,NA,4,Mineral,21,Mineral,2,Mineral,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR5,C,AGCR5C3,3,3.5,6.5,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR5,C,AGCR5C9,9,0.5,13.5,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR5,C,AGCR5C6,6,2,10,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT5,C,SLAT5C3,3,0.1,0,Mineral,110,>100cm,0,Mineral,17,14,12,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT5,C,SLAT5C9,9,0,9.5,Mineral,110,>100cm,0,Mineral,17,12,14,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/27/25,Slate,SLAT5,C,SLAT5C6,6,0,8,Mineral,110,>100cm,9.5,Mineral,14.5,11,15,yes,C6,7.5,8.5,10.5,10.5,10.5,11,,NA,5,5,5,5,Core,,,NA
+7/23/25,Globe,GLOB5,B,GLOB5B3,3,0,10,Mineral,27,Rock,18,Mineral,14,14.5,10,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB5,B,GLOB5B9,9,0,8,Mineral,110,>100cm,11,Mineral,17,12,10,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/23/25,Globe,GLOB5,B,GLOB5B6,6,0,10,Mineral,108,Rock,9,Mineral,18,17,14,yes,B6,10,11.5,10,10,9.5,9,,NA,4,4,5,5,Core,,,NA
+7/21/25,Aggie,AGCR2,A,AGCR2A3,3,1,10.5,Mineral,43,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR2,A,AGCR2A6,6,4.5,5.5,Mineral,17,Rock,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/21/25,Aggie,AGCR2,A,AGCR2A9,9,0.5,14,Mineral,15,Rock,NA,,NA,NA,NA,no,,9,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO4,C,MCDO4C3,3,0,20,Mineral,105,Frozen Ground,28,Mineral,5,4,2,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/29/25,McDonald,MCDO4,C,MCDO4C6,6,0,15,"Mineral,Water",93,Frozen Ground,30,Mineral,6,5,5,yes,C6,14,15.5,10.5,10.5,11,10.5,,NA,5,NA,5,NA,Core,,,NA
+7/29/25,McDonald,MCDO4,C,MCDO4C9,9,0,28,"Mineral,Water",120,>100cm,28,"Mineral,Water",3,10,5,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO2,C,MCDO2C3,3,0,25,"Mineral,Water",53,Frozen Ground,21,"Mineral,Water",5,4,4,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO2,C,MCDO2C6,6,0,12,Mineral,50,Frozen Ground,21,Mineral,5,5,6,yes,C6,12,13,12,12.5,11,10.5,,NA,5,NA,5,NA,Core,,,NA
+7/25/25,McDonald,MCDO2,C,MCDO2C9,9,0,28.5,"Mineral,Water",51,Frozen Ground,21.5,Mineral,5,8.5,8,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM4,C,ISOM4C3,3,0,19,Mineral,120,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM4,C,ISOM4C6,6,0,28.5,Mineral,120,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/8/25,Isom,ISOM4,C,ISOM4C9,9,0,25,Mineral,120,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO3,A,MCDO3A3,3,0,13.5,Mineral,75,Frozen Ground,13.5,Mineral,2,1,3,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/25/25,McDonald,MCDO3,A,MCDO3A6,6,0,9.5,Mineral,72,Frozen Ground,16,Mineral,6,5,7,yes,McDo3 a,9.5,10,13,12.5,14,13.5,,NA,5,5,5,5,Core,,,NA
+7/25/25,McDonald,MCDO3,A,MCDO3A9,9,0,17,Mineral,78,Frozen Ground,4,Mineral,14,9,9,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR6,C,AGCR6C6,6,2,3.5,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR6,C,AGCR6C3,3,4,9,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+7/22/25,Aggie,AGCR6,C,AGCR6C9,9,2,5.5,Mineral,110,>100cm,NA,,NA,NA,NA,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU3,B,TROU3B3,3,1,11,Mineral,53,Rock,11,Mineral,23,25,9,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU3,B,TROU3B9,9,0.1,10,Mineral,59,Rock,2,Mineral,14,16,13,no,,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,,,,NA
+8/2/25,Troublesome,TROU3,B,TROU3B6,6,0,14,"Mineral,Rock",60,Rock,4,Mineral,16,17,20,yes,B6,13,14,8.5,9,9.5,10,,NA,5,5,5,5,Core,,,NA

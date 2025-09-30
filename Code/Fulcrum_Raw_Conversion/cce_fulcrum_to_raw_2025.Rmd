@@ -1,0 +1,232 @@
+---
+title: "cce_fulcrum_to_raw"
+author: "Savannah Wilson"
+date: "2025-08-20"
+output: html_document
+---
+## All file paths are from my personal computer. However all file names are the same in the google drive folder (Projects/Data>CCE)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="G://Shared drives/Mack Walker Shared Drive/Projects Data/CCE")
+library(dplyr)
+```
+
+## Joining data across Fulcrum parent and child records
+#### All CCE apps are in this R-markdown. This document will combine parent and child records for a given app, remove unecessary Fulcrum columns, and generally put the data into a workable "raw" version. This is not the place to clean the data.
+
+### CCE Site
+#### This first chunk will deal with cce_site.
+
+```{r cce_site}
+#We want to pull from - cce_site
+
+#read in cce_site
+cce_site_2025 <- read.csv("data/fulcrum exports/2025/cce_site_2025/cce_site_2025.csv")
+#we must change site in cce_site to a character
+cce_site_2025$site <- as.character(cce_site_2025$site)
+
+#let's look at what columns we have
+colnames(cce_site_2025)
+
+#let's remove the ones we're less interested in
+#we have two different versions of lat/long. let's keep the ones we entered from the gps
+cce_site_2025 <- select(cce_site_2025, site, date, fire_scar,past_site_name_site_removed,               
+                        latitude_at_0m, longitude_at_0m, latitude_at_30m, longitude_at_30m, elevation,        
+                         slope, aspect, transect_orientation, severity, ground_severity, moisture_class,     
+                         pre_fire_vegetation, site_notes, site_photo_start, site_photo_end)
+
+cce_site_2025 <- cce_site_2025 %>% 
+  mutate(
+    longitude_at_0m = -1*longitude_at_0m,
+    longitude_at_30m = -1*longitude_at_30m
+  )
+write.csv(cce_site_2025, file = "data/raw/2025/cce_site_2025.csv")
+```
+### CCE Soils
+#### Next is CCE soils. Here we need to merge parent and child records.
+
+```{r cce_soils}
+#here we'll want to merge parent and child records
+
+#read in both
+cce_soils_parent <- read.csv("Data/Fulcrum_downloads/cce_soils_2025/cce_soils_2025.csv")
+cce_soils_child <- read.csv("Data/Fulcrum_downloads/cce_soils_2025/cce_soils_2025_soils.csv")
+
+#rename the fulcrum_id in the parent to fulcrum_parent_id so that we can merge
+names(cce_soils_parent)[1]="X_parent_id"
+cce_soils_2025 <- merge(cce_soils_parent, cce_soils_child, by="X_parent_id", all=TRUE)
+
+#let's look at what columns we have
+colnames(cce_soils_2025)
+
+#let's remove the ones we're less interested in
+cce_soils_2025 <- select(cce_soils_2025, date, fire_scar, site, plot, location, green_moss, depth1, org_hit, thaw_d, thaw_hit, ar_sol_depth1, ar_sol_hit, ar_height1, ar_height2, ar_height3, collected, sample_id, sample_depth1, sample_depth2, sample_width1, sample_width2, sample_length1, sample_length2, organic_notes, min_depth, m1_depth1, m1_depth2, m2_depth1, m2_depth_2, min_coregrab, mineral_notes, general_notes, sample_photo)
+
+write.csv(cce_soils_2025, file = "Data/Raw/cce_soils_2025.csv")
+```
+### CCE Tree Disks
+#### Tree disks are relatively simple - they just need cleaned up from Fulcrum busyness
+```{r cce_tree_disks}
+#here we mostly only need to clean up the unnecessary fulcrum columns
+#read in the data
+cce_tree_disks <- read.csv("Data/Fulcrum_downloads/cce_tree_disks_2025/cce_tree_disks_2025.csv")
+
+#let's look at what columns we have
+colnames(cce_tree_disks)
+
+#let's remove the ones we're less interested in
+cce_tree_disks_2025 <- select(cce_tree_disks, date, fire_scar, site, plot, disk_label, disk_species, disk_sample_diameter, disk_height, disk_notes)
+
+write.csv(cce_tree_disks_2025, file = "Data/Raw/cce_tree_disks_2025.csv")
+```
+### CCE Additional species list
+#### Additional species list, also just needs cleaned up.
+
+```{r cce_add_sppp}
+#here we mostly only need to clean up the unnecessary fulcrum columns
+#read in the data
+cce_add_spp <- read.csv("Data/Fulcrum_downloads/cce_understory_spp_presence_2025/cce_understory_spp_presence_2025.csv")
+
+#let's look at what columns we have
+colnames(cce_add_spp)
+
+#let's remove the ones we're less interested in
+cce_add_spp_2025 <- select(cce_add_spp, date, fire_scar, site, additional_species_list, additional_species_notes, photos)
+
+write.csv(cce_add_spp_2025, file = "Data/Raw/cce_add_spp_2025.csv")
+```
+### CCE Tree Inventory and Combustion
+#### In the pre-fire tree inventory and combustion we need to merge parent and child records
+```{r cce_trees}
+#here we'll want to merge parent and child records
+
+#read in both
+cce_trees_parent <- read.csv("Data/Fulcrum_downloads/cce_prefire_tree_inventory_and_combustion_2025/cce_prefire_tree_inventory_and_combustion_2025.csv")
+cce_trees_child <- read.csv("Data/Fulcrum_downloads/cce_prefire_tree_inventory_and_combustion_2025/cce_prefire_tree_inventory_and_combustion_2025_trees.csv")
+
+#rename the fulcrum_id in the parent to fulcrum_parent_id so that we can merge
+names(cce_trees_parent)[1]="X_parent_id"
+cce_trees <- merge(cce_trees_parent, cce_trees_child, by="X_parent_id", all=TRUE)
+
+#let's look at what columns we have
+colnames(cce_trees)
+
+#let's remove the ones we're less interested in
+cce_trees_2025 <- select(cce_trees, date, fire_scar, site, plot, tree_species, standing, snag_pre_fire, dbh, basal_diameter, cone_combustion, foliage_combustion, fine_combustion, coarse_combustion, stem_combustion, count, livedead, tree_notes, photos)
+
+write.csv(cce_trees_2025, file = "Data/Raw/cce_trees_2025.csv")
+```
+### CCE CWD
+#### In coarse woody debris we need to merge parent and child records.
+
+```{r cce_cwd}
+#here we'll want to merge parent and child records
+
+#read in both
+cce_cwd_parent <- read.csv("Data/Fulcrum_downloads/cce_cwd_combustion_2025/cce_cwd_combustion_2025.csv")
+cce_cwd_child <- read.csv("Data/Fulcrum_downloads/cce_cwd_combustion_2025/cce_cwd_combustion_2025_cwd.csv")
+
+#rename the fulcrum_id in the parent to fulcrum_parent_id so that we can merge
+names(cce_cwd_parent)[1]="X_parent_id"
+cce_cwd <- merge(cce_cwd_parent, cce_cwd_child, by="X_parent_id", all=TRUE)
+
+#let's look at what columns we have
+colnames(cce_cwd)
+
+#let's remove the ones we're less interested in
+cce_cwd_2025 <- select(cce_cwd, date, fire_scar, site, plot, species, diameter_cm, decay_class, combustion, cwd_notes, cwd_photo)
+
+write.csv(cce_cwd_2025, file = "Data/Raw/cce_cwd_2025.csv")
+```
+
+### CCE Brown's transect
+#### Brown's transect - simple clean up
+
+```{r cce_browns}
+#here we mostly only need to clean up the unnecessary fulcrum columns
+#read in the data
+cce_browns <- read.csv("Data/Fulcrum_downloads/cce_browns_transect_2025/cce_browns_transect_2025.csv")
+
+#let's look at what columns we have
+colnames(cce_browns)
+
+#let's remove the ones we're less interested in
+cce_browns_2025 <- select(cce_browns, date, fire_scar, site, plot, count_1_hr, X1_hr_fuel_notes, count_10_hr,
+                     X10_hr_fuel_notes, count_100_hr, X100_hr_fuel_notes, count_1000_hr, X1000_hr_fuel_notes)
+
+write.csv(cce_browns_2025, file = "Data/Raw/cce_browns_2025.csv")
+```
+
+### CCE Understory
+#### This is our most complicated app. The understory app includes information on plant cover, ground cover, seedlings, resprouts, and shrub regen. The entire app is included in this chunk, though there is one final product for each survey type.
+
+```{r cce_understory}
+#here we'll want to merge parent and child records
+
+#read in both
+cce_understory_parent <- read.csv("Data/Fulcrum_downloads/cce_plant_cover_and_seedling_and_shrubs_2025/cce_plant_cover_and_seedling_and_shrubs_2025.csv")
+cce_understory_plants <- read.csv("Data/Fulcrum_downloads/cce_plant_cover_and_seedling_and_shrubs_2025/cce_plant_cover_and_seedling_and_shrubs_2025_plants.csv")
+cce_understory_ground <- read.csv("Data/Fulcrum_downloads/cce_plant_cover_and_seedling_and_shrubs_2025/cce_plant_cover_and_seedling_and_shrubs_2025_ground_layer.csv")
+cce_understory_seedlings <- read.csv("Data/Fulcrum_downloads/cce_plant_cover_and_seedling_and_shrubs_2025/cce_plant_cover_and_seedling_and_shrubs_2025_seedlings.csv")
+cce_understory_resprouts <- read.csv("Data/Fulcrum_downloads/cce_plant_cover_and_seedling_and_shrubs_2025/cce_plant_cover_and_seedling_and_shrubs_2025_resprouts.csv")
+cce_understory_shrub_regen <-read.csv("Data/Fulcrum_downloads/cce_plant_cover_and_seedling_and_shrubs_2025/cce_plant_cover_and_seedling_and_shrubs_2025_shrub_regen.csv")
+cce_understory_above_dbh <- read.csv("Data/Fulcrum_downloads/cce_plant_cover_and_seedling_and_shrubs_2025/cce_plant_cover_and_seedling_and_shrubs_2025_trees_above_dbh.csv")
+
+
+#rename the fulcrum_id in the parent to X_parent_id so that we can merge
+names(cce_understory_parent)[1]="X_parent_id"
+cce_plants <- merge(cce_understory_parent, cce_understory_plants, by="X_parent_id", all=TRUE)
+cce_ground <- merge(cce_understory_parent, cce_understory_ground, by="X_parent_id", all=TRUE)
+cce_seedlings <- merge(cce_understory_parent, cce_understory_seedlings, by="X_parent_id", all=TRUE)
+cce_resprouts <- merge(cce_understory_parent, cce_understory_resprouts, by="X_parent_id", all=TRUE)
+cce_shrub_regen <- merge(cce_understory_parent, cce_understory_shrub_regen, by="X_parent_id", all=TRUE)
+cce_above_dbh <- merge(cce_understory_parent, cce_understory_above_dbh, by="X_parent_id", all=TRUE)
+
+
+#let's look at what columns we have - PLANTS
+colnames(cce_plants)
+#let's remove the ones we're less interested in
+cce_plants <- select(cce_plants, date, fire_scar, site, plot, location, site_notes, plant_species, plant_species_cover, veg_cover_notes, photos, plant_photos)
+
+write.csv(cce_plants, file = "Data/Raw/cce_plantcover_2025.csv")
+
+
+#let's look at what columns we have - GROUND
+colnames(cce_ground)
+#let's remove the ones we're less interested in
+cce_ground <- select(cce_ground, date, fire_scar, site, plot, location, site_notes, ground_cover_type, ground_percent_cover, ground_cover_notes, photos)
+
+write.csv(cce_ground, file = "Data/Raw/cce_groundcover_2025.csv")
+
+#let's look at what columns we have - SEEDLINGS
+colnames(cce_seedlings)
+#let's remove the ones we're less interested in
+cce_seedlings <- select(cce_seedlings, date, fire_scar, site, plot, location, site_notes, seedlings_present, species_, seedling_count, seedling_notes, bd1, bd2, bd3, photos)
+
+write.csv(cce_seedlings, file = "Data/Raw/cce_seedlings_2025.csv")
+
+#let's look at what columns we have - RESPROUTS
+colnames(cce_resprouts)
+#let's remove the ones we're less interested in
+cce_resprouts <- select(cce_resprouts, date, fire_scar, site, plot, location, site_notes, resprouts_present, resprout_species, resprout_count, resprout_notes, r_bd1, r_bd2, r_bd3, photos)
+
+write.csv(cce_resprouts, file = "Data/Raw/cce_resprouts_2025.csv")
+
+#let's look at what columns we have - SHRUB REGEN
+colnames(cce_shrub_regen)
+#let's remove the ones we're less interested in
+cce_shrub_regen <- select(cce_shrub_regen, date, fire_scar, site, plot, location, site_notes, shrub_regen_present, shrub_regen_species, shrub_regen_count, shrub_notes, s_bd1, s_bd2, s_bd3, photos)
+
+write.csv(cce_shrub_regen, file = "Data/Raw/cce_shrub_regen_2025.csv")
+
+#let's look at what columns we have - Trees above DBH
+colnames(cce_above_dbh)
+#let's remove the ones we're less interested in
+cce_above_dbh <- select(cce_above_dbh, date, fire_scar, site, plot, location, site_notes, trees_above_dbh_present, tree_species_, tree_count, tree_notes, t_bd1, t_bd2, t_bd3, photos)
+
+write.csv(cce_above_dbh, file = "Data/Raw/cce_trees_above_dbh_2025.csv")
+
+```
+
+#### That's that for arranging our data straight out of Fulcrum. Now the data are in a decent state to start properly cleaning and analyzing.

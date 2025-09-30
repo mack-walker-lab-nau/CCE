@@ -1,0 +1,71 @@
+---
+title: "CCE_site_cleaning"
+author: "Weronika Konwent"
+date: "2024-09-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+```
+
+## Cleaning CCE_site data
+#### Here we will clean CCE_site data and fix any typos, inconsistencies, and other potential issues.
+
+
+```{r cce_site}
+#read in the datafile
+cce_site <- read.csv("data/working/raw/cce_site.csv")
+
+#let's have a little preview
+head(cce_site)
+
+#ok, some notes right off of the bat. we need to make sure all sites are standardized, fix any misspellings in fire_scar, add the site from fire_scar_other, add a minus sign to our longitude, think about NAs
+
+#let's merge fire_scar_other with fire_scar
+sort(unique(cce_site$fire_scar))
+cce_site <- cce_site %>%
+  mutate(fire_scar = ifelse(fire_scar == "", fire_scar_other, fire_scar))
+
+#now let's fix up site. unfortunately there are lot's of misspellings here...
+sort(unique(cce_site$site))
+cce_site <- cce_site %>%
+  mutate(site = case_when(
+    site == "SHCR1" ~ "ShCr1",
+    site == "SHCR2" ~ "ShCr2",
+    site == "Shcr3" ~ "ShCr3",
+    site == "Shcr4" ~ "ShCr4",
+    site == "1" ~ "Hays1",
+    site == "2" ~ "Hays2",
+    site == "3" ~ "Hays3", TRUE ~ site))
+
+#next, let's fill in the NAs in ground_severity. These exist because we did not have this field in the app on our first day, and found there was a need for it. ground severity values are assigned here based on fieldnotes, tree combustion data, and soil data
+cce_site <- cce_site %>%
+  mutate(ground_severity = case_when(site == "Hays1" ~ 2,
+                                     site == "Hays2" ~ 1,
+                                     site == "Hays3" ~ 3, TRUE ~ ground_severity),
+         severity = ifelse(site == "Hays2", 3, severity))
+
+#let's fix our column names
+cce_site <- cce_site %>%
+  rename(latitude = latitude.1,
+         longitude = longitude.1)
+
+#now let's fix up longitude
+cce_site <- cce_site %>%
+  mutate(longitude = paste0("-", as.character(longitude)))
+
+#perhaps let's add a project column
+cce_site <- cce_site %>%
+  mutate(project = "CCE")
+
+#let's clean up our columns
+test <- select(cce_site, project, date, latitude, longitude, fire_scar, site, elevation, slope, aspect, severity, transect_orientation, ground_severity, moisture_class, pre_fire_vegetation, site_notes, site_photo_start, site_photo_end)
+
+#that should be everything! these data are clean and ready for analysis
+write.csv(cce_site, file = "data/working/clean/cce_site.csv")
+```
+
+#### These data are now clean and ready for analysis

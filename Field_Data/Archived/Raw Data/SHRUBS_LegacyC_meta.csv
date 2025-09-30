@@ -1,0 +1,15 @@
+﻿Column Name,Unit,Description
+date,date,date data was collected in the field
+fire_scar,name,name of fire scar
+site,id,site id used in the field
+plot,letter,"A, B, or C plot within a site"
+shrubs_present,yes/no,is the shrub present?
+shrub_species,genus,genus of shrub species (did not identify to specific epithet)
+dbh,cm,diameter at breast height
+dbh_count,count,count of stems at dbh
+basal_diameter,cm,basal diameter
+basal_count,count,count of stems at basal diameter
+foliage_combustion,%,percent of foliage combusted
+branch_combustion,%,percent of branches combusted
+stem_combustion,%,percent of stem combusted
+shrub_notes,notes,general notes

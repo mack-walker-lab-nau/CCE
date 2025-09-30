@@ -1,0 +1,67 @@
+---
+title: "cce_resprouts_cleaning"
+author: "Weronika Konwent"
+date: "2024-09-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+```
+
+## Cleaning CCE_resprouts data
+#### Here we will clean CCE_resprouts data and fix any typos, inconsistencies, and other potential issues.
+
+```{r cce_resprouts}
+#read in the datafile
+cce_resprouts <- read.csv("data/working/raw/cce_resprouts.csv")
+
+#let's have a little preview
+head(cce_resprouts)
+
+#let's clean up sites and firescars
+sort(unique(cce_resprouts$fire_scar))
+cce_resprouts <- cce_resprouts %>%
+  mutate(fire_scar = case_when(fire_scar == "Shovel creek" ~ "Shovel Creek",
+                               fire_scar == "Hess creek" ~ "Hess Creek", TRUE ~ fire_scar))
+
+#fix site name typos
+sort(unique(cce_resprouts$site))
+cce_resprouts <- cce_resprouts %>%
+  mutate(site = case_when(site == "MCCR6" ~ "McCr6",
+                          site == "HAYS5" ~ "Hays5", 
+                          site == "MCCR2" ~ "McCr2",
+                          site == "MCCR1" ~ "McCr1",
+                          site == "MCCR5" ~ "McCr5", 
+                          site == "HAYS6" ~ "Hays6",
+                          site == "MCCR4" ~ "McCr4", 
+                          site == "HAYS4" ~ "Hays4", TRUE ~ site))
+
+#let's check that there's no weirdness with species
+sort(unique(cce_resprouts$resprout_species))
+
+#I think we can remove salix. we are just interested in canopy forming tree species for resprouts
+cce_resprouts <- cce_resprouts %>%
+  filter(is.na(resprout_species_other) | resprout_species_other != "Salix spp")
+
+#let's move the one site that has location_other
+cce_resprouts <- cce_resprouts %>%
+  mutate(location = ifelse(location == "" | is.na(location), location_other, location))
+
+#there's one site note that changes the location. let's make that change in the location column
+cce_resprouts <- cce_resprouts %>%
+  mutate(location = ifelse(site_notes == "0m, not 9m. Entered as 9 due to fulcrum set up.", "0 m", location))
+
+#perhaps let's add a project column
+cce_resprouts <- cce_resprouts %>%
+  mutate(project = "CCE")
+
+#let's clean up our columns; there was no rbd3, so I removed it
+cce_resprouts <- select(cce_resprouts, date, fire_scar, site, plot, location, site_notes, resprouts_present, resprout_species, resprout_count, resprout_notes, r_bd1, r_bd2)
+
+write.csv(cce_resprouts, file = "data/working/clean/cce_resprouts.csv")
+```
+
+#### These data are now clean and ready for analysis. I removed photos from this clean version, but the photo IDs still exist in the working/raw folder. I also removed rbd3, since there were no entries. Most of the data here are NAs. There are only two locations with resprouts. One of them retains a count of 2, so our rows here do not equal observations.

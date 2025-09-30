@@ -1,0 +1,78 @@
+---
+title: "cce_shrub_regen_cleaning"
+author: "Weronika Konwent"
+date: "2024-09-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+```
+
+## Cleaning CCE_shrub_regen data
+#### Here we will clean CCE_shrub_regen data and fix any typos, inconsistencies, and other potential issues.
+
+```{r cce_shrub_regen}
+#read in the datafile
+cce_shrub_regen <- read.csv("data/working/raw/cce_shrub_regen.csv")
+
+#let's have a little preview
+head(cce_shrub_regen)
+
+#some clean up of sites and fire_scars
+sort(unique(cce_shrub_regen$fire_scar))
+cce_shrub_regen <- cce_shrub_regen %>%
+  mutate(fire_scar = case_when(fire_scar == "Shovel creek" ~ "Shovel Creek",
+                               fire_scar == "Hess creek" ~ "Hess Creek", TRUE ~ fire_scar))
+
+#fix site name typos
+sort(unique(cce_shrub_regen$site))
+cce_shrub_regen <- cce_shrub_regen %>%
+  mutate(site = case_when(site == "MCCR6" ~ "McCr6",
+                          site == "HAYS5" ~ "Hays5", 
+                          site == "MCCR2" ~ "McCr2",
+                          site == "MCCR1" ~ "McCr1",
+                          site == "MCCR5" ~ "McCr5", 
+                          site == "HAYS6" ~ "Hays6",
+                          site == "MCCR4" ~ "McCr4", 
+                          site == "HAYS4" ~ "Hays4", TRUE ~ site))
+
+#let's check that there's no weirdness with species
+sort(unique(cce_shrub_regen$shrub_regen_species))
+
+#let's move the one site that has location_other
+cce_shrub_regen <- cce_shrub_regen %>%
+  mutate(location = ifelse(location == "" | is.na(location), location_other, location))
+
+#there's one site note that changes the location. let's make that change in the location column
+cce_shrub_regen <- cce_shrub_regen %>%
+  mutate(location = ifelse(site_notes == "0m, not 9m. Entered as 9 due to fulcrum set up.", "0 m", location))
+
+#ok, first problem I see is that sometimes a bd was accidentally put in shrub notes. i think the best way to fix this is to paste it in bd3
+cce_shrub_regen <- cce_shrub_regen %>%
+  mutate(s_bd3 = ifelse(shrub_notes == ".2", 0.20, s_bd3))
+
+#according to the protocol, we do not want to count betula. 
+cce_shrub_regen <- cce_shrub_regen %>%
+  filter(shrub_regen_species != "Betula" | is.na(shrub_regen_species))
+
+###remove comments if we want each row to be it's own observation
+#let's mutate the count column so that each row is it's own observation
+#cce_shrub_regen <- cce_shrub_regen %>%
+  #first we have to change all of the blanks to 1s
+#  mutate(shrub_regen_count = ifelse(shrub_regen_count == "" | is.na(shrub_regen_count), 1, as.numeric(shrub_regen_count))) %>%
+#  uncount(weights = shrub_regen_count)
+
+#perhaps let's add a project column
+cce_shrub_regen <- cce_shrub_regen %>%
+  mutate(project = "CCE")
+
+#let's clean up our columns; there was no rbd3, so I removed it
+cce_shrub_regen <- select(cce_shrub_regen, date, project, fire_scar, site, plot, location, site_notes, shrub_regen_present, shrub_regen_species, shrub_regen_count, shrub_notes, s_bd1, s_bd2, s_bd3)
+
+write.csv(cce_shrub_regen, file = "data/working/clean/cce_shrub_regen.csv")
+```
+
+#### These data are now clean and ready for analysis. I removed photos from this clean version, but the photo IDs still exist in the working/raw folder. I did not change the count column so that each row is it's own observation. The code for that has been commented out at line 57.

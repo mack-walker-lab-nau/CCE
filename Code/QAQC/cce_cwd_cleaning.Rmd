@@ -1,0 +1,56 @@
+---
+title: "cce_cwd_cleaning"
+author: "Weronika Konwent"
+date: "2024-09-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+```
+
+## Cleaning CCE_cwd data
+#### Here we will clean CCE_cwd data and fix any typos, inconsistencies, and other potential issues.
+
+
+```{r cce_cwd}
+#read in the datafile
+cce_cwd <- read.csv("data/working/raw/cce_cwd.csv")
+
+#let's have a little preview
+head(cce_cwd)
+
+#ok, this dataset seems like it's in pretty good shape. we need to make sure all fire_scars and sites are standardized. 
+
+#let's start with fixing up fire_scar
+sort(unique(cce_cwd$fire_scar))
+cce_cwd <- cce_cwd %>%
+  mutate(fire_scar = case_when(
+    fire_scar == "Lost horse" ~ "Lost Horse",
+    fire_scar == "Shovel creek" ~ "Shovel Creek", TRUE ~ fire_scar))
+
+
+#next, fix site name typos
+sort(unique(cce_cwd$site))
+cce_cwd <- cce_cwd %>%
+  mutate(site = case_when(site == "DrCr2 " ~ "DrCr2",
+                          site == "LOHO3" ~ "LoHo3",
+                          site == "Loho3 " ~ "LoHo3",
+                          site == "Loho3" ~ "LoHo3", TRUE ~ site))
+
+#looking at the site names, we have data from sites that we did not mean to collect data from. Because Shovel and Hess were resampled post LC, I believe we can remove ShCr1 and HeCr1 and HeCr4. McCr6 was unfortunately missed, it seems.
+
+#perhaps let's add a project column
+cce_cwd <- cce_cwd %>%
+  mutate(project = "CCE")
+
+#let's clean up our columns
+cce_cwd <- select(cce_cwd, project, date, fire_scar, site, plot, species, diameter_cm, decay_class, combustion, cwd_notes)
+
+#that should be everything! these data are clean and ready for analysis
+write.csv(cce_cwd, file = "data/working/clean/cce_cwd.csv")
+```
+
+#### These data are now clean and ready for analysis. Some notes: lots of missing sites. my unfortunate gueess is that they were simply 0s, but weren't logged. need to think about how we want to back calculate this...

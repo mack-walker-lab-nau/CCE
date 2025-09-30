@@ -1,0 +1,127 @@
+---
+title: "cce_soil_processing"
+author: "Weronika Konwent"
+date: "2024-09-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+library(tidyr)
+```
+
+## Processing CCE soil data for collected soils only
+#### Here we are making our data long and removing instances in which no soil is collected. These output datafiles can be used while processing mineral and organic soils in the lab.
+
+
+```{r cce_soils for processing}
+#read in the datafile
+cce_soils <- read.csv("data/working/clean/cce_soils.csv")
+
+#let's make a quick datafile that contains only data for soils that were sampled
+sampled_cce_soils <- cce_soils %>%
+  filter(collected == "yes")
+
+#let's simplify our data
+sampled_cce_soils  <- select(sampled_cce_soils, project, date, fire_scar, sample_id, sample_depth1, sample_depth2, sample_width1, sample_width2, sample_length1, sample_length2, organic_notes, m1_depth1, m2_depth1, min_coregrab, mineral_notes, general_notes)
+
+#now, we want to make it so that each soil sample gets it's own row. first we will make a datafile that only contains organic sample data + shared data
+cce_organic <- sampled_cce_soils %>%
+  select(project, date, fire_scar, sample_id, general_notes, 
+         sample_depth1, sample_depth2, sample_width1, sample_width2, sample_length1, sample_length2, organic_notes) %>%
+  filter(!is.na(sample_depth1)) 
+
+#then we will make a datafile that only contains mineral sample data + shared data
+cce_mineral <- sampled_cce_soils %>%
+  pivot_longer(
+    cols = c(m1_depth1, m2_depth1),  
+    names_to = "horizon",             
+    values_to = "mineral_depth") %>%
+  select(project, date, fire_scar, sample_id, general_notes, horizon, mineral_depth, min_coregrab, mineral_notes)
+
+#then we will combine them.
+cce_soil_samples <- bind_rows(cce_organic, cce_mineral)
+
+#let's rearrange the columns
+cce_soil_samples  <- select(cce_soil_samples, project, date, fire_scar, sample_id, sample_depth1, sample_depth2, sample_width1, sample_width2, sample_length1, sample_length2, organic_notes, horizon, mineral_depth, min_coregrab, mineral_notes, general_notes)
+
+cce_soil_samples <- cce_soil_samples %>%
+  mutate(horizon = case_when(horizon == "m1_depth1" ~ "M1", 
+                             horizon == "m2_depth1" ~ "M2", 
+                             is.na(horizon) ~ "O", TRUE ~ horizon))
+
+
+###could save a version of this datasheet if we want to keep all 369 records. from here I am removing records that are 0s. 
+#21 M2s == 0
+cce_soil_samples <- cce_soil_samples %>%
+  filter(!(horizon == "M2" & mineral_depth == 0.0) | is.na(mineral_depth))
+
+#ok. from here we have 4 sample of mineral soil == 0. One of them, MuCr2B M1 is 0 because the depth is unknown. So let's change it to 999? if something else is preferable, we should do that.
+cce_soil_samples <- cce_soil_samples %>%
+  mutate(mineral_depth = case_when(sample_id == "MuCr2B" & horizon == "M1" ~ 999, TRUE ~ mineral_depth))
+
+#ok. now what should we do with the other 4 samples that are M1 0s? I don't want to miss the notes...but it doesn't make sense to add it to the general_notes that would only be linked to organic. I think I will simply make a note here, and if there are questions folks can go back to the original data
+###so! we are removing MuCr2A M1, Hays6A M1, NuCr2A M1, McCr5A M1.
+cce_soil_samples <- cce_soil_samples %>%
+  filter(!(mineral_depth == 0.0) | is.na(mineral_depth))
+
+###ok, this is the final datasheet for soil that need to be processed.
+#i'm a little worried that I might be missing something funky, like bottom of organic or top of mineral that doesn't fall into a normal classification. I guess we'll see as we go. maybe I'll print a few extra "blank" labels...
+#let's give each row a numeric ID.
+cce_soil_samples <- cce_soil_samples %>%
+  arrange(sample_id) %>%  
+  mutate(ID = row_number()) 
+
+#arrange things just so
+cce_soil_samples  <- select(cce_soil_samples, project, date, fire_scar, ID, sample_id, sample_depth1, sample_depth2, sample_width1, sample_width2, sample_length1, sample_length2, organic_notes, horizon, mineral_depth, min_coregrab, mineral_notes, general_notes)
+
+#this is all soils samples
+write.csv(cce_soil_samples, file = "data/working/soils/cce_soil_samples.csv")
+
+#let's also make just a mineral sheet and just an organic sheet
+cce_mineral_soil_samples <- cce_soil_samples %>%
+  filter(horizon != "O") 
+
+#we can remove the organic only columns
+cce_mineral_soil_samples  <- select(cce_mineral_soil_samples, project, date, fire_scar, ID, sample_id, horizon, mineral_depth, min_coregrab, mineral_notes, general_notes)
+
+#let's make sure that the coregrab column is correct so that we can indicate this while processing samples.
+cce_mineral_soil_samples <- cce_mineral_soil_samples %>%
+  mutate(min_coregrab = case_when(ID == "202" ~ "Core", 
+                                  ID == "224" ~ "Neither",
+                                  ID == "225" ~ "Core",
+                                  ID == "250" ~ "Core",
+                                  ID == "251" ~ "Core",
+                                  ID == "254" ~ "Neither",
+                                  ID == "255" ~ "Core",
+                                  ID == "280" ~ "Core",
+                                  ID == "281" ~ "Grab",
+                                  ID == "285" ~ "Grab",
+                                  ID == "286" ~ "Core",
+                                  ID == "288" ~ "Grab",
+                                  ID == "289" ~ "Core",
+                                  ID == "300" ~ "Core",
+                                  ID == "301" ~ "Grab",
+                                  ID == "320" ~ "Core",
+                                  ID == "321" ~ "Grab",
+                                  ID == "323" ~ "Core",
+                                  ID == "324" ~ "Grab", TRUE ~ min_coregrab))
+
+#mineral soil samples
+write.csv(cce_mineral_soil_samples, file = "data/working/soils/cce_mineral_soil_samples.csv")
+
+#here's organic
+cce_organic_soil_samples <- cce_soil_samples %>%
+  filter(horizon == "O") 
+
+#we can remove the mineral only columns
+cce_organic_soil_samples  <- select(cce_organic_soil_samples, project, date, fire_scar, ID, sample_id, sample_depth1, sample_depth2, sample_width1, sample_width2, sample_length1, sample_length2, organic_notes, general_notes)
+
+#organic soil samples
+write.csv(cce_organic_soil_samples, file = "data/working/soils/cce_organic_soil_samples.csv")
+
+```
+
+### I forsee more work needing to be done with organic soils - I have not touched them at all. There may also be an issue with the numberic ID, as I've assigned each organic sample one number, but we will certainly be subdividing the sample further. This could probably be solved with a 0-5cm, 5-10cm, 10-15cm etc descriptor.

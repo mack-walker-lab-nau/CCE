@@ -1,0 +1,13 @@
+﻿Varaiable,units,description
+fire,name,fire scar name
+site,id,site id used in the field
+plot,letter,"A, B, or C plot within a site"
+date,date,sampling date
+location,name,location within the plot
+org_depth,cm,Depth of the residual soil organic layer
+org_hit,class,"What the bottom of the residual soil organic layer hit (frozen ground, water, mineral soil, rock)"
+ar_sol_depth,cm,Depth of the residual soil organic layer beside trees where the adentiotu root (ar) heights were measured
+ar_sol_hit,class,"What the bottom of the residual soil organic layer beside trees hit (frozen ground, water, mineral soil, rock)"
+ar_height,cm,Average height of adevntious roots above the residual soil orgnaic layer (taken on one to three roots per tree)
+thaw_d,cm,Depth of active layer at time of measurement
+thaw_hit,class,"What the thaw probe hit (frozen ground, water, mineral soil, rock)"

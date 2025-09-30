@@ -1,0 +1,114 @@
+---
+title: "cce_add_spp_cleaning"
+author: "Weronika Konwent"
+date: "2024-09-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+library(stringr)
+library(tidyr)
+```
+
+## Cleaning CCE_add_spp data
+#### Here we will clean CCE_add_spp data and fix any typos, inconsistencies, and other potential issues.
+
+```{r cce_add_spp}
+#read in the datafile
+cce_add_spp <- read.csv("data/working/raw/cce_add_spp.csv")
+
+#let's have a little preview
+head(cce_add_spp)
+
+#the data themselves look great. but we need to make sure all fire_scars and sites are standardized. 
+
+#let's start with fixing up fire_scar
+sort(unique(cce_add_spp$fire_scar))
+cce_add_spp <- cce_add_spp %>%
+  mutate(fire_scar = case_when(
+    fire_scar == "Lost horse" ~ "Lost Horse",
+    fire_scar == "LoHo" ~ "Lost Horse",
+    fire_scar == "Shovel" ~ "Shovel Creek",
+    fire_scar == "ShCr" ~ "Shovel Creek",
+    fire_scar == "Shovel creek" ~ "Shovel Creek",
+    fire_scar == "Hess creek" ~ "Hess Creek",
+    fire_scar == "Haystack4" ~ "Haystack",
+    fire_scar == "Nugget creek" ~ "Nugget Creek",
+    fire_scar == "Munson creek" ~ "Munson Creek",
+    fire_scar == "Munson Creek " ~ "Munson Creek", TRUE ~ fire_scar))
+
+
+#next, fix site name typos
+sort(unique(cce_add_spp$site))
+cce_add_spp <- cce_add_spp %>%
+  mutate(site = case_when(site == "HAYS4" ~ "Hays4",
+                          site == "HAYS5" ~ "Hays5",
+                          site == "HAYS6" ~ "Hays6", 
+                          site == "Loho1" ~ "LoHo1",
+                          site == "Loho2" ~ "LoHo2",
+                          site == "Shcr1" ~ "ShCr1",
+                          site == "MCCR1" ~ "McCr1",
+                          site == "MCCR4" ~ "McCr4",
+                          site == "MCCR5" ~ "McCr5",
+                          site == "MCCR6" ~ "McCr6",
+                          site == "HAYS6" ~ "Hays6", TRUE ~ site))
+
+#missing LoHo6
+#missing ShCr2, 3, 4
+#let's see if we have them in site_remove...
+#ok, with some sleuthing of the raw fulcrum data, ShrCr1 == ShCr2, ShCr site_remove 3 == ShCr3, and both hCr site_remove 4 == ShCr4. i came to these conclusions by crosschecking the date created for the add_spp app with the date_created for the site app
+##this means that there is no ShCr1, and we still don't have a Loho6
+cce_add_spp <- cce_add_spp %>%
+  mutate(site = case_when(fire_scar == "Shovel Creek" & site == "" & site_remove == "3" ~ "ShCr3", 
+                          fire_scar == "Shovel Creek" & site == "" & site_remove == "4" ~ "ShCr4",
+                          fire_scar == "Lost Horse" & site == "" ~ "LoHo3", TRUE ~ site))
+
+#next let's translate some of the notes into data
+
+#first let's address these unknown asters
+cce_add_spp <- cce_add_spp %>%
+  mutate(additional_species_list = case_when(additional_species_notes == "Unkn aster" ~ "Asteraceae spp", 
+                                             #then the lycopodium
+                                             additional_species_list == "Lycopodium annotinum" ~ "Lycopodium spp",
+                                             #move merchantia to species list rather than notes
+                                             additional_species_notes == "Merchantia" ~ "Merchantia spp",
+                                             #then for that unk1 = solidago spp
+                                             additional_species_notes == "Unknown 1 is solidago spp" ~ str_replace(additional_species_list, "Unknown 1", "Solidago spp"), 
+                                             TRUE ~ additional_species_list)) %>% 
+  mutate(additional_species_notes = case_when(additional_species_notes == "Unkn aster" ~ "", 
+                                              additional_species_notes == "Merchantia" ~ "", 
+                                              additional_species_notes == "Unknown 1 is solidago spp" ~ "",
+                                              additional_species_list == "Lycopodium annotinum" ~ "", TRUE ~ additional_species_notes))
+
+#this is a tricky bit of code that moves all of the _other species to the main species list. if there are no add_spp, it sets it as the first value, but if there is already something there it concatenates with a comma
+cce_add_spp <- cce_add_spp %>% 
+  mutate(additional_species_list = case_when(additional_species_list == "" & additional_species_list_other != "" ~ additional_species_list_other,
+                                            additional_species_list != "" & additional_species_list_other != "" ~ paste(additional_species_list, additional_species_list_other, sep = ","), TRUE ~ additional_species_list ))
+
+#and here we make our data long, so that each species is it's own observation
+cce_add_spp <- cce_add_spp %>%
+  separate_rows(additional_species_list, sep = ",")
+
+#let's change the column name to something more accurate
+cce_add_spp <- cce_add_spp %>%
+  rename(additional_species = additional_species_list)
+
+#think about how we want to denote the sites that did not have any additional species
+cce_add_spp <- cce_add_spp %>%
+  mutate(additional_species = na_if(additional_species, ""))
+
+#perhaps let's add a project column
+cce_add_spp <- cce_add_spp %>%
+  mutate(project = "CCE")
+
+#let's clean up our columns
+cce_add_spp <- select(cce_add_spp, project, fire_scar, site, additional_species, additional_species_notes)
+
+#that should be everything! these data are clean and ready for analysis
+write.csv(cce_add_spp, file = "data/working/clean/cce_add_spp.csv")
+```
+
+#### These data are now clean and ready for analysis. We are missing data for 3 sites, two of which are missing (ShCr1 and LoHo6) and one of which has a record but no associated data (Hays1). I have also made the assumption to denote sites without additional species as NA. Another questions - would it be useful to add sampling date here?

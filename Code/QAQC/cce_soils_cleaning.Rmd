@@ -1,0 +1,187 @@
+---
+title: "cce_soils_cleaning"
+author: "Weronika Konwent"
+date: "2024-09-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+```
+
+## Cleaning CCE_soils data
+#### Here we will clean CCE_soils data and fix any typos, inconsistencies, and other potential issues.
+
+
+```{r cce_soils}
+#read in the datafile
+cce_soils <- read.csv("data/working/raw/cce_soils.csv")
+
+#let's have a little preview
+head(cce_soils)
+
+#ok, some notes right off of the bat. we need to make sure all firescars and sites are standardized, fix any mispellings in, add org_hit_other to org_hit, think about NAs and missing values, maybe remove mineral 2 measurements, remove min_depth
+
+#let's start with fixing up fire_scar
+sort(unique(cce_soils$fire_scar))
+cce_soils <- cce_soils %>%
+  mutate(fire_scar = case_when(
+    fire_scar == "Lost horse" ~ "Lost Horse",
+    fire_scar == "Shovel creek" ~ "Shovel Creek", TRUE ~ fire_scar))
+
+#next, let's fix add our single org_hit_other value to org_hit
+sort(unique(cce_soils$site))
+cce_soils <- cce_soils %>%
+  mutate(org_hit = case_when(site == "LoHo6" ~ "Mineral,Organic", TRUE ~ org_hit))
+
+#now let's concentrate on sites and plots in which we collected samples
+#we have 123 plots in which we collected soil samples
+
+#noticed that there's a typo with one of the sample_ids
+cce_soils <- cce_soils %>%
+  mutate(sample_id = case_when(site == "Hays2" & plot == "B" & collected == "yes" ~ "Hays2B", 
+                               site == "Hays4" & plot == "C" & collected == "yes" ~ "Hays4C",
+                               site == "NuCr5" & plot == "C" & collected == "yes" ~ "NuCr5C", TRUE ~ sample_id))
+
+#three Tekl sites weren't marked as collected, even though we did collect soils there
+cce_soils <- cce_soils %>%
+  mutate(collected = case_when(sample_id == "Tekl4B" ~ "yes", 
+                               sample_id == "Tekl5B" ~ "yes",
+                               sample_id == "Tekl6A" ~ "yes", TRUE ~ collected))
+
+#first we'll fix sample IDs
+cce_soils <- cce_soils %>%
+  mutate(sample_id = case_when(
+    sample_id == "DrCr1" ~ "DrCr1A",
+    sample_id == "HAYS1A" ~ "Hays1A",
+    sample_id == "Hays1b" ~ "Hays1B",
+    sample_id == "HAYS1c" ~ "Hays1C",
+    sample_id == "Hays2a" ~ "Hays2A",
+    sample_id == "Hays2c" ~ "Hays2C",
+    sample_id == "Hays3a" ~ "Hays3A",
+    sample_id == "Hays3b" ~ "Hays3B",
+    sample_id == "Hays3c" ~ "Hays3C",
+    sample_id == "LOHO1A" ~ "LoHo1A",
+    sample_id == "LOHO1B" ~ "LoHo1B",
+    sample_id == "LOHO1C-O" ~ "LoHo1C",
+    sample_id == "LoHo2 a" ~ "LoHo2A",
+    sample_id == "Loho2b" ~ "LoHo2B",
+    sample_id == "Loho3A" ~ "LoHo3A",
+    sample_id == "Loho3b" ~ "LoHo3B",
+    sample_id == "Loho3c" ~ "LoHo3C",
+    sample_id == "McCr1" ~ "McCr1A",
+    sample_id == "Tekl6" ~ "Tekl6B", TRUE ~ sample_id))
+
+#next, on to min_depth! min_dpeth was in version 1 of our soils app, before we added M1 and M2 measurements. let's move all of the pertinent information from min_depth to M1 and M2, so that we can delete min_depth
+cce_soils <- cce_soils %>%
+  mutate(m1_depth1 = case_when(sample_id == "Hays1B" ~ 5, 
+                        sample_id == "Hays1C" ~ 5, 
+                        sample_id == "Hays2A" ~ 5,
+                        sample_id == "Hays2B" ~ 5,
+                        sample_id == "Hays2C" ~ 5,
+                        sample_id == "Hays3A" ~ 5,
+                        sample_id == "Hays3B" ~ 5,
+                        sample_id == "Hays3C" ~ 5,
+                        sample_id == "LoHo3B" ~ 5,
+                        sample_id == "LoHo3C" ~ 5,
+                        sample_id == "Hays1A" ~ 6, 
+                        sample_id == "Tekl5B" ~ 7, #this number was missing from m1_depth 1, but was pulled from the notes
+                        TRUE ~ m1_depth1))
+
+cce_soils <- cce_soils %>%
+  mutate(m2_depth1 = case_when(sample_id == "Hays1B" ~ 5, 
+                               sample_id == "Hays1C" ~ 5, 
+                               sample_id == "Hays2A" ~ 5,
+                               sample_id == "Hays2B" ~ 5,
+                               sample_id == "Hays2C" ~ 5,
+                               sample_id == "Hays3A" ~ 5,
+                               sample_id == "Hays3B" ~ 5,
+                               sample_id == "Hays3C" ~ 5,
+                               sample_id == "LoHo3B" ~ 5,
+                               sample_id == "LoHo3C" ~ 5, TRUE ~ m2_depth1))
+
+#now let's see if we need to keep depth2 for either M1 or M2
+#it looks like there are two instances where M2depth1 was accidentally recorded in depth2. there is one instance in which there is a useful number in m1depth2 (NuCr2C). 
+#write in the single measurement from NuCr2C as a note
+cce_soils <- cce_soils %>%
+  mutate(mineral_notes = ifelse(sample_id == "NuCr2C", 
+                                paste(mineral_notes, "M1 was uneven, 5cm and 4cm", sep = " "), mineral_notes))
+
+#then let's move the two values that were recorded only in m2_depth2 to m2_depth1
+cce_soils <- cce_soils %>%
+  mutate(m2_depth1 = case_when(sample_id == "Tekl6B" ~ 5, 
+                              sample_id == "Tekl1A" ~ 5, TRUE ~ m2_depth1))
+#now we can remove depth2 columns as they do not add any new data
+
+#let's change all of the NA values in m2depth1 to 0s.
+cce_soils <- cce_soils %>%
+  mutate(m2_depth1 = case_when(collected == "yes" & is.na(m2_depth1) ~ 0, TRUE ~ m2_depth1))
+
+
+#let's consider our coring column next. we have a lot of records that are missing values. this may be a question of backfilling the information site by site...
+#first let's make all the empty rows NAs
+cce_soils <- cce_soils %>%
+  mutate(min_coregrab = ifelse(min_coregrab == "", NA, min_coregrab))
+
+#now let's make a long list of corrections
+cce_soils <- cce_soils %>%
+  mutate(mineral_notes = case_when(
+    sample_id == "NuCr2A" ~ paste(mineral_notes, "Mineral soil not sampled, too rocky"),
+    sample_id == "NuCr2C" ~ paste("M1 sample came off of bottom of organic sample, depth is estimated. Length and width are same dimensions as brownie. M2 sample taken as core below", mineral_notes), TRUE ~ mineral_notes))
+
+cce_soils <- cce_soils %>%
+  mutate(min_coregrab = case_when(sample_id == "Hays5A" ~ "Core", 
+                               sample_id == "MuCr3C" ~ "Both", 
+                               sample_id == "Tekl4B" ~ "Both",
+                               sample_id == "NuCr2C" ~ "Core",
+                               sample_id == "NuCr2B" ~ "Both",
+                               sample_id == "McCr2B" ~ "Core",
+                               sample_id == "NuCr4C" ~ "Core",
+                               sample_id == "NuCr4A" ~ "Core",
+                               sample_id == "McCr5C" ~ "Core",
+                               sample_id == "McCr1B" ~ "Core", 
+                               sample_id == "McCr6A" ~ "Core",
+                               sample_id == "LoHo3C" ~ "Core",
+                               sample_id == "Hays6B" ~ "Core",
+                               sample_id == "Tekl1C" ~ "Both",
+                               sample_id == "Hays6C" ~ "Core", 
+                               sample_id == "McCr4A" ~ "Core",
+                               sample_id == "NuCr3C" ~ "Core",
+                               sample_id == "McCr6B" ~ "Core",
+                               sample_id == "McCr4C" ~ "Core",
+                               sample_id == "McCr4B" ~ "Core", 
+                               sample_id == "NuCr3A" ~ "Core", 
+                               sample_id == "McCr5B" ~ "Core",
+                               sample_id == "NuCr3B" ~ "Core",
+                               sample_id == "NuCr5B" ~ "Both",
+                               sample_id == "NuCr4B" ~ "Core",
+                               sample_id == "NuCr1A" ~ "Core", 
+                               sample_id == "NuCr1B" ~ "Core", 
+                               sample_id == "McCr2C" ~ "Core",
+                               sample_id == "McCr2A" ~ "Core",
+                               sample_id == "McCr6C" ~ "Both",
+                               sample_id == "NuCr2B" ~ "Both",
+                               sample_id == "Tekl4B" ~ "Both", 
+                               sample_id == "Tekl4A" ~ "Both", 
+                               sample_id == "NuCr5A" ~ "Grab",
+                               sample_id == "McCr1C" ~ "Core",
+                               sample_id == "Hays5B" ~ "Core", 
+                               sample_id == "NuCr1C" ~ "Both", 
+                               sample_id == "NuCr6B" ~ "Both",
+                               sample_id == "NuCr6A" ~ "Both", TRUE ~ min_coregrab))
+
+
+#perhaps let's add a project column
+cce_soils <- cce_soils %>%
+  mutate(project = "CCE")
+
+#let's clean up our columns
+cce_soils <- select(cce_soils, project, date, fire_scar, site, plot, green_moss, depth1, org_hit, thaw_d, thaw_hit, ar_sol_depth1, ar_sol_hit, ar_height1, ar_height2, ar_height3, collected, sample_id, sample_depth1, sample_depth2, sample_width1, sample_width2, sample_length1, sample_length2, organic_notes, m1_depth1, m2_depth1, min_coregrab, mineral_notes, general_notes, sample_photo)
+
+#that should be everything! these data are clean and ready for analysis
+write.csv(cce_soils, file = "data/working/clean/cce_soils.csv")
+```
+
+#### These data are now clean and ready for analysis. Some notes: consider what to do for green moss. We didn't start measuring them at the very beginning, so we should decide the difference between NA and 0. Also, might be a good idea to change the soil sampling app to show what kind of core we are collecting for each sample type...

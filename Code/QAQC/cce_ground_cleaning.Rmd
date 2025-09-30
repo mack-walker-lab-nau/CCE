@@ -1,0 +1,65 @@
+---
+title: "cce_ground_cleaning"
+author: "Weronika Konwent"
+date: "2024-09-23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+```
+
+## Cleaning CCE_ground data
+#### Here we will clean CCE_ground data and fix any typos, inconsistencies, and other potential issues.
+
+
+```{r cce_ground}
+#read in the datafile
+cce_ground <- read.csv("data/working/raw/cce_ground.csv")
+
+#let's have a little preview
+head(cce_ground)
+
+#ok, this dataset is pretty big. 
+sort(unique(cce_ground$fire_scar))
+cce_ground <- cce_ground %>%
+  mutate(fire_scar = case_when(fire_scar == "Shovel creek" ~ "Shovel Creek",
+                               fire_scar == "Hess creek" ~ "Hess Creek", TRUE ~ fire_scar))
+
+#fix site name typos
+sort(unique(cce_ground$site))
+cce_ground <- cce_ground %>%
+  mutate(site = case_when(site == "MCCR6" ~ "McCr6",
+                          site == "HAYS5" ~ "Hays5", 
+                          site == "MCCR2" ~ "McCr2",
+                          site == "MCCR1" ~ "McCr1",
+                          site == "MCCR5" ~ "McCr5", 
+                          site == "HAYS6" ~ "Hays6",
+                          site == "MCCR4" ~ "McCr4", 
+                          site == "HAYS4" ~ "Hays4", TRUE ~ site))
+
+#let's move the one site that has location_other
+cce_ground <- cce_ground %>%
+  mutate(location = ifelse(location == "" | is.na(location), location_other, location))
+
+#then let's move ground_cover_other to ground_cover
+cce_ground <- cce_ground %>%
+  mutate(ground_cover_type = ifelse(ground_cover_type == "" | is.na(ground_cover_type), ground_cover_type_other, ground_cover_type))
+
+#there's one site note that changes the location. let's make that change in the location column
+cce_ground <- cce_ground %>%
+  mutate(location = ifelse(site_notes == "0m, not 9m. Entered as 9 due to fulcrum set up.", "0 m", location))
+
+#perhaps let's add a project column
+cce_ground <- cce_ground %>%
+  mutate(project = "CCE")
+
+#let's clean up our columns
+cce_ground <- select(cce_ground, date, fire_scar, site, plot, location, site_notes, ground_cover_type, ground_percent_cover, ground_cover_notes)
+
+write.csv(cce_ground, file = "data/working/clean/cce_ground.csv")
+```
+
+#### These data are now clean and ready for analysis. I removed photos from this clean version, but the photo IDs still exist in the working/raw folder. Percentages per plot can be more than 100%, but just counting trace. For example, the total per plot can be 100.7%, and this would indicate that there were 7 counts of things that were only trace.

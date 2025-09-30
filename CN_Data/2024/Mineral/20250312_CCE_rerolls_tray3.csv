@@ -1,0 +1,9 @@
+,,Sample,Sample ID,Sample Amount,Nitrogen,Nitrogen,Nitrogen,Nitrogen,Nitrogen,Nitrogen,Nitrogen,Carbon,Carbon,Carbon,Carbon,Carbon,Carbon,Carbon,,,
+,,,,,Reten. Time [min],Response,Weight [mg],Weight [%],Peak Type,Element Name,Carbon Response Ratio,Reten. Time [min],Response,Weight [mg],Weight [%],Peak Type,Element Name,Carbon Response Ratio,notes,corrected percent n,corrected percent c
+CCE-278_3_12_2025 2_24_37 PM_043,INT7 - 1,CCE-278,CCE278,30.007,2.04,211.888,0.033,0.11,Ordnr,Nitrogen,0.03,3.38,7115.609,0.423,1.41,Ordnr,Carbon,1,,0.117333,1.558911
+CCE-329_3_12_2025 2_30_38 PM_044,INT7 - 1,CCE-329,CCE329,30.006,2.02,117.332,0.018,0.06,Ordnr,Nitrogen,0.024,3.4,4855.156,0.282,0.94,Ordnr,Carbon,1,,0.064,1.039274
+CCE-67_3_12_2025 2_36_39 PM_045,INT7 - 1,CCE-67,CCE67,20.008,2.04,296.265,0.045,0.23,Ordnr,Nitrogen,0.021,3.3,14446.183,0.899,4.49,Ordnr,Carbon,1,,0.245333,4.964191
+CCE-111_3_12_2025 2_42_40 PM_046,INT7 - 1,CCE-111,CCE111,20.008,2.02,222.394,0.034,0.17,Ordnr,Nitrogen,0.02,3.34,11067.983,0.676,3.38,Ordnr,Carbon,1,,0.181333,3.736964
+CCE-263_3_12_2025 2_48_41 PM_047,INT7 - 1,CCE-263,CCE263,20.004,2.02,191.167,0.029,0.15,Ordnr,Nitrogen,0.018,3.34,10537.903,0.642,3.21,Ordnr,Carbon,1,,0.16,3.54901
+BRS4_3_12_2025 3_21_53 PM_048,INT7 - 1,BRS4,BRS4,10.18,2,123.956,0.019,0.19,Ordnr,Nitrogen,0.023,3.38,5457.764,0.319,3.13,Ordnr,Carbon,1,,0.202667,3.460561
+CCE-338_3_12_2025 3_27_53 PM_049,INT7 - 1,CCE-338,CCE338,20,2.02,54.757,0.009,0.04,Ordnr,Nitrogen,0.021,3.44,2590.884,0.142,0.71,Ordnr,Carbon,1,,0.042667,0.784983

@@ -1,0 +1,58 @@
+---
+title: "cce_browns_cleaning"
+author: "Weronika Konwent"
+date: "2024-09-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+```
+
+## Cleaning CCE_browns data
+#### Here we will clean CCE_browns data and fix any typos, inconsistencies, and other potential issues.
+
+```{r cce_browns}
+#read in the datafile
+cce_browns <- read.csv("data/working/raw/cce_browns.csv")
+
+#let's have a little preview
+head(cce_browns)
+
+#the data themselves look great. but we need to make sure all fire_scars and sites are standardized. 
+
+#let's start with fixing up fire_scar
+sort(unique(cce_browns$fire_scar))
+cce_browns <- cce_browns %>%
+  mutate(fire_scar = case_when(
+    fire_scar == "Lost horse" ~ "Lost Horse",
+    fire_scar == "Lost horse " ~ "Lost Horse",
+    fire_scar == "Hess Creek\n" ~ "Hess Creek",
+    fire_scar == "Hess creek" ~ "Hess Creek",
+    fire_scar == "McCoy creek" ~ "McCoy Creek",
+    fire_scar == "Munson Creek " ~ "Munson Creek",
+    fire_scar == "Teklanika " ~ "Teklanika",
+    fire_scar == "Dry Creek " ~ "Dry Creek", TRUE ~ fire_scar))
+
+
+#next, fix site name typos
+sort(unique(cce_browns$site))
+cce_browns <- cce_browns %>%
+  mutate(site = case_when(site == "LOHO3" ~ "LoHo3",
+                          site == "LoHo1 " ~ "LoHo1", 
+                          site == "ShCr1 " ~ "ShCr1",TRUE ~ site))
+
+#perhaps let's add a project column
+cce_browns <- cce_browns %>%
+  mutate(project = "CCE")
+
+#let's clean up our columns
+cce_browns <- select(cce_browns, project, date, fire_scar, site, plot, count_1_hr, count_10_hr, count_100_hr, count_1000_hr)
+
+#that should be everything! these data are clean and ready for analysis
+write.csv(cce_browns, file = "data/working/clean/cce_browns.csv")
+```
+
+#### These data are now clean and ready for analysis. 

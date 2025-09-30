@@ -1,0 +1,9 @@
+﻿Column Name,Unit,Description
+date,date,date of field data collection
+fire_scar,name,name of fire scar
+site,id,site id used in the field
+plot,letter,"A, B, or C plot within a site"
+cwd_species,name,name of identified species for the piece of coarse woody debris
+diameter,cm,diameter measured for the piece of coarse woody debris that interected the transect line
+decay_class,class,"estimation of decay class from Manies et al 2005 (hard, crumbly, or soft)"
+combustion,%,estimation of percent of the piece of coarse woody debris that burned in the most recent fire

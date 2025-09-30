@@ -1,0 +1,11 @@
+﻿Variable,units,description
+date,date,Sampling datt
+fire_scar,name,Fire scar name
+site,number,Site number
+plot,letter,"Plot name (A, B, C)"
+location,name,location in plot 
+species,name,seedling species
+seedling_count,count,number of seedlings of each species in a plot
+bd1,mm,basal diameter of one seedling
+bd2,mm,basal diameter of one seedling
+bd3,mm,basal diameter of one seedling

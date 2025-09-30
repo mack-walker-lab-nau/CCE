@@ -1,0 +1,63 @@
+---
+title: "cce_trees_cleaning"
+author: "Weronika Konwent"
+date: "2024-09-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+library(tidyr)
+```
+
+## Cleaning CCE_trees data
+#### Here we will clean CCE_trees data and fix any typos, inconsistencies, and other potential issues.
+
+
+```{r cce_trees}
+#read in the datafile
+cce_trees <- read.csv("data/working/raw/cce_trees.csv")
+
+#let's have a little preview
+head(cce_trees)
+
+#ok, this dataset is BIG. luckily, fire_scars look good! A few sites to fix. will fix up the dead/alive column, but I think everything else will come out in the analysis wash...
+sort(unique(cce_trees$fire_scar))
+
+#fix site name typos
+sort(unique(cce_trees$site))
+cce_trees <- cce_trees %>%
+  mutate(site = case_when(site == "LOHO1" ~ "LoHo1",
+                          site == "LOHO2" ~ "LoHo2", 
+                          site == "LOHO3" ~ "LoHo3",
+                          site == "MCCR1" ~ "McCr1", TRUE ~ site))
+
+#regarding dead/alive...I think the best step will be to fill in all of the blank spots in that column with dead, which is the assumption. maybe also nice to lowercase everything?
+cce_trees <- cce_trees %>%
+  mutate(livedead = case_when(livedead == "" ~ "dead",                    
+                              livedead == "Dead Snag" ~ "dead", TRUE ~ livedead)) %>%
+  mutate(livedead = tolower(livedead))
+
+#there seems to be one row that wasn't filled out all of the way. I will delete it.
+cce_trees <- cce_trees %>%
+  filter(!is.na(livedead))
+
+#let's mutate the count column so that each row is it's own observation
+cce_trees <- cce_trees %>%
+  #first we have to change all of the blanks to 1s
+  mutate(count = ifelse(count == "" | is.na(count), 1, as.numeric(count))) %>%
+  uncount(weights = count)
+
+#perhaps let's add a project column
+cce_trees <- cce_trees %>%
+  mutate(project = "CCE")
+
+#let's clean up our columns
+cce_trees <- select(cce_trees, project, date, fire_scar, site, plot, tree_species, standing, snag_pre_fire, dbh, basal_diameter, cone_combustion, foliage_combustion, fine_combustion, coarse_combustion, stem_combustion, livedead, tree_notes)
+
+write.csv(cce_trees, file = "data/working/clean/cce_trees.csv")
+```
+
+#### These data are now clean and ready for analysis. No notes, no weirdness

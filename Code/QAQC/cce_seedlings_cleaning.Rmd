@@ -1,0 +1,82 @@
+---
+title: "cce_seedlings_cleaning"
+author: "Weronika Konwent"
+date: "2024-09-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir="/Users/wk78/Library/CloudStorage/OneDrive-NorthernArizonaUniversity/R/CCE")
+library(dplyr)
+```
+
+## Cleaning CCE_seedlings data
+#### Here we will clean CCE_seedlings data and fix any typos, inconsistencies, and other potential issues.
+
+```{r cce_seedlings}
+#read in the datafile
+cce_seedlings <- read.csv("data/working/raw/cce_seedlings.csv")
+
+#let's have a little preview
+head(cce_seedlings)
+
+#some clean up of sites and fire_scars
+sort(unique(cce_seedlings$fire_scar))
+cce_seedlings <- cce_seedlings %>%
+  mutate(fire_scar = case_when(fire_scar == "Shovel creek" ~ "Shovel Creek",
+                               fire_scar == "Hess creek" ~ "Hess Creek", TRUE ~ fire_scar))
+
+#fix site name typos
+sort(unique(cce_seedlings$site))
+cce_seedlings <- cce_seedlings %>%
+  mutate(site = case_when(site == "MCCR6" ~ "McCr6",
+                          site == "HAYS5" ~ "Hays5", 
+                          site == "MCCR2" ~ "McCr2",
+                          site == "MCCR1" ~ "McCr1",
+                          site == "MCCR5" ~ "McCr5", 
+                          site == "HAYS6" ~ "Hays6",
+                          site == "MCCR4" ~ "McCr4", 
+                          site == "HAYS4" ~ "Hays4", TRUE ~ site))
+
+#let's check that there's no weirdness with species
+sort(unique(cce_seedlings$species_))
+
+#well first step is renaming that column
+cce_seedlings <- cce_seedlings %>%
+  rename(species = species_)
+
+#let's move the one site that has location_other
+cce_seedlings <- cce_seedlings %>%
+  mutate(location = ifelse(location == "" | is.na(location), location_other, location))
+
+#there's one site note that changes the location. let's make that change in the location column
+cce_seedlings <- cce_seedlings %>%
+  mutate(location = ifelse(site_notes == "0m, not 9m. Entered as 9 due to fulcrum set up.", "0 m", location))
+
+#ok, first problem I see is that sometimes a bd was accidentally put in seedling notes. i think the best way to fix this is to paste those numbers in bd3
+cce_seedlings <- cce_seedlings %>%
+  mutate(bd3 = ifelse(!is.na(seedling_notes) & seedling_notes != "", seedling_notes, bd3))
+
+#next problem is that in HeCr5C 9 we have a seedling count of 0, but with two bds. will change the count here to 2
+cce_seedlings <- cce_seedlings %>%
+  mutate(seedling_count = ifelse(seedling_count == 0, 2, seedling_count))
+
+###remove comments if we want each row to be it's own observation
+#let's mutate the count column so that each row is it's own observation
+#cce_seedlings <- cce_seedlings %>%
+  #first we have to change all of the blanks to 1s
+#  mutate(seedling_count = ifelse(seedling_count == "" | is.na(seedling_count), 1, as.numeric(seedling_count))) %>%
+#  uncount(weights = seedling_count)
+
+#perhaps let's add a project column
+cce_seedlings <- cce_seedlings %>%
+  mutate(project = "CCE")
+
+#let's clean up our columns; there was no rbd3, so I removed it
+cce_seedlings <- select(cce_seedlings, date, project, fire_scar, site, plot, location, site_notes, seedlings_present, species, seedling_count, bd1, bd2, bd3)
+
+write.csv(cce_seedlings, file = "data/working/clean/cce_seedlings.csv")
+```
+
+#### These data are now clean and ready for analysis. I removed photos from this clean version, but the photo IDs still exist in the working/raw folder. I did not change the count column so that each row is it's own observation. the code for that has been commented out at line 65

@@ -1,0 +1,17 @@
+﻿Column Name,Unit,Description
+date,date,date data was collected in the field
+fire_scar,name,name of fire scar
+site,id,site id used in the field
+plot,letter,"A, B, or C plot within a site"
+tree_species,name,species of tree
+standing,yes/no,is the tree still standing?
+snag_pre_fire,yes/no,is the tree prefire snage? (yes)
+alive,yes/no,is the tree alive (no)
+dbh,cm,diameter at breast height
+basal_diameter,cm,basal diameter if tree is shorter than dbh
+cone_combustion,%,the estimated percent of cone combustion from recent fire
+foliage_combustion,%,the estimated percent of foliage combustion from recent fire
+fine_combustion,%,the estimated percent of fine branches combustion from recent fire
+coarse_combustion,%,the estimated percent of coarse branches combustion from recent fire
+stem_combustion,%,the estimated percent of stem combustion from recent fire
+tree_notes,notes,general notes
