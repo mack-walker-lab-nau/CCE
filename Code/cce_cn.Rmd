@@ -1,0 +1,187 @@
+---
+title: "cce_cn"
+author: "Helena Kleiner"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+date created: 5 February 2025
+date modified: 21 March 2025
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Objective
+To merge the CCE CN results with the broader metadata about the project. 
+
+## Set-up
+```{r}
+rm(list = ls())
+
+library(tidyverse)
+library(stringr)
+library(janitor)
+
+
+cce_cn1 <- read_csv("../data/raw/cce_cn/120324 CCE min 2024 Tray 1.csv")
+cce_cn2 <- read_csv("../data/raw/cce_cn/012925_CCE_Tray2n3_CAFI_Behrens_Ash.csv")
+cce_cn3 <- read_csv("../data/raw/cce_cn/012825_CCE_Walker_Mineral_Tray_4.csv")
+cce_cn4 <- read_csv("../data/raw/cce_cn/012725_CCE_Walker_mineral_tray5.csv")
+cce_cn5 <- read_csv("../data/raw/cce_cn/021325 CCE Min Soils 2024 Rerolls Tray1.csv")
+cce_cn6 <- read_csv("../data/raw/cce_cn/021325 CCE Min Soils 2024 Rerolls Tray2.csv")
+cce_cn7 <- read_csv("../data/raw/cce_cn/20250312_CCE_rerolls_tray3.csv")
+cce_metadata <- read_csv("../data/raw/cce_cn/CCE mineral soil datasheet fall24_02052025.csv") # update this file once I resolve the comments 
+```
+
+## Clean up CN data
+```{r}
+# Identify samples that we are rerolling 
+reroll <- c(8, 9, 12, 18, 21, 24, 27, 30, 33, 35, 36, 38, 39, 41, 42, 45, 54,
+            56, 62, 65, 71, 74, 80, 87, 89, 94, 97, 98, 106, 118, 121, 124,
+            126, 127, 135, 136, 139, 141, 142, 145, 146, 147, 150, 153, 161,
+            166, 170, 175, 178, 179, 184, 185, 188, 196, 197, 199, 200, 211,
+            215, 228, 230, 231, 234, 236, 237, 240, 242, 245, 247, 250,
+            259, 274, 278, 280, 281, 286, 289, 292, 294, 298, 300, 301, 305,
+            306, 307, 310, 315, 318, 320, 321, 323, 324, 326, 327, 
+            329, # double check 329 since the latest reroll (reroll tray 3) was still below detection limit. if it's below detection limit and not worth rerolling 3rd time - can double check w XW about this. if not rerolled, you can use C content, probably, but remove N content depending on where if falls w the calibration curve 
+            330, 332, 334, 335, 337, 340, 343, 344)
+
+```
+
+```{r}
+# move column values from column 4 into column 3 to ensure the sample names transfer
+cce_cn2 %>% 
+  mutate(Sample = `Sample ID`) -> cce_cn2
+
+```
+
+
+For all analyzed datasets: 
+- Convert row 1 to be the column name
+- Clean column names with snake_case
+- Ensure column names are the same in all trays / sets
+- Delete standards ("Peach", "Apple", "Bypass", etc)
+- Parse out the sample number (sample_num, e.g. 23)
+- Use a loop to reach all dataframes 
+
+```{r}
+# Create a vector with the names of the processed dataframes/CSVs (for looping our modifications)
+csv_names <- c("cce_cn1", "cce_cn2", "cce_cn3", "cce_cn4", "cce_cn5", 
+               "cce_cn6", "cce_cn7")
+
+# Create a vector/list of standards to exclude from each dataframe/CSV
+standards_names <- c("Peach", "Apple", "Bypass", "BRS", "Schuur", "Behrens", "CAFI",
+                     "Std")
+
+# Create a function to apply desired transformations for each data frame
+modify_csv <- function(csv) {
+  csv %>% 
+    row_to_names(row_number = 1) %>% # making the first row the new column header
+    clean_names() %>%  # "cleaning" all names to snake_case
+    rename(mass_spec_id = na,
+           sample_id = na_3, # sample id 
+           sample_num = na_4, # sample number (#)
+           sample_mass_mg = na_5,
+           N_reten_time_min = reten_time_min,
+           N_response = response,
+           N_weight_mg = weight_mg,
+           N_percent = weight_percent,
+           NC_response_ratio = carbon_response_ratio,
+           C_reten_time_min = reten_time_min_2,
+           C_response = response_2,
+           C_weight_mg = weight_mg_2,
+           C_percent = weight_percent_2) %>% 
+    # Remove unneeded columns
+    select(-c(na_2, peak_type, element_name, peak_type_2, element_name_2, carbon_response_ratio_2)) %>%
+    # Filter out standards in sample_id column (Peach, Apple, etc.)
+    filter(!sapply(standards_names, function(name) grepl(paste0("^", name), sample_id)) %>%
+             rowSums() > 0) %>% 
+    select(-c(mass_spec_id, sample_num)) %>% 
+    arrange(sample_id)
+}
+
+# Iterate over the "csv_names" and apply the modifications according to "modify_csv"
+for(csv_name in csv_names) {
+  assign(csv_name, modify_csv(get(csv_name)))
+}
+# NOTE: You will receive 6 warning messages (one per dataframe) about "Row 1" not providing unique names, and to run clean_names() after row_to_names(). This has already been done in the code for the modify_csv function, but the warning message(s) remain. Feel free to ignore these warnings :)
+
+```
+
+## Merge CN data together
+```{r}
+# create Negate function 
+"%notin%" <- Negate("%in%")
+
+# bind all initial CN data together 
+cce_cn_pre_rerolls <- rbind(cce_cn1, cce_cn2, cce_cn3, cce_cn4)
+
+# create a vector of specific samples we need to remove
+remove <- c("2_2", "23_2", "17_1", "50_2", "160_2")
+
+
+cce_cn_pre_rerolls %>% 
+  # remove original samples that are being rerolled
+  filter(sample_id %notin% reroll) %>% 
+  # remove samples at test weights that are not usable 
+  filter(sample_id %notin% remove) %>% 
+  # rename samples that don't have usable names
+  mutate(sample_id = case_when(sample_id == "47 reroll" ~ 47,
+                               sample_id == "2_1" ~ 2,
+                               sample_id == "23_1" ~ 23,
+                               sample_id == "17_2" ~ 17, 
+                               sample_id == "50_1" ~ 50,
+                               sample_id == "160_1" ~ 160,
+                               T ~ as.numeric(sample_id)),
+         notes = NA) %>% 
+  # pick rows I want to keep
+  select(sample_id, N_percent, C_percent) -> cce_cn_pre_rerolls
+
+# remove these rerolls because samples burst or rolling weight was too high
+remove_cn5 <- c("CCE320", "CCE323", "CCE239", "CCE142")
+
+# clean up this one sample so we have the correct one 
+adjust_cn6 <- cce_cn6 %>% 
+  filter(sample_id == "CCE 236" & sample_mass_mg == 8.005) %>% 
+  mutate(sample_id = str_remove(sample_id, "^CCE ")) %>% 
+  select(sample_id, N_percent, C_percent)
+
+# clean up the formatting of the rerolls
+cce_cn5 %>% 
+  filter(sample_id %notin% remove_cn5) %>% 
+  mutate(sample_id = str_remove(sample_id, "^CCE|^CCCE")) %>% 
+  select(sample_id, N_percent, C_percent) -> cce_cn5
+
+# clean up the formatting of these rerolls 
+cce_cn6 %>% 
+  # remove this sample as it was resolved with "adjust_cn6" 
+  filter(sample_id != "CCE 236") %>% 
+  mutate(sample_id = str_remove(sample_id, "^CCE ")) %>% 
+  select(sample_id, N_percent, C_percent) -> cce_cn6
+
+# now merge the updated datasheet without the incorrect data with the rerolled samples
+rbind(cce_cn_pre_rerolls, cce_cn5, cce_cn6, cce_cn7, adjust_cn6) -> cce_cn
+
+# clean up environment
+keep_these <- c("cce_cn", "cce_metadata")
+
+rm(list = setdiff(ls(), keep_these))
+```
+
+## Merge CN data with metadata
+```{r}
+# match formatting between files that will be merged 
+cce_cn %>% 
+  rename("ID" = "sample_id") %>% 
+  mutate(ID = as.numeric(ID))-> cce_cn
+
+# merge files together 
+full_join(cce_metadata, cce_cn, by = "ID") -> test
+# missing in CN data: 67, 111, 263, 278, 329, 338 - these are in reroll tray 3 so hopefully resolved now 
+# why is there no metadata for 261? 
+
+# write data to save 
+```
+
